@@ -7,13 +7,14 @@ const getAllData = async () => {
   await axios.get("https://hawkeye-1.herokuapp.com/data").then((res) => {
     arr.push(res.data);
   });
+  console.log(arr);
 };
 
 getAllData();
 
 if (arr.length > 0) {
   for (let index = 0; index < arr[0].length; index++) {
-    axios.delete("http://localhost:3002/data", {
+    axios.delete("https://hawkeye-1.herokuapp.com/data", {
       id: arr[0][index].id,
     });
   }
