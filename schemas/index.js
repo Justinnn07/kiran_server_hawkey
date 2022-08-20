@@ -16,7 +16,7 @@ const schema = mongoose.Schema({
 
 schema.options.toJSON = {
   transform: function (doc, ret, options) {
-    delete ret._id;
+    ret._id = ret.id;
     delete ret._id;
     delete ret.__v;
     return ret;
