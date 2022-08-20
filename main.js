@@ -1,21 +1,8 @@
 const axios = require("axios");
 const data = require("./main.json");
 
-const arr = [];
-
-const getAllData = async () => {
-  await axios.get("https://hawkeye-1.herokuapp.com/data").then((res) => {
-    arr.push(res.data);
+for (let index = 0; index < data.length; index++) {
+  axios.post("http://localhost:3002/channel", data[index]).then((res) => {
+    console.log(res.data.success);
   });
-  console.log(arr);
-};
-
-getAllData();
-
-if (arr.length > 0) {
-  for (let index = 0; index < arr[0].length; index++) {
-    axios.delete("https://hawkeye-1.herokuapp.com/data", {
-      id: arr[0][index].id,
-    });
-  }
 }

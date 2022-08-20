@@ -23,5 +23,5 @@ schema.options.toJSON = {
   },
 };
 
-const Model = mongoose.model("channelData", schema);
-module.exports = Model;
+const Website = mongoose.model("websiteData", schema);
+module.exports = Website;
