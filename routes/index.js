@@ -65,10 +65,14 @@ Router.post("/website", (req, res) => {
   );
 });
 
-Router.get("/website", async (req, res) => {
+Router.get("/data", async (req, res) => {
   await Website.find({})
-    .then((data) => {
-      res.status(200).send(data);
+    .then((website) => {
+      Channel.find({})
+        .then((channel) => {
+          res.status(200).send({ website, channel });
+        })
+        .catch((err) => res.status(404).send(err));
     })
     .catch((err) => res.status(404).send(err));
 });
