@@ -2,6 +2,7 @@ const Router = require("express").Router();
 const Channel = require("../schemas/Channel.js");
 const Website = require("../schemas/Websites.js");
 const Ip = require("../schemas/Ip");
+const TopUsers = require("../schemas/topUsers.js");
 const { default: axios } = require("axios");
 const http = require("http");
 Router.get("/", (req, res) => {
@@ -80,7 +81,7 @@ Router.get("/data", async (req, res) => {
 // twitter routes
 
 Router.get("/twitter/data", async (req, res) => {
-  axios
+  await axios
     .get("https://api.twitter.com/1.1/trends/place.json?id=23424848", {
       headers: {
         Authorization:
@@ -96,14 +97,14 @@ Router.get("/twitter/data", async (req, res) => {
 });
 
 Router.get("/twitter/users", async (req, res) => {
-  axios
+  await axios
     .get("https://api.twitter.com/1.1/users/search.json?q=news", {
       headers: {
         Authorization:
           "bearer AAAAAAAAAAAAAAAAAAAAABXZgAEAAAAAQj2ifxxrJgCMvHbDajwCZOQUmxc%3DWdN0Uj0ygPFuVNCk6ICm0hHpKqCjhsvo1JkeJ83Sn0HTdCqzWj",
       },
     })
-    .then(({ data }) => {
+    .then((data) => {
       res.status(200).send(data);
     });
 });
@@ -129,5 +130,29 @@ Router.post("/ip", async (req, res) => {
       });
     } catch (error) {}
   });
+});
+
+Router.post("/top-users", async (req, res) => {
+  const newData = new TopUsers(req.body);
+
+  try {
+    newData.save((err) => {
+      if (err) {
+        res.status(404).send({ success: false });
+      } else {
+        res.status(200).send({ success: true });
+      }
+    });
+  } catch (error) {
+    res.status(404).send({ success: false });
+  }
+});
+
+Router.get("/top-users", async (req, res) => {
+  await TopUsers.find({})
+    .then((resp) => {
+      res.status(200).send(resp);
+    })
+    .catch((err) => res.status(400).send({ success: false }));
 });
 module.exports = Router;

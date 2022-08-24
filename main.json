@@ -1,364 +1,72 @@
 [
   {
-    "trends": [
-      {
-        "name": "#दावे_की_पड़ताल",
-        "url": "http://twitter.com/search?q=%23%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A5%87_%E0%A4%95%E0%A5%80_%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A4%A4%E0%A4%BE%E0%A4%B2",
-        "promoted_content": null,
-        "query": "%23%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A5%87_%E0%A4%95%E0%A5%80_%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A4%A4%E0%A4%BE%E0%A4%B2",
-        "tweet_volume": 47141
-      },
-      {
-        "name": "#GrandMarshalAlluArjunAtNYC",
-        "url": "http://twitter.com/search?q=%23GrandMarshalAlluArjunAtNYC",
-        "promoted_content": null,
-        "query": "%23GrandMarshalAlluArjunAtNYC",
-        "tweet_volume": 60395
-      },
-      {
-        "name": "#PushpaTheRule",
-        "url": "http://twitter.com/search?q=%23PushpaTheRule",
-        "promoted_content": null,
-        "query": "%23PushpaTheRule",
-        "tweet_volume": 37911
-      },
-      {
-        "name": "#UPIpayment",
-        "url": "http://twitter.com/search?q=%23UPIpayment",
-        "promoted_content": null,
-        "query": "%23UPIpayment",
-        "tweet_volume": null
-      },
-      {
-        "name": "#AndhraThanosJaganReddy",
-        "url": "http://twitter.com/search?q=%23AndhraThanosJaganReddy",
-        "promoted_content": null,
-        "query": "%23AndhraThanosJaganReddy",
-        "tweet_volume": 23551
-      },
-      {
-        "name": "BOYCOTT GANG TMKC",
-        "url": "http://twitter.com/search?q=%22BOYCOTT+GANG+TMKC%22",
-        "promoted_content": null,
-        "query": "%22BOYCOTT+GANG+TMKC%22",
-        "tweet_volume": 114843
-      },
-      {
-        "name": "ADIEU SENSATIONAL KIARA",
-        "url": "http://twitter.com/search?q=%22ADIEU+SENSATIONAL+KIARA%22",
-        "promoted_content": null,
-        "query": "%22ADIEU+SENSATIONAL+KIARA%22",
-        "tweet_volume": 28848
-      },
-      {
-        "name": "CBI4SSR Two Years",
-        "url": "http://twitter.com/search?q=%22CBI4SSR+Two+Years%22",
-        "promoted_content": null,
-        "query": "%22CBI4SSR+Two+Years%22",
-        "tweet_volume": 49996
-      },
-      {
-        "name": "QUEEN SUMBUL SUPREMACY",
-        "url": "http://twitter.com/search?q=%22QUEEN+SUMBUL+SUPREMACY%22",
-        "promoted_content": null,
-        "query": "%22QUEEN+SUMBUL+SUPREMACY%22",
-        "tweet_volume": 37697
-      },
-      {
-        "name": "WE ARE WITH YOU ASIM",
-        "url": "http://twitter.com/search?q=%22WE+ARE+WITH+YOU+ASIM%22",
-        "promoted_content": null,
-        "query": "%22WE+ARE+WITH+YOU+ASIM%22",
-        "tweet_volume": 50147
-      },
-      {
-        "name": "Netherlands",
-        "url": "http://twitter.com/search?q=Netherlands",
-        "promoted_content": null,
-        "query": "Netherlands",
-        "tweet_volume": 21355
-      },
-      {
-        "name": "Gallagher",
-        "url": "http://twitter.com/search?q=Gallagher",
-        "promoted_content": null,
-        "query": "Gallagher",
-        "tweet_volume": 14081
-      },
-      {
-        "name": "Pooja Ceremony",
-        "url": "http://twitter.com/search?q=%22Pooja+Ceremony%22",
-        "promoted_content": null,
-        "query": "%22Pooja+Ceremony%22",
-        "tweet_volume": 15965
-      },
-      {
-        "name": "JOONIE",
-        "url": "http://twitter.com/search?q=JOONIE",
-        "promoted_content": null,
-        "query": "JOONIE",
-        "tweet_volume": 10287
-      },
-      {
-        "name": "PHENOMENAL AK YASMINE",
-        "url": "http://twitter.com/search?q=%22PHENOMENAL+AK+YASMINE%22",
-        "promoted_content": null,
-        "query": "%22PHENOMENAL+AK+YASMINE%22",
-        "tweet_volume": 10551
-      },
-      {
-        "name": "Tyagi",
-        "url": "http://twitter.com/search?q=Tyagi",
-        "promoted_content": null,
-        "query": "Tyagi",
-        "tweet_volume": 22860
-      },
-      {
-        "name": "Bihari",
-        "url": "http://twitter.com/search?q=Bihari",
-        "promoted_content": null,
-        "query": "Bihari",
-        "tweet_volume": null
-      },
-      {
-        "name": "Realme 9 Pro 5G",
-        "url": "http://twitter.com/search?q=%22Realme+9+Pro+5G%22",
-        "promoted_content": null,
-        "query": "%22Realme+9+Pro+5G%22",
-        "tweet_volume": null
-      },
-      {
-        "name": "Realme 9 5G",
-        "url": "http://twitter.com/search?q=%22Realme+9+5G%22",
-        "promoted_content": null,
-        "query": "%22Realme+9+5G%22",
-        "tweet_volume": null
-      },
-      {
-        "name": "SHAME ON DREAMIYATA",
-        "url": "http://twitter.com/search?q=%22SHAME+ON+DREAMIYATA%22",
-        "promoted_content": null,
-        "query": "%22SHAME+ON+DREAMIYATA%22",
-        "tweet_volume": null
-      },
-      {
-        "name": "Paytm",
-        "url": "http://twitter.com/search?q=Paytm",
-        "promoted_content": null,
-        "query": "Paytm",
-        "tweet_volume": null
-      },
-      {
-        "name": "Rooney",
-        "url": "http://twitter.com/search?q=Rooney",
-        "promoted_content": null,
-        "query": "Rooney",
-        "tweet_volume": 25044
-      },
-      {
-        "name": "Cash",
-        "url": "http://twitter.com/search?q=Cash",
-        "promoted_content": null,
-        "query": "Cash",
-        "tweet_volume": 199226
-      },
-      {
-        "name": "Karan",
-        "url": "http://twitter.com/search?q=Karan",
-        "promoted_content": null,
-        "query": "Karan",
-        "tweet_volume": 49789
-      },
-      {
-        "name": "Hrithik Roshan",
-        "url": "http://twitter.com/search?q=%22Hrithik+Roshan%22",
-        "promoted_content": null,
-        "query": "%22Hrithik+Roshan%22",
-        "tweet_volume": 14585
-      },
-      {
-        "name": "Sushant Singh Rajput",
-        "url": "http://twitter.com/search?q=%22Sushant+Singh+Rajput%22",
-        "promoted_content": null,
-        "query": "%22Sushant+Singh+Rajput%22",
-        "tweet_volume": 22695
-      },
-      {
-        "name": "शिक्षा मंत्री",
-        "url": "http://twitter.com/search?q=%22%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE+%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%22",
-        "promoted_content": null,
-        "query": "%22%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE+%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%22",
-        "tweet_volume": 35649
-      },
-      {
-        "name": "पूर्व मुख्यमंत्री",
-        "url": "http://twitter.com/search?q=%22%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5+%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%22",
-        "promoted_content": null,
-        "query": "%22%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5+%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%22",
-        "tweet_volume": 33742
-      },
-      {
-        "name": "कल्याण सिंह",
-        "url": "http://twitter.com/search?q=%22%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%22",
-        "promoted_content": null,
-        "query": "%22%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%22",
-        "tweet_volume": 37803
-      },
-      {
-        "name": "Ajax",
-        "url": "http://twitter.com/search?q=Ajax",
-        "promoted_content": null,
-        "query": "Ajax",
-        "tweet_volume": 60740
-      },
-      {
-        "name": "KCON",
-        "url": "http://twitter.com/search?q=KCON",
-        "promoted_content": null,
-        "query": "KCON",
-        "tweet_volume": 1362579
-      },
-      {
-        "name": "#CobraTrailer",
-        "url": "http://twitter.com/search?q=%23CobraTrailer",
-        "promoted_content": null,
-        "query": "%23CobraTrailer",
-        "tweet_volume": 13018
-      },
-      {
-        "name": "#HappySidNaazOnDanceDeewane",
-        "url": "http://twitter.com/search?q=%23HappySidNaazOnDanceDeewane",
-        "promoted_content": null,
-        "query": "%23HappySidNaazOnDanceDeewane",
-        "tweet_volume": 55951
-      },
-      {
-        "name": "#PrinceSkFestOnDiwali",
-        "url": "http://twitter.com/search?q=%23PrinceSkFestOnDiwali",
-        "promoted_content": null,
-        "query": "%23PrinceSkFestOnDiwali",
-        "tweet_volume": null
-      },
-      {
-        "name": "#NEDvPAK",
-        "url": "http://twitter.com/search?q=%23NEDvPAK",
-        "promoted_content": null,
-        "query": "%23NEDvPAK",
-        "tweet_volume": null
-      },
-      {
-        "name": "#amitshahwithntr",
-        "url": "http://twitter.com/search?q=%23amitshahwithntr",
-        "promoted_content": null,
-        "query": "%23amitshahwithntr",
-        "tweet_volume": 20691
-      },
-      {
-        "name": "#Noidawoman",
-        "url": "http://twitter.com/search?q=%23Noidawoman",
-        "promoted_content": null,
-        "query": "%23Noidawoman",
-        "tweet_volume": null
-      },
-      {
-        "name": "#LEECHE",
-        "url": "http://twitter.com/search?q=%23LEECHE",
-        "promoted_content": null,
-        "query": "%23LEECHE",
-        "tweet_volume": 30040
-      },
-      {
-        "name": "#UPICharges",
-        "url": "http://twitter.com/search?q=%23UPICharges",
-        "promoted_content": null,
-        "query": "%23UPICharges",
-        "tweet_volume": null
-      },
-      {
-        "name": "#HariHaraVeeraMallu",
-        "url": "http://twitter.com/search?q=%23HariHaraVeeraMallu",
-        "promoted_content": null,
-        "query": "%23HariHaraVeeraMallu",
-        "tweet_volume": 12103
-      },
-      {
-        "name": "#HouseoftheDragon",
-        "url": "http://twitter.com/search?q=%23HouseoftheDragon",
-        "promoted_content": null,
-        "query": "%23HouseoftheDragon",
-        "tweet_volume": 34930
-      },
-      {
-        "name": "#HBDMegastarChiranjeevi",
-        "url": "http://twitter.com/search?q=%23HBDMegastarChiranjeevi",
-        "promoted_content": null,
-        "query": "%23HBDMegastarChiranjeevi",
-        "tweet_volume": 29764
-      },
-      {
-        "name": "#रितिक_रोशन_माफी_मांग",
-        "url": "http://twitter.com/search?q=%23%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8_%E0%A4%AE%E0%A4%BE%E0%A4%AB%E0%A5%80_%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%97",
-        "promoted_content": null,
-        "query": "%23%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8_%E0%A4%AE%E0%A4%BE%E0%A4%AB%E0%A5%80_%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%97",
-        "tweet_volume": 65976
-      },
-      {
-        "name": "#ISupportDrMaheshSharma",
-        "url": "http://twitter.com/search?q=%23ISupportDrMaheshSharma",
-        "promoted_content": null,
-        "query": "%23ISupportDrMaheshSharma",
-        "tweet_volume": 29030
-      },
-      {
-        "name": "#GodFatherTeaser",
-        "url": "http://twitter.com/search?q=%23GodFatherTeaser",
-        "promoted_content": null,
-        "query": "%23GodFatherTeaser",
-        "tweet_volume": null
-      },
-      {
-        "name": "#BabarAzam𓃵",
-        "url": "http://twitter.com/search?q=%23BabarAzam%F0%93%83%B5",
-        "promoted_content": null,
-        "query": "%23BabarAzam%F0%93%83%B5",
-        "tweet_volume": null
-      },
-      {
-        "name": "#MotoGP",
-        "url": "http://twitter.com/search?q=%23MotoGP",
-        "promoted_content": null,
-        "query": "%23MotoGP",
-        "tweet_volume": 11369
-      },
-      {
-        "name": "#कल_UP_बंद_रहेगा",
-        "url": "http://twitter.com/search?q=%23%E0%A4%95%E0%A4%B2_UP_%E0%A4%AC%E0%A4%82%E0%A4%A6_%E0%A4%B0%E0%A4%B9%E0%A5%87%E0%A4%97%E0%A4%BE",
-        "promoted_content": null,
-        "query": "%23%E0%A4%95%E0%A4%B2_UP_%E0%A4%AC%E0%A4%82%E0%A4%A6_%E0%A4%B0%E0%A4%B9%E0%A5%87%E0%A4%97%E0%A4%BE",
-        "tweet_volume": 24699
-      },
-      {
-        "name": "#AustrianGP",
-        "url": "http://twitter.com/search?q=%23AustrianGP",
-        "promoted_content": null,
-        "query": "%23AustrianGP",
-        "tweet_volume": 25678
-      },
-      {
-        "name": "#realme9series",
-        "url": "http://twitter.com/search?q=%23realme9series",
-        "promoted_content": null,
-        "query": "%23realme9series",
-        "tweet_volume": null
-      }
-    ],
-    "as_of": "2022-08-21T13:09:35Z",
-    "created_at": "2022-08-17T02:24:36Z",
-    "locations": [
-      {
-        "name": "India",
-        "woeid": 23424848
-      }
-    ]
+    "name": "Rajat Sharma",
+    "instagram": "https://www.instagram.com/rajatsharmalive/?hl=en",
+    "facebook": "https://www.facebook.com/RajatSharmaLive",
+    "twitter": "https://twitter.com/RajatSharmaLive?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "channel": "India TV"
+  },
+  {
+    "name": "Rajdeep Sardesai",
+    "instagram": "https://www.instagram.com/rajdeep_sardesai/?hl=en",
+    "facebook": "https://www.facebook.com/rajdeepsardesai",
+    "twitter": "https://twitter.com/sardesairajdeep?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "channel": "India Today"
+  },
+  {
+    "name": "Sudhir Choudhary",
+    "instagram": "https://www.instagram.com/sudhirchaudhary72/?hl=en",
+    "facebook": "https://www.facebook.com/sudhirchaudhary.72",
+    "twitter": "https://twitter.com/sudhirchaudhary",
+    "channel": "Aaj Tak"
+  },
+  {
+    "name": "Sweta Singh",
+    "instagram": "https://www.instagram.com/swetasinghat/?hl=en",
+    "facebook": null,
+    "twitter": "https://twitter.com/swetasinghat?lang=en",
+    "channel": "Aaj Tak"
+  },
+  {
+    "name": "Ravish Kumar",
+    "instagram": "https://www.instagram.com/ravishndtv/?hl=en",
+    "facebook": "https://www.facebook.com/RavishKaPage",
+    "twitter": "https://twitter.com/ravishndtv",
+    "channel": "NDTV India"
+  },
+  {
+    "name": "Anjana Om Kashyap",
+    "instagram": "https://www.instagram.com/anjanaomkashyap_aok/?hl=en",
+    "facebook": "https://www.facebook.com/anjanaom.kashyap.33/",
+    "twitter": "https://twitter.com/anjanaomkashyap?lang=en",
+    "channel": "Aaj Tak"
+  },
+  {
+    "name": "Nidhi Razdan",
+    "instagram": "https://www.instagram.com/razdannidhi/?hl=en",
+    "facebook": "https://www.facebook.com/nidhi.razdan.735",
+    "twitter": "https://twitter.com/nidhi?lang=en",
+    "channel": "NDTV India"
+  },
+  {
+    "name": "Arnab Goswami",
+    "instagram": "https://www.instagram.com/arnab_goswami_republictv/?hl=en",
+    "facebook": "https://www.facebook.com/arnab.fanpage",
+    "twitter": null,
+    "channel": "Republic Media Network"
+  },
+  {
+    "name": "Barkha Dutt",
+    "instagram": "https://www.instagram.com/barkha.dutt/?hl=en",
+    "facebook": "https://www.facebook.com/BarkhaDutt",
+    "twitter": "https://twitter.com/BDUTT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "channel": "MoJo Story"
+  },
+  {
+    "name": "Prannoy Roy",
+    "instagram": "https://www.instagram.com/_prannoy_roy/?hl=en",
+    "facebook": "https://www.facebook.com/profile.php?id=100044377841227",
+    "twitter": "https://twitter.com/prannoyroyndtv",
+    "channel": "BBC World News"
   }
 ]
