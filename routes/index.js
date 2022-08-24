@@ -91,10 +91,25 @@ Router.get("/twitter/data", async (req, res) => {
       },
     })
     .then(({ data }) => {
-      res.status(200).send(data[0].trends);
+      res.status(200).send(data.slice(0, 4));
     });
 });
 
+Router.get("/twitter/users", async (req, res) => {
+  axios
+    .get("https://api.twitter.com/1.1/users/search.json?q=news", {
+      headers: {
+        Authorization:
+          "bearer AAAAAAAAAAAAAAAAAAAAABXZgAEAAAAAQj2ifxxrJgCMvHbDajwCZOQUmxc%3DWdN0Uj0ygPFuVNCk6ICm0hHpKqCjhsvo1JkeJ83Sn0HTdCqzWj",
+      },
+      params: {
+        id: "23424848",
+      },
+    })
+    .then(({ data }) => {
+      res.status(200).send(data[0].trends);
+    });
+});
 Router.post("/ip", async (req, res) => {
   http.get({ host: req.body.ip }, function (resp) {
     const fixedData = new Ip({
