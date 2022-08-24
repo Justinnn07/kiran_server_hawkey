@@ -84,7 +84,7 @@ Router.get("/twitter/data", async (req, res) => {
     .get("https://api.twitter.com/1.1/trends/place.json?id=23424848", {
       headers: {
         Authorization:
-          "bearer AAAAAAAAAAAAAAAAAAAAABXZgAEAAAAAugs5n8ZUv9psUerhTi1r8UK03Ro%3DX240P1R17DihhKGsiv4Qe0IjjSQSrB4L7ShGDn8OhCTg1gPqQx",
+          "bearer AAAAAAAAAAAAAAAAAAAAABXZgAEAAAAAQj2ifxxrJgCMvHbDajwCZOQUmxc%3DWdN0Uj0ygPFuVNCk6ICm0hHpKqCjhsvo1JkeJ83Sn0HTdCqzWj",
       },
       params: {
         id: "23424848",
