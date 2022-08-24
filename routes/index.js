@@ -94,18 +94,6 @@ Router.get("/twitter/data", async (req, res) => {
     });
 });
 
-Router.get("/twitter/users", async (req, res) => {
-  await axios
-    .get("https://api.twitter.com/1.1/users/search.json?q=news", {
-      headers: {
-        Authorization:
-          "bearer AAAAAAAAAAAAAAAAAAAAABXZgAEAAAAAQj2ifxxrJgCMvHbDajwCZOQUmxc%3DWdN0Uj0ygPFuVNCk6ICm0hHpKqCjhsvo1JkeJ83Sn0HTdCqzWj",
-      },
-    })
-    .then((data) => {
-      res.status(200).send(data);
-    });
-});
 Router.post("/ip", async (req, res) => {
   http.get({ host: req.body.ip }, function (resp) {
     const fixedData = new Ip({
