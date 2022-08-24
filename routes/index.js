@@ -102,12 +102,9 @@ Router.get("/twitter/users", async (req, res) => {
         Authorization:
           "bearer AAAAAAAAAAAAAAAAAAAAABXZgAEAAAAAQj2ifxxrJgCMvHbDajwCZOQUmxc%3DWdN0Uj0ygPFuVNCk6ICm0hHpKqCjhsvo1JkeJ83Sn0HTdCqzWj",
       },
-      params: {
-        id: "23424848",
-      },
     })
     .then(({ data }) => {
-      res.status(200).send(data[0].trends);
+      res.status(200).send(data);
     });
 });
 Router.post("/ip", async (req, res) => {
