@@ -1,9 +1,9 @@
 const Router = require("express").Router();
 const Channel = require("../schemas/Channel.js");
 const Website = require("../schemas/Websites.js");
-const domainPing = require("domain-ping");
+const Ip = require("../schemas/Ip");
 const { default: axios } = require("axios");
-
+const http = require("http");
 Router.get("/", (req, res) => {
   res.status(200).send("Hello World");
 });
@@ -93,5 +93,29 @@ Router.get("/twitter/data", async (req, res) => {
     .then(({ data }) => {
       res.status(200).send(data[0].trends);
     });
+});
+
+Router.post("/ip", async (req, res) => {
+  http.get({ host: req.body.ip }, function (resp) {
+    const fixedData = new Ip({
+      code: resp.statusCode,
+      alive: resp.statusCode === 200 || 401 || 403 ? true : false,
+      ip: req.body.ip,
+    });
+
+    try {
+      fixedData.save((err) => {
+        if (err) {
+          res.status(400).send(err);
+        } else {
+          if (res.statusCode == 200) {
+            res.send("This site is up and running!");
+          } else {
+            res("This site might be down " + res.statusCode);
+          }
+        }
+      });
+    } catch (error) {}
+  });
 });
 module.exports = Router;
