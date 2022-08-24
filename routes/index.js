@@ -19,7 +19,7 @@ Router.get("/channel", async (req, res) => {
 });
 
 Router.post("/channel", (req, res) => {
-  domainPing(req.body.Link.replace("https://", "")).then((data) => {
+  domainPing(req.body.Link).then((data) => {
     const newData = new Channel({
       ip: data.ip,
       ...req.body,
@@ -48,22 +48,20 @@ Router.delete("/channel", (req, res) => {
 
 // Website Routes
 Router.post("/website", (req, res) => {
-  domainPing(req.body.Link.replace(".com/", "").replace(".in/", "")).then(
-    (data) => {
-      const newData = new Website({ ip: data.ip, ...req.body });
-      try {
-        newData.save((err) => {
-          if (err) {
-            res.status(400).send(err);
-          } else {
-            res.status(200).send({ success: true });
-          }
-        });
-      } catch (error) {
-        res.status(400).send(error);
-      }
+  domainPing(req.body.Link).then((data) => {
+    const newData = new Website({ ip: data.ip, ...req.body });
+    try {
+      newData.save((err) => {
+        if (err) {
+          res.status(400).send(err);
+        } else {
+          res.status(200).send({ success: true });
+        }
+      });
+    } catch (error) {
+      res.status(400).send(error);
     }
-  );
+  });
 });
 
 Router.get("/data", async (req, res) => {
