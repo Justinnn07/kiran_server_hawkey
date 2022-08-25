@@ -5,6 +5,8 @@ const Ip = require("../schemas/Ip");
 const TopUsers = require("../schemas/topUsers.js");
 const { default: axios } = require("axios");
 const http = require("http");
+const domainPing = require("domain-ping");
+
 Router.get("/", (req, res) => {
   res.status(200).send("Hello World");
 });
@@ -18,8 +20,8 @@ Router.get("/channel", async (req, res) => {
     .catch((err) => res.status(404).send(err));
 });
 
-Router.post("/channel", (req, res) => {
-  domainPing(req.body.Link).then((data) => {
+Router.post("/channel", async (req, res) => {
+  await domainPing(req.body.Link).then((data) => {
     const newData = new Channel({
       ip: data.ip,
       ...req.body,
@@ -47,8 +49,8 @@ Router.delete("/channel", (req, res) => {
 });
 
 // Website Routes
-Router.post("/website", async (req, res) => {
-  await domainPing(req.body.Link).then((data) => {
+Router.post("/website", (req, res) => {
+  domainPing(req.body.Link).then((data) => {
     const newData = new Website({ ip: data.ip, ...req.body });
     try {
       newData.save((err) => {
