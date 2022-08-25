@@ -24,7 +24,6 @@ Router.post("/channel", async (req, res) => {
   await domainPing(req.body.Link).then((data) => {
     const newData = new Channel({
       ip: data.ip,
-      phone: req.body.Phone.toString(),
       ...req.body,
     });
 
@@ -55,7 +54,6 @@ Router.post("/website", async (req, res) => {
     const newData = new Website({
       ip: data.ip,
       phone: req.body.Phone.toString(),
-      ...req.body,
     });
     try {
       newData.save((err) => {
