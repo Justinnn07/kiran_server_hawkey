@@ -3534,6 +3534,6 @@ array = [
 url='https://kiran-server-hawkey.vercel.app/website'
 
 
-for i in array:
-    r = requests.post(url=url, data=json.dumps(array[i]))
+for i in range(252):
+    r = requests.post(url=url, data=array[i])
     print(r)

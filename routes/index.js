@@ -85,7 +85,7 @@ Router.get("/data", async (req, res) => {
 
 Router.get("/twitter/data", async (req, res) => {
   await axios
-    .get("https://api.twitter.com/1.1/trends/place.json?id=23424848", {
+    .get("https://api.twitter.com/1.1/trends/place.json", {
       headers: {
         Authorization:
           "bearer AAAAAAAAAAAAAAAAAAAAABXZgAEAAAAAQj2ifxxrJgCMvHbDajwCZOQUmxc%3DWdN0Uj0ygPFuVNCk6ICm0hHpKqCjhsvo1JkeJ83Sn0HTdCqzWj",
