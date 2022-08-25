@@ -54,6 +54,7 @@ Router.post("/website", async (req, res) => {
     const newData = new Website({
       ip: data.ip,
       phone: req.body.Phone.toString(),
+      ...req.body,
     });
     try {
       newData.save((err) => {
