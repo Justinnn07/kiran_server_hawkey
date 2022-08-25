@@ -47,8 +47,8 @@ Router.delete("/channel", (req, res) => {
 });
 
 // Website Routes
-Router.post("/website", (req, res) => {
-  domainPing(req.body.Link).then((data) => {
+Router.post("/website", async (req, res) => {
+  await domainPing(req.body.Link).then((data) => {
     const newData = new Website({ ip: data.ip, ...req.body });
     try {
       newData.save((err) => {
