@@ -1,6 +1,7 @@
-[
+import requests
+arr=[
   {
-    "Name": "Kashmir Observer",
+    "Name": "Kahmir Observer",
     "Link": "kashmirobserver.net",
     "Address": "Kashmir Observer\nNo 5, Dal Lake Boulevard\nSrinagar-190001, Kashmir",
     "Phone": "194-2502327",
@@ -3528,3 +3529,12 @@
     "Views": "12,114"
   }
 ]
+
+url='https://kiran-server-hawkey.vercel.app/website'
+
+
+print(len(arr))
+
+for i in range(252):
+    r = requests.post(url=url, json=arr[i])
+    print(r)
