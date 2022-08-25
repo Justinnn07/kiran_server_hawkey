@@ -96,7 +96,7 @@ Router.get("/twitter/data", async (req, res) => {
       },
     })
     .then(({ data }) => {
-      res.status(200).send(data.slice(0, 4));
+      res.status(200).send(data[0].trends);
     });
 });
 
