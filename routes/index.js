@@ -21,10 +21,25 @@ Router.get("/channel", async (req, res) => {
 });
 
 Router.post("/channel", async (req, res) => {
-  await domainPing(req.body.Link).then((data) => {
+  if (req.body.Link !== null) {
+    await domainPing(req.body.Link).then((data) => {
+      const newData = new Channel({
+        ip: data.ip,
+        ...req.body,
+      });
+
+      newData.save((err) => {
+        if (err) {
+          res.status(400).send(err);
+        } else {
+          res.status(200).send({ success: true });
+        }
+      });
+    });
+  } else {
     const newData = new Channel({
-      ip: data.ip,
       ...req.body,
+      ip: "",
     });
 
     newData.save((err) => {
@@ -34,7 +49,7 @@ Router.post("/channel", async (req, res) => {
         res.status(200).send({ success: true });
       }
     });
-  });
+  }
 });
 
 Router.delete("/channel", (req, res) => {
@@ -56,17 +71,13 @@ Router.post("/website", async (req, res) => {
       phone: req.body.Phone.toString(),
       ...req.body,
     });
-    try {
-      newData.save((err) => {
-        if (err) {
-          res.status(400).send(err);
-        } else {
-          res.status(200).send({ success: true });
-        }
-      });
-    } catch (error) {
-      res.status(400).send(error);
-    }
+    newData.save((err) => {
+      if (err) {
+        res.status(400).send(err);
+      } else {
+        res.status(200).send({ success: true });
+      }
+    });
   });
 });
 
