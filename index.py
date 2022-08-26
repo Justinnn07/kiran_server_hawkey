@@ -7353,7 +7353,7 @@ arr=[
   }
 ]
 
-url='https://kiran-server-hawkey.vercel.app//channel'
+url='https://kiran-server-hawkey.vercel.app/channel'
 
 
 print(len(arr))
