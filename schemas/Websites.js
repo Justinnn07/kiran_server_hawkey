@@ -13,7 +13,7 @@ const schema = mongoose.Schema({
   Location: String,
   Views: String,
   ip: String,
-  timestamp: Date.now(),
+  timestamp: Number,
 });
 
 schema.options.toJSON = {

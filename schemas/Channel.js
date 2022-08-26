@@ -13,6 +13,7 @@ const schema = mongoose.Schema({
   Location: String,
   Views: String,
   ip: String,
+  timestamp: Number,
 });
 
 schema.options.toJSON = {
