@@ -10,7 +10,7 @@ arr=[
     "Facebook": "https://m.facebook.com/pg/Bizznewsgujarat/photos/",
     "Twitter": "https://twitter.com/bizznewsgujarat",
     "Instagram": "https://www.instagram.com/1yes_news/?hl=en",
-    "Youtube": "https://www.youtube.com/channel/UCJrkX_t-y41_SRaVwx8wmEw/null",
+    "Youtube": "https://www.youtube.com/channel/UCJrkX_t-y41_SRaVwx8wmEw/""",
     "Language": "Gujarati",
     "Location ": "GUJARAT",
     "Views": "387,970"
@@ -424,7 +424,7 @@ arr=[
   {
     "Name": "B News (earlier PRABHATAM NEWS MAHARASHTRA)",
     "Address": "No. 36, Old No. 1440, 13th main Road,\nanna nagar, Tamil Nadu-600040",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": 8736005498,
     "Facebook": "https://www.facebook.com/bnewsd",
@@ -438,9 +438,9 @@ arr=[
   {
     "Name": "News Time Bangla",
     "Address": "Godrej Waterside, Plot-B, Block-DP, Sector-V Kolkata, West Bengal, India 700091",
-    "Link": null,
+    "Link": "",
     "Email": "DAS.SHOVAN8@GMAIL.COM",
-    "Phone": null,
+    "Phone": "",
     "Facebook": "https://www.facebook.com/newstimebangla2018/",
     "Twitter": "https://twitter.com/newstimebangla",
     "Instagram": "https://www.instagram.com/News%20Time%20 Bangla/",
@@ -522,7 +522,7 @@ arr=[
   {
     "Name": "BULAND NEWS SAMACHAR PLUS\n(earlier LPS TV/ERA NEWS)",
     "Address": "H-174, Sec-63, Noida – 201301, Uttar Pradesh, India",
-    "Link": null,
+    "Link": "",
     "Email": "ddavdavp@gmail.com.",
     "Phone": "0120-4646347",
     "Facebook": "facebook.com/Samacharplus",
@@ -928,7 +928,7 @@ arr=[
   {
     "Name": "Gr8 India News",
     "Address": "9, 24, Block 8, South Patel Nagar, New DELHI, DELHI 110008",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": 8882222334,
     "Facebook": "https://www.facebook.com/GR8-INDIA-News-114351296635792/",
@@ -998,7 +998,7 @@ arr=[
   {
     "Name": "Headlines Today (Additional Feed)",
     "Address": "Mediaplex, FC-8, Sector - 16A, Film City, Noida, India, Uttar Pradesh",
-    "Link": null,
+    "Link": "",
     "Email": "media@headlinesoftoday.com.",
     "Phone": "0120 480 7100",
     "Facebook": "https://www.facebook.com/IndiaToday/",
@@ -1096,7 +1096,7 @@ arr=[
   {
     "Name": "IMAYAM TV",
     "Address": "No. 22, 1st Cross Street,2nd Avenue, Ashok Nagar, Tamil Nadu-600083",
-    "Link": null,
+    "Link": "",
     "Email": "imayamtv@hotmail.com",
     "Phone": "044 4313 5555",
     "Facebook": "https://www.facebook.com/imayamtelevision/",
@@ -1292,7 +1292,7 @@ arr=[
   {
     "Name": "India Watch(earlier INDIA NOW , Earlier ONE LIVE)",
     "Address": "No 16, Rana Pratap Marg, UPTEC Crossing, Pickup Colony, Butler Colony, Uttar Pradesh",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "0522 220 4333",
     "Facebook": "https://www.facebook.com/indiawatchup/",
@@ -1306,7 +1306,7 @@ arr=[
   {
     "Name": "Information Tv",
     "Address": "B-30, Janpath Marg, Block C, Sector 85, Noida, Uttar Pradesh",
-    "Link": null,
+    "Link": "",
     "Email": "legal@itvnetwork.com",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/Information-TV-191533484231046/",
@@ -1586,7 +1586,7 @@ arr=[
   {
     "Name": "Khabar Bharti",
     "Address": "Kaumudi Buildings\nPettah PO\nTVM - 695024",
-    "Link": null,
+    "Link": "",
     "Email": "news.khabarbharti@gmail.com",
     "Phone": 1204768800,
     "Facebook": "https://www.facebook.com/KhabarBharti.In/",
@@ -1600,7 +1600,7 @@ arr=[
   {
     "Name": "KHABAR FAST",
     "Address": "507, Suneja Tower 1, Janakpuri, DELHI - 110058 (Near Satyam Cinema , District Center)",
-    "Link": null,
+    "Link": "",
     "Email": "news.khabarbharti@gmail.com",
     "Phone": "011 6680 7700",
     "Facebook": "https://www.facebook.com/khabarfasttv",
@@ -1614,7 +1614,7 @@ arr=[
   {
     "Name": "KHABRAIN ABHI TAK(ABHI TAK)",
     "Address": "Khabrain Abhi Tak in Sector 32, Gurgaon-122202",
-    "Link": null,
+    "Link": "",
     "Email": "news.khabarbharti@gmail.com",
     "Phone": "98146 20899",
     "Facebook": "https://www.facebook.com/khabrainabhitaklive",
@@ -1670,7 +1670,7 @@ arr=[
   {
     "Name": "LEMON NEWS",
     "Address": "Ghatkopar Link Road, 861, Unit No-1,6th Floor, Building No-8, Solitaire Corporation Park, Andheri Ghatkopar Link Road, Andheri",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/pages/category/TV-channel/Channel-lemon-news-444050462465093/",
@@ -1684,7 +1684,7 @@ arr=[
   {
     "Name": "Live 24 News Channel",
     "Address": "C-012, C Block, Sector 63, Noida, Uttar Pradesh 201301",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "\n098183 60959",
     "Facebook": "https://www.facebook.com/live24online/",
@@ -1782,7 +1782,7 @@ arr=[
   {
     "Name": "MAHARASHTRA 1",
     "Address": "400013, Shastri Nagar, Adarsh Nagar, Lower Parel-400013.",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "022 6111 2403",
     "Facebook": "https://www.facebook.com/maharashtraone/",
@@ -1922,7 +1922,7 @@ arr=[
   {
     "Name": "Mirror Now",
     "Address": "1st Floor, Trade House, Kamala Mill Compound,Times House, 7, Bahadurshah Zafar Marg, New DELHI, 110002+9111",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "911123302000 ,912224931341,01206637050,01203305555",
     "Facebook": "https://www.facebook.com/Timesnow",
@@ -2020,7 +2020,7 @@ arr=[
   {
     "Name": "NAVTEJ 24x7 (EARLIER KNOW AS: HTN NEWS, HARVEST TV, SHRI S7 NEWS, EARLIER VEE NEWS)",
     "Address": "507-508, Fifth Floor, DP Metro Tower, New Sanganer Road Jaipur-302019",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "954 973 8800",
     "Facebook": "https://www.facebook.com/navtejtvchannel/",
@@ -2706,7 +2706,7 @@ arr=[
   {
     "Name": "Pearls Broadcasting",
     "Address": "B- 1401, 14TH FLOOR, STATESMAN HOUSE,BARAKHAMBA ROAD,New DELHI,DELHI,INDIA,110001",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": 18001803580,
     "Facebook": "https://www.facebook.com/Pearls-Broadcasting-Corporation-Ltd-118556161510350/",
@@ -3532,7 +3532,7 @@ arr=[
   {
     "Name": "Suddi TV(Earlier: MAHA BODHI CHANNEL (earlier REPORTER\nMAHARASHTRA) )",
     "Address": "87-B, BHAI RANDHIR SINGH NAGAR, LUDHIANA â€“ 141012",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": 8066223900,
     "Facebook": "https://www.facebook.com/pages/Suddi-TV/499580463583545",
@@ -3574,7 +3574,7 @@ arr=[
   {
     "Name": "SUVARNA NEWS",
     "Address": "Murasoli Maran Towers, 73, MRC Nagar\nMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
-    "Link": null,
+    "Link": "",
     "Email": "cs@suvarnanews.in",
     "Phone": "080-3055 6337",
     "Facebook": "https://www.facebook.com/AsianetSuvarnaNews/",
@@ -3672,7 +3672,7 @@ arr=[
   {
     "Name": "THENDREL TV",
     "Address": "Murasoli Maran Towers, 73, MRC Nagar\nMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
-    "Link": null,
+    "Link": "",
     "Email": "EMAIL:support@thendraltv.in.",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/ErodeThendraltv",
@@ -3798,7 +3798,7 @@ arr=[
   {
     "Name": "TV 100 National",
     "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "NA",
     "Facebook": "https://m.facebook.com/TV100National/videos/",
@@ -4428,7 +4428,7 @@ arr=[
   {
     "Name": " Lok Samna news channel",
     "Address": "Ahmedabad, Gujarat",
-    "Link": null,
+    "Link": "",
     "Email": "loksamnanews@gmail.com",
     "Phone": "NA",
     "Facebook": "https://m.facebook.com/LOKSAMNA2419/posts/d41d8cd9/3408466632713121/?locale=ms_MY&_rdr",
@@ -4540,7 +4540,7 @@ arr=[
   {
     "Name": "Hello Saurashtra News",
     "Address": "Shop No 4, Junction Plot.. Shop No 4, Junction Plot, Rajkot HO, Rajkot - 360001\n",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "98252 15590",
     "Facebook": "https://www.facebook.com/Hellosaurashtranewsrajkot/",
@@ -4568,7 +4568,7 @@ arr=[
   {
     "Name": "DD girnar",
     "Address": "Doordarshan Kendra, Drive-In Road, Thaltej, Ahmedabad - 380054",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "011-2309 7614",
     "Facebook": "https://www.facebook.com/ddgirnar/",
@@ -4694,7 +4694,7 @@ arr=[
   {
     "Name": "News 18 J&K",
     "Address": "KP Road Paibugh Mattan, Anantnag, Jammu and Kashmir 192125",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/News18Jammu/",
@@ -4862,7 +4862,7 @@ arr=[
   {
     "Name": "Apni Awaaz",
     "Address": "Hans Nagar Road, Bhatinda City, Bhatinda - 151005",
-    "Link": null,
+    "Link": "",
     "Email": "info@radioapniawaz.com",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/press750",
@@ -4974,7 +4974,7 @@ arr=[
   {
     "Name": "NEWS 47",
     "Address": "32/11, Puthiya Road, Pallissery Junction,Near NH 47, Haritha Bye Ln, Chakkaraparambu, Palarivattom, Kochi, Kerala 682032",
-    "Link": null,
+    "Link": "",
     "Email": "",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/newschannel47/",
@@ -4988,7 +4988,7 @@ arr=[
   {
     "Name": "KOLLAM NEWS 24*7",
     "Address": " Shihab Thangal Rd, Vidya Nagar Colony, Kaipadamugal",
-    "Link": null,
+    "Link": "",
     "Email": "srishti.const@gmail.com",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/kollamnewsnews/",
@@ -5380,7 +5380,7 @@ arr=[
   {
     "Name": "J7 NEWS CHANNEL\n",
     "Address": "4CVP+PR, Venugopla Puram, Andhra Pradesh 535002",
-    "Link": null,
+    "Link": "",
     "Email": "NA",
     "Phone": "083097 90170",
     "Facebook": "https://www.facebook.com/J7-News-Telugu-Live-news-112763031027646/",
@@ -5674,7 +5674,7 @@ arr=[
   {
     "Name": "ATL TV Rajasthan",
     "Address": "HJ69+99X, Sanjay Nagar, Alwar, Rajasthan 301001",
-    "Link": null,
+    "Link": "",
     "Email": "akramdinkhan@gmail.com",
     "Phone": "094145 06052",
     "Facebook": "https://www.facebook.com/akramkhannewsreporter",
@@ -6752,7 +6752,7 @@ arr=[
   {
     "Name": "Manipur Top Channel",
     "Address": "Moirang, Manipur, India 795133",
-    "Link": null,
+    "Link": "",
     "Email": "manipurtopchannelofficial@gmail.com",
     "Phone": 3852459564,
     "Facebook": "https://www.facebook.com/Manipur-Top-Channel-News-107084291454831/",
@@ -6766,7 +6766,7 @@ arr=[
   {
     "Name": "Manipur News Reader",
     "Address": "NA",
-    "Link": null,
+    "Link": "",
     "Email": "manipurnews579@gmail.com.",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/people/Manipuri-News-Reader/100064266037597/",
@@ -7298,7 +7298,7 @@ arr=[
   {
     "Name": "DD Shillong",
     "Address": "Shillong",
-    "Link": null,
+    "Link": "",
     "Email": "rnuddkshillong@gmail.com",
     "Phone": "NA",
     "Facebook": "https://ms-my.facebook.com/DDNewsShillong1/videos/dd-shillong-news-this-hour-25-june-2022/997428647621222/",

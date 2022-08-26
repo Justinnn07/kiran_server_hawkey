@@ -21,7 +21,7 @@ Router.get("/channel", async (req, res) => {
 });
 
 Router.post("/channel", async (req, res) => {
-  if (req.body.Link !== null) {
+  if (req.body.Link !== "") {
     await domainPing(req.body.Link).then((data) => {
       const newData = new Channel({
         ip: data.ip,
