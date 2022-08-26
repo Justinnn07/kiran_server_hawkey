@@ -104,10 +104,8 @@ Router.post("/website", async (req, res) => {
 
 Router.get("/data", async (req, res) => {
   await Website.find({})
-    .sort({ timestamp: -1 })
     .then((website) => {
       Channel.find({})
-        .sort({ timestamp: -1 })
         .then((channel) => {
           res.status(200).send({ website, channel });
         })
