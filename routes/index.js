@@ -21,9 +21,9 @@ Router.get("/channel", async (req, res) => {
 });
 
 Router.post("/channel", async (req, res) => {
+  const timestamp = Date.now();
   if (req.body.Link !== "") {
     await domainPing(req.body.Link).then((data) => {
-      const timestamp = Date.now();
       const newData = new Channel({
         ip: data.ip,
         timestamp,
@@ -41,6 +41,7 @@ Router.post("/channel", async (req, res) => {
   } else {
     const newData = new Channel({
       ...req.body,
+      timestamp,
       ip: "",
     });
 
@@ -67,10 +68,28 @@ Router.delete("/channel", (req, res) => {
 
 // Website Routes
 Router.post("/website", async (req, res) => {
-  await domainPing(req.body.Link).then((data) => {
+  const timestamp = Date.now();
+  if (req.body.Link !== "") {
+    await domainPing(req.body.Link).then((data) => {
+      const newData = new Website({
+        ip: data.ip,
+        phone: req.body.Phone.toString(),
+        timestamp,
+        ...req.body,
+      });
+      newData.save((err) => {
+        if (err) {
+          res.status(400).send(err);
+        } else {
+          res.status(200).send({ success: true });
+        }
+      });
+    });
+  } else {
     const newData = new Website({
-      ip: data.ip,
+      ip: "",
       phone: req.body.Phone.toString(),
+      timestamp,
       ...req.body,
     });
     newData.save((err) => {
@@ -80,7 +99,7 @@ Router.post("/website", async (req, res) => {
         res.status(200).send({ success: true });
       }
     });
-  });
+  }
 });
 
 Router.get("/data", async (req, res) => {
