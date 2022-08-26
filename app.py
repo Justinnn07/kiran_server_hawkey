@@ -3,16 +3,16 @@ import time
 arr=[
   {
     "Name": "1 YES NEWS (EARLIER BIZZ NEWS)",
-    "Address": "\nSee all\nNo.1,Nedumaran Street,Janaki Nagar,Valasarawakkam Tamil Nadu, Tamil Nadu, India 600087\n",
+    "Address": "See allNo.1,Nedumaran Street,Janaki Nagar,Valasarawakkam Tamil Nadu, Tamil Nadu, India 600087",
     "Link": "1yestv.com",
     "Email": "1yesnewstamil@gmail.com",
     "Phone": "79 40266666",
     "Facebook": "https://m.facebook.com/pg/Bizznewsgujarat/photos/",
     "Twitter": "https://twitter.com/bizznewsgujarat",
     "Instagram": "https://www.instagram.com/1yes_news/?hl=en",
-    "Youtube": "https://www.youtube.com/channel/UCJrkX_t-y41_SRaVwx8wmEw/""",
+    "Youtube": "https://www.youtube.com/channel/UCJrkX_t-y41_SRaVwx8wmEw/null",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "387,970"
   },
   {
@@ -26,7 +26,7 @@ arr=[
     "Instagram": "https://www.instagram.com/10tvnewstelugu/",
     "Youtube": "https://www.youtube.com/user/10TVNewsChannel/videos",
     "Language": "Telugu",
-    "Location ": "TELEGANA",
+    "Location": "TELEGANA",
     "Views": "2,160,021,239"
   },
   {
@@ -34,18 +34,18 @@ arr=[
     "Address": "A-29, SECTOR-63, NOIDA â€“ 201301 (U.P)",
     "Link": "firstindianews.com",
     "Email": "shishir.awasthi@firstindianews.com",
-    "Phone": 9711760004,
+    "Phone": "9711760004",
     "Facebook": "https://m.facebook.com/profile.php?id=662958310380887",
     "Twitter": "https://twitter.com/1stindianews?lang=en",
     "Instagram": "https://www.instagram.com/firstindianews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC_cZYFovNQTsKw1ZLmO_AMA",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "736,706,957"
   },
   {
     "Name": "6TV Telangana",
-    "Address": "H.NO.88/A,FLAT NO.101, USHODAYA TOWERS MAIN ROAD, SHAPURNAGAR, IDA, JEEDIMETLA\nTelangana Rangareddi TG 500055",
+    "Address": "H.NO.88/A,FLAT NO.101, USHODAYA TOWERS MAIN ROAD, SHAPURNAGAR, IDA, JEEDIMETLATelangana Rangareddi TG 500055",
     "Link": "6tvnews.com",
     "Email": "info@6tvlive.com",
     "Phone": "090000 60666",
@@ -53,13 +53,13 @@ arr=[
     "Twitter": "https://twitter.com/6tv_telugu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Instagram": "https://www.instagram.com/6tv.ro/?hl=en",
     "Youtube": "https://www.youtube.com/user/6tvtelangana",
-    "Language": "Telugu     ",
-    "Location ": "TELANGANA",
+    "Language": "Telugu",
+    "Location": "TELANGANA",
     "Views": "32,573,507"
   },
   {
-    "Name": "99 Percent (earlier CHANNEL NO.3)",
-    "Address": "NO.24, 6TH MAIN ROAD,\nKASTURIBA NAGAR, ADYAR, Tamil Nadu â€“ 600020",
+    "Name": "99 Percent(earlier CHANNEL NO.3)",
+    "Address": "NO.24, 6TH MAIN ROAD,KASTURIBA NAGAR, ADYAR, Tamil Nadu â€“ 600020",
     "Link": "99tv.org",
     "Email": "99tvnewsyt@gmail.com",
     "Phone": "877.883. 2411",
@@ -68,21 +68,21 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/1017333954/99tv-telugu",
     "Youtube": "https://www.youtube.com/channel/UCl5YgCiwSRVOiC2Nd1P9v1A",
     "Language": "TAMIL",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "240,997,206"
   },
   {
-    "Name": "A1TV (EARLIER: STANDARD WORLD )",
+    "Name": "A1TV (EARLIER:STANDARD WORLD )",
     "Address": "SRI SAI MEDIA PVT. LTD. NEAR SHAN HOTEL, DALHOUSIE ROAD, PATHANKOT, PUNJAB â€“ 145001",
     "Link": "a1live.in",
-    "Email": " info@a1tv",
+    "Email": "info@a1tv",
     "Phone": "0141 451 5151",
     "Facebook": "https://www.facebook.com/A1TVNEWSS/",
     "Twitter": "https://twitter.com/a1tvnews?lang=en",
     "Instagram": "https://www.instagram.com/a1tvnet/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCyky9PDwU5cClLPYSLVhQmQ",
     "Language": "HIND, English &    ",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "610,231"
   },
   {
@@ -96,12 +96,12 @@ arr=[
     "Instagram": "https://www.instagram.com/a2zchannel11/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCGaJ6-ScmTYwjTpAml2xm6A?app=desktop",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "2,977,920"
   },
   {
     "Name": "AAJ TAK",
-    "Address": "India Today Group Mediaplex, FC-8,\nSector-16A, Film City, Noida-201301",
+    "Address": "India Today Group Mediaplex, FC-8,Sector-16A, Film City, Noida-201301",
     "Link": "aajtak.in",
     "Email": "info@aajtak.com.",
     "Phone": "80-22212448",
@@ -110,21 +110,21 @@ arr=[
     "Instagram": "https://www.instagram.com/aajtak/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "20,362,799,066"
   },
   {
     "Name": "AAJTAK TEZ",
-    "Address": "India Today Group Mediaplex, FC-8,\nSector-16A, Film City, Noida-201301",
+    "Address": "India Today Group Mediaplex, FC-8,Sector-16A, Film City, Noida-201301",
     "Link": "aajtak.intoday.in",
     "Email": "info@aajtak.com.",
-    "Phone": 23684888,
+    "Phone": "23684888",
     "Facebook": "https://m.facebook.com/profile.php?id=644878165551836",
     "Twitter": "https://twitter.com/tvtodaypk?lang=en",
     "Instagram": "https://www.instagram.com/aajtaktez/?utm_source=ig_embed&hl=en",
     "Youtube": "https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "20,505,504,227"
   },
   {
@@ -132,18 +132,18 @@ arr=[
     "Address": "ANDHRA JYOTHI BUILDINGS PLOT NO 76 ASHWINI LAYOUT HUDA HEIGHTS ROAD NO 70, JUBILEE HILLS Telangana â€“ 500033",
     "Link": "andhrajyothy.com",
     "Email": "editor@andhrajyothy.com",
-    "Phone": 4023558233,
+    "Phone": "4023558233",
     "Facebook": "https://www.facebook.com/abntelugutv/",
     "Twitter": "https://twitter.com/abntelugutv?lang=en",
     "Instagram": "https://www.instagram.com/abnajnews/?hl=en",
     "Youtube": "https://www.youtube.com/c/abntelugutv",
     "Language": "TELUGU",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "3,999,645,802"
   },
   {
     "Name": "ABP ANANDA 24 Ghanta",
-    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-\n60, Noida, U.P-201307",
+    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-60, Noida, U.P-201307",
     "Link": "bengali.abplive.com",
     "Email": "ABP ANANDA 24 Ghanta",
     "Phone": "22 61277790",
@@ -152,12 +152,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/c/abpnews/about",
     "Language": "Hindi/ English/ BENGALI",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "10,518,235,205"
   },
   {
     "Name": "ABP Andhra",
-    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-\n60, Noida, U.P-201307",
+    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-60, Noida, U.P-201307",
     "Link": "news.abplive.com",
     "Email": "kishan@abpnews.in",
     "Phone": "22 61277790",
@@ -166,12 +166,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/c/abpnews/about",
     "Language": "Telugu, Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "10,518,235,200"
   },
   {
-    "Name": "ABP ASMITA (Earlie ABP SAMACHAR GUJARATI, ABP Sanjha)",
-    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-\n60, Noida, U.P-201307",
+    "Name": "ABP ASMITA(Earlie ABP SAMACHAR GUJARATI, ABP Sanjha)",
+    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-60, Noida, U.P-201307",
     "Link": "gujarati.abplive.com",
     "Email": "kishan@abpnews.in",
     "Phone": "22 61277790",
@@ -180,12 +180,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/c/abpnews/about",
     "Language": "GUJARATI",
-    "Location ": "MAHARASHTRA",
-    "Views": 10518235200
+    "Location": "MAHARASHTRA",
+    "Views": "10518235200"
   },
   {
     "Name": "ABP Ganga",
-    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-\n60, Noida, U.P-201307",
+    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-60, Noida, U.P-201307",
     "Link": "abplive.com",
     "Email": "kishan@abpnews.in",
     "Phone": "22 61277790",
@@ -194,8 +194,8 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/c/abpnews/about",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
-    "Views": 10518235200
+    "Location": "MAHARASHTRA",
+    "Views": "10518235200"
   },
   {
     "Name": "ABP MAJHA (earlier STAR MAJHA)",
@@ -208,12 +208,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/c/abpnews/about",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
-    "Views": 10518235200
+    "Location": "MAHARASHTRA",
+    "Views": "10518235200"
   },
   {
     "Name": "ABP NEWS (earlier STAR NEWS)",
-    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-\n60, Noida, U.P-201307",
+    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-60, Noida, U.P-201307",
     "Link": "abplive.com",
     "Email": "kishan@abpnews.in",
     "Phone": "22 61277790",
@@ -222,12 +222,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/c/abpnews/about",
     "Language": "Hindi/ English/ MARATHI",
-    "Location ": "MAHARASHTRA",
-    "Views": 10518235200
+    "Location": "MAHARASHTRA",
+    "Views": "10518235200"
   },
   {
     "Name": "ABP Sanjha",
-    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-\n60, Noida, U.P-201307",
+    "Address": "301, 3RD Floor Boston House Suren Road Western Express Highway Andheri East Mumbai, Maharashtra / A-37, Sec-60, Noida, U.P-201307",
     "Link": "punjabi.abplive.com",
     "Email": "kishan@abpnews.in",
     "Phone": "22 61277790",
@@ -236,8 +236,8 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/c/abpsanjha",
     "Language": "Hindi, English",
-    "Location ": "MAHARASHTRA",
-    "Views": 10518235200
+    "Location": "MAHARASHTRA",
+    "Views": "10518235200"
   },
   {
     "Name": "ABP Tamil",
@@ -250,12 +250,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/195333757710494/abp-news-network-pvt-ltd/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC730W2Tw77OQ8dOOCKWXaPQ",
     "Language": "Punjabi, Hindi  English",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "156,967,959"
   },
   {
-    "Name": "AKD CN RASHTRIYA (Earlier CTVN\nAKD Rastrio)",
-    "Address": "NO.24, 6TH MAIN ROAD,\nKASTURBA NAGAR, ADYAR, Tamil Nadu â€“ 600020",
+    "Name": "AKD CN RASHTRIYA (Earlier CTVNAKD Rastrio)",
+    "Address": "NO.24, 6TH MAIN ROAD,KASTURBA NAGAR, ADYAR, Tamil Nadu â€“ 600020",
     "Link": "cnrashtriya.com",
     "Email": "info@cnrashtriya.com",
     "Phone": "877.883. 2411",
@@ -264,7 +264,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCZxMjVYn6jqcIgCtGN3asvg",
     "Language": "TAMIL/ English",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "139,247"
   },
   {
@@ -277,22 +277,22 @@ arr=[
     "Twitter": "https://mobile.twitter.com/calcuttanetwork",
     "Instagram": "https://www.instagram.com/aljazeeraenglish/?hl=en",
     "Youtube": "https://www.youtube.com/c/aljazeeraenglish/videos",
-    "Language": "Assamese, Bengali, Bodo, Dogri, English, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Oriya, Punjabi, Sanskrit,\nSanthali, Sindhi, Tamil, Telugu ",
-    "Location ": "WEST BENGAL",
+    "Language": "Assamese, Bengali, Bodo, Dogri, English, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Oriya, Punjabi, Sanskrit,Santhali, Sindhi, Tamil, Telugu ",
+    "Location": "WEST BENGAL",
     "Views": "2,932,441,735"
   },
   {
-    "Name": "AM News-Spandan Maharashtrache\n(Earlier known as LIVE TODAY)",
+    "Name": "AM News-Spandan Maharashtrache(Earlier known as LIVE TODAY)",
     "Address": "Unit no. G5, Ground Floor and Unit no. 02 First Floor, Trade Centre, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "Link": "amnews.live",
     "Email": "home@amnews.live",
-    "Phone": 912262745935,
+    "Phone": "912262745935",
     "Facebook": "https://www.facebook.com/amnewslive/",
     "Twitter": "https://twitter.com/amnewslive",
     "Instagram": "https://www.instagram.com/amnews.live/",
     "Youtube": "https://www.youtube.com/c/amnewslive/videos",
     "Language": "Marathi ",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "26,412,209"
   },
   {
@@ -300,13 +300,13 @@ arr=[
     "Address": "Amrita Television, Near, Gandhinagar Main Road, Cotton Hill, Vazhuthacaud, Thiruvananthapuram, Kerala",
     "Link": "amritatv.com",
     "Email": "contact@amritatv.com.",
-    "Phone": " 471 232 1500",
+    "Phone": "471 232 1500",
     "Facebook": "https://www.facebook.com/amritatelevi..",
     "Twitter": "https://twitter.com/amritatv",
     "Instagram": "https://www.instagram.com/amritatv/",
     "Youtube": "https://www.youtube.com/c/AmritaNews",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "12,640,646"
   },
   {
@@ -314,13 +314,13 @@ arr=[
     "Address": "J9FP+RFG, Bhatti Rd - Fly Over Bypass, opposite sohal hospital, Nawi Basti, Sirhind, Punjab 140406",
     "Link": "anbnews.co.in",
     "Email": "anbeditor@gmail.com",
-    "Phone": "n/a",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/pg/anbnews2019",
     "Twitter": "https://twitter.com/AnbNewstv",
-    "Instagram": "https://www.instagram.com/anbnewstv/?hl=en\n",
+    "Instagram": "https://www.instagram.com/anbnewstv/?hl=en",
     "Youtube": "https://www.youtube.com/c/ANBNewsNational/",
     "Language": "Hindi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "2,201,100"
   },
   {
@@ -328,32 +328,32 @@ arr=[
     "Address": "Rohtak City Bypass, opp. Hanuman Mandir and Near SAI Mandir, Rohtak, Haryana 124021",
     "Link": "angeltv.org",
     "Email": "iangel@angeltv.org",
-    "Phone": "n/a",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/okindia.india",
     "Twitter": "https://twitter.com/OkIndiaNews2",
     "Instagram": "https://www.instagram.com/newsokindia/",
     "Youtube": "https://www.youtube.com/c/OKIndiatv",
     "Language": "Hindi",
-    "Location ": "HARYANA",
+    "Location": "HARYANA",
     "Views": "3,148,507"
   },
   {
     "Name": "APTS 24x7",
-    "Address": "37 A THANTHONI AMMAN KOIL STREET,VILLIVAKKAM, Tamil Nadu\nâ€“ 600049 Tamilnadu, India",
+    "Address": "37 A THANTHONI AMMAN KOIL STREET,VILLIVAKKAM, Tamil Naduâ€“ 600049 Tamilnadu, India",
     "Link": "ap24x7.in",
     "Email": "NA",
-    "Phone": "n/a",
+    "Phone": "NA",
     "Facebook": "http://www.facebook.com/AP24x7live",
     "Twitter": "https://twitter.com/ap24x7live",
     "Instagram": "https://www.instagram.com/ap24x7",
     "Youtube": "https://www.youtube.com/c/AP24X7",
     "Language": "Telugu ",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "193,873,556"
   },
   {
-    "Name": "APN News\nSOBHAGYA TV]",
-    "Address": ": A -9, Block A, Sector 68, Noida, Uttar Pradesh 20130",
+    "Name": "APN NewsSOBHAGYA TV]",
+    "Address": ":A -9, Block A, Sector 68, Noida, Uttar Pradesh 20130",
     "Link": "apnnews.com",
     "Email": "contact@apnlive.com",
     "Phone": "120-612-7900",
@@ -362,12 +362,12 @@ arr=[
     "Instagram": "https://www.instagram.com/apnnewsindia/",
     "Youtube": "https://www.youtube.com/user/apnnewsindia",
     "Language": "English",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "71,368,320"
   },
   {
     "Name": "ARGUS",
-    "Address": ": 3rd Floor , Symphony Mall ,Rudrapur, Bhubaneswar, Odisha 752101",
+    "Address": ":3rd Floor , Symphony Mall ,Rudrapur, Bhubaneswar, Odisha 752101",
     "Link": "argusnews.in",
     "Email": "contact@argusnews.in.",
     "Phone": "84806 12900",
@@ -376,7 +376,7 @@ arr=[
     "Instagram": "https://www.instagram.com/argusnewsin/",
     "Youtube": "https://www.youtube.com/c/TheArgusNewsOdia/featured",
     "Language": "ODIA",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "250,865,434"
   },
   {
@@ -390,7 +390,7 @@ arr=[
     "Instagram": "https://www.instagram.com/asal24news/",
     "Youtube": "https://www.youtube.com/c/Asal24News/",
     "Language": "Hindi",
-    "Location ": "NA",
+    "Location": "NA",
     "Views": "17,347,775"
   },
   {
@@ -404,7 +404,7 @@ arr=[
     "Instagram": "https://www.instagram.com/asianetnews/",
     "Youtube": "www.youtube.com/c/asianetnews",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "4,178,047,007"
   },
   {
@@ -417,36 +417,36 @@ arr=[
     "Twitter": "https://assamtalks.com/#",
     "Instagram": "https://www.instagram.com/assamtalks/",
     "Youtube": "https://www.youtube.com/channel/UCFfbDeW9-aKWf9AJWohlWPA",
-    "Language": "Assamese\n",
-    "Location ": "ASSAM",
+    "Language": "Assamese",
+    "Location": "ASSAM",
     "Views": "8,098,730"
   },
   {
     "Name": "B News (earlier PRABHATAM NEWS MAHARASHTRA)",
-    "Address": "No. 36, Old No. 1440, 13th main Road,\nanna nagar, Tamil Nadu-600040",
-    "Link": "",
+    "Address": "No. 36, Old No. 1440, 13th main Road,anna nagar, Tamil Nadu-600040",
+    "Link": "NA",
     "Email": "NA",
-    "Phone": 8736005498,
+    "Phone": "8736005498",
     "Facebook": "https://www.facebook.com/bnewsd",
     "Twitter": "https://twitter.com/BNEWS72203718",
     "Instagram": "https://www.instagram.com/bnewsup/",
     "Youtube": "https://www.youtube.com/c/Bnewsupw",
     "Language": "English",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "87,278,545"
   },
   {
     "Name": "News Time Bangla",
     "Address": "Godrej Waterside, Plot-B, Block-DP, Sector-V Kolkata, West Bengal, India 700091",
-    "Link": "",
+    "Link": "NA",
     "Email": "DAS.SHOVAN8@GMAIL.COM",
-    "Phone": "",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/newstimebangla2018/",
     "Twitter": "https://twitter.com/newstimebangla",
     "Instagram": "https://www.instagram.com/News%20Time%20 Bangla/",
     "Youtube": "https://www.youtube.com/c/NewsTimeBangla",
     "Language": "Bengali",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "971,916"
   },
   {
@@ -460,7 +460,7 @@ arr=[
     "Instagram": "https://www.instagram.com/bansalnewsmpcg/",
     "Youtube": "https://www.youtube.com/bansalnewsofficial",
     "Language": "Hindi",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "75,648,494"
   },
   {
@@ -474,7 +474,7 @@ arr=[
     "Instagram": "https://www.instagram.com/bharattoday_news/",
     "Youtube": "https://www.youtube.com/c/BhaaratTodayNew/about",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "221,160,464"
   },
   {
@@ -488,12 +488,12 @@ arr=[
     "Instagram": "https://www.instagram.com/bharattoday_news/",
     "Youtube": "https://www.youtube.com/c/BhaaratToday",
     "Language": "English/Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "20,744,053"
   },
   {
     "Name": "BHARAT SAMACHAR",
-    "Address": "Sahara India Sadan, 2-a, Shakespeare\nSarani, Kolkata-700078",
+    "Address": "Sahara India Sadan, 2-a, ShakespeareSarani, Kolkata-700078",
     "Link": "bharatsamachartv.in",
     "Email": "bstvindia@gmail.com.",
     "Phone": "0522 678 6109.",
@@ -502,7 +502,7 @@ arr=[
     "Instagram": "https://www.instagram.com/bharatsamachartv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC8Xb-hkR53QVN4GlUHi1iZg",
     "Language": "Hindi",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "419,243,985"
   },
   {
@@ -516,13 +516,13 @@ arr=[
     "Instagram": "https://www.instagram.com/dainikbhaskar_/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCVZ57OkKPAuRJ_wA_Rt4XFg",
     "Language": "Hindi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "511,562,542"
   },
   {
-    "Name": "BULAND NEWS SAMACHAR PLUS\n(earlier LPS TV/ERA NEWS)",
+    "Name": "BULAND NEWS SAMACHAR PLUS(earlier LPS TV/ERA NEWS)",
     "Address": "H-174, Sec-63, Noida – 201301, Uttar Pradesh, India",
-    "Link": "",
+    "Link": "NA",
     "Email": "ddavdavp@gmail.com.",
     "Phone": "0120-4646347",
     "Facebook": "facebook.com/Samacharplus",
@@ -530,7 +530,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "youtube.com/user/SamacharPlus1",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "1,702,716"
   },
   {
@@ -544,7 +544,7 @@ arr=[
     "Instagram": "https://www.secure.instagram.com/calcuttanews_tv/?hl=en",
     "Youtube": "https://www.youtube.com/c/CalcuttaNewsAKD",
     "Language": "Hindi, English &    SCHEDULE ",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "140,058,461"
   },
   {
@@ -558,7 +558,7 @@ arr=[
     "Instagram": "https://www.instagram.com/captainnewstv/?hl=en",
     "Youtube": "https://www.youtube.com/c/CaptainNews",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "48,485,838"
   },
   {
@@ -566,13 +566,13 @@ arr=[
     "Address": "Plot No.1, 2, The Lords, Block No.2, Thiru Vi Ka Industrial Estate, Guindy, Tamil Nadu, Tamil Nadu 600032",
     "Link": "cauverynews.tv",
     "Email": "chiduittangi@gmail.com",
-    "Phone": 4422253501,
+    "Phone": "4422253501",
     "Facebook": "https://www.facebook.com/cauverytv/",
     "Twitter": "https://twitter.com/cauverytv?lang=en",
     "Instagram": "https://www.instagram.com/cauverynews/?hl=en",
     "Youtube": "NA",
     "Language": "TAMIL]",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "NA"
   },
   {
@@ -586,7 +586,7 @@ arr=[
     "Instagram": "https://www.instagram.com/chardiklatime_tv/",
     "Youtube": "https://www.youtube.com/c/chardiklatimetvgroup",
     "Language": "Hindi /Punjabi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "78,638,482"
   },
   {
@@ -600,7 +600,7 @@ arr=[
     "Instagram": "https://twitter.com/cnbctv18news?lang=en",
     "Youtube": "https://www.youtube.com/channel/UCQIycDaLsBpMKjOCeaKUYVg?feature=emb_ch_name_ex",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "450,117,244"
   },
   {
@@ -614,7 +614,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/cnbcbajarnews/",
     "Language": "GUJARATI",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "6,881,825"
   },
   {
@@ -628,11 +628,11 @@ arr=[
     "Instagram": "https://www.instagram.com/moneycontrol_hindi/",
     "Youtube": "https://www.youtube.com/channel/UCnhUiJ_-DRTP6w51LCQgJRQ",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "3,045,874"
   },
   {
-    "Name": "CNN NEWS18 (EARLIER:CNN IBN\n(Earlier known as Broadcast News))",
+    "Name": "CNN NEWS18 (EARLIER:CNN IBN(Earlier known as Broadcast News))",
     "Address": "15,16, Express Trade Tower, Sector 16A, Noida, Uttar Pradesh 201301",
     "Link": "cnbctv18.com",
     "Email": "NA",
@@ -642,7 +642,7 @@ arr=[
     "Instagram": "https://www.instagram.com/cnnnews18/",
     "Youtube": "https://www.youtube.com/cnnnews18",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "436,775,121"
   },
   {
@@ -650,18 +650,18 @@ arr=[
     "Address": "Mathur ROAD, Navanirman Nagar Colony, Jubilee Hills, Telangana, Telangana 500033",
     "Link": "cvrinfo.com",
     "Email": "info@cvrinfo.com",
-    "Phone": "040 4779 9999\n",
+    "Phone": "040 4779 9999",
     "Facebook": "https://www.facebook.com/cvrnewsofficial",
     "Twitter": "https://twitter.com/cvrtelugunews",
     "Instagram": "https://www.instagram.com/cvrnewstelugu/",
     "Youtube": "https://www.youtube.com/cvrnewstv",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "117,134,911"
   },
   {
     "Name": "CVR News English",
-    "Address": "Plot No: 573J, Road: 82, Jubilee Hills, Telangana, India, Telangana",
+    "Address": "Plot No:573J, Road:82, Jubilee Hills, Telangana, India, Telangana",
     "Link": "news.abplive.com",
     "Email": "info@cvrinfo.com",
     "Phone": "097052 99999",
@@ -670,21 +670,21 @@ arr=[
     "Instagram": "https://www.instagram.com/cvrenglishnews/",
     "Youtube": "https://www.youtube.com/c/CVREnglishOfficial",
     "Language": "English",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "585,254"
   },
   {
     "Name": "DAY N NIGHT NEWS (OP)",
-    "Address": "Plot No.-573, Road No. 82, Jubilee Hills\nCo-Operative House Building Society Telangana-500033",
+    "Address": "Plot No.-573, Road No. 82, Jubilee HillsCo-Operative House Building Society Telangana-500033",
     "Link": "daynightnews.in",
     "Email": "editor@dayandnightnews.com",
-    "Phone": "N/A",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/dayandnightnewss",
     "Twitter": "https://twitter.com/daynnightnews",
-    "Instagram": "N/A",
+    "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/Dayandnightnews",
     "Language": "English",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "49,410,878"
   },
   {
@@ -692,13 +692,13 @@ arr=[
     "Address": "J6FM+F3G, Copernicus Marg, New DELHI, DELHI 110049",
     "Link": "ddnews.gov.in",
     "Email": "dd assignment@gmail.com",
-    "Phone": "011 2309 7614\n",
+    "Phone": "011 2309 7614",
     "Facebook": "https://www.facebook.com/DDNews",
     "Twitter": "https://twitter.com/DDNewsLive",
     "Instagram": "https://www.instagram.com/ddnews_official/?hl=en",
     "Youtube": "https://www.youtube.com/c/ddnews/",
-    "Language": "Hindi/ English/ BENGALI   \n",
-    "Location ": "DELHI",
+    "Language": "Hindi/ English/ BENGALI   ",
+    "Location": "DELHI",
     "Views": "962,303,834"
   },
   {
@@ -706,13 +706,13 @@ arr=[
     "Address": "K.S. Garden, Vinobha Nagar, Sudhama Nagar, Bengaluru, Karnataka 560002, India, Karnataka.",
     "Link": "vijayavani.net",
     "Email": "dvlive24x7@gmail.com",
-    "Phone": "\n080 2253 7320",
+    "Phone": "080 2253 7320",
     "Facebook": "https://www.facebook.com/DighvijayNews",
     "Twitter": "https://twitter.com/DighvijayNews24",
     "Instagram": "https://www.instagram.com/dighvijaynews/",
     "Youtube": "https://www.youtube.com/c/Dighvijay24X7News",
     "Language": "Telugu",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "598,455,648"
   },
   {
@@ -726,11 +726,11 @@ arr=[
     "Instagram": "https://www.instagram.com/aajtak/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "20,373,900,301"
   },
   {
-    "Name": "DISHA NEWS CHANNEL (Earlier\nknown as DHALIWAL TV)",
+    "Name": "DISHA NEWS CHANNEL (Earlierknown as DHALIWAL TV)",
     "Address": "B - 117, Sector - 63, Noida - 201301",
     "Link": "dishatv.com",
     "Email": "feedback@dishatv.com",
@@ -740,7 +740,7 @@ arr=[
     "Instagram": "https://www.instagram.com/dishatelugu/",
     "Youtube": "https://www.youtube.com/c/DishaTVtelugu",
     "Language": "Telugu",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "38,462,670"
   },
   {
@@ -748,13 +748,13 @@ arr=[
     "Address": "166, 2, Sham Singh ROAD, near Samiti Kendra, Mall Enclave, Civil Lines, Ludhiana, Punjab 141001",
     "Link": "newsdnntv.com",
     "Email": "news india@gmail.com",
-    "Phone": "n/a",
-    "Facebook": "https://www.facebook.com/DnnMPCGnews\n",
+    "Phone": "NA",
+    "Facebook": "https://www.facebook.com/DnnMPCGnews",
     "Twitter": "https://twitter.com/DnnMPCGnews?s=08",
     "Instagram": "https://www.instagram.com/dnnmpcgnews/",
     "Youtube": "https://www.youtube.com/c/DNNNews",
     "Language": "Hindi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "3,376,914"
   },
   {
@@ -768,7 +768,7 @@ arr=[
     "Instagram": "https://www.instagram.com/dy365.in/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCBMgVLD4TaNFiZLNB60WMgg",
     "Language": "Assamese",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "452,413,103"
   },
   {
@@ -782,21 +782,21 @@ arr=[
     "Instagram": "https://www.instagram.com/etnow/?hl=en",
     "Youtube": "https://www.youtube.com/user/etnow",
     "Language": "English",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "332,355,222"
   },
   {
     "Name": "ET Now Swadesh",
-    "Address": "The Times of India Building, Dr. D.N.\nRoad, Mumbai - 400001.",
+    "Address": "The Times of India Building, Dr. D.N.Road, Mumbai - 400001.",
     "Link": "etnowswadesh.com",
     "Email": "editor@etnow.com",
-    "Phone": "n/a",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/Timesnow",
     "Twitter": "https://twitter.com/ETNowSwadesh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Instagram": "https://www.instagram.com/timesnow",
     "Youtube": "https://www.youtube.com/user/etnow",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "112,355,222"
   },
   {
@@ -807,10 +807,10 @@ arr=[
     "Phone": "08415-246555",
     "Facebook": "https://www.facebook.com/ETVAndhraPradesh/",
     "Twitter": "https://twitter.com/etvandhraprades",
-    "Instagram": "n/a",
+    "Instagram": "NA",
     "Youtube": "https://www.youtube.com/etvnews",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "3,237,535,024"
   },
   {
@@ -824,7 +824,7 @@ arr=[
     "Instagram": "https://www.instagram.com/firstindianews/",
     "Youtube": "https://www.youtube.com/user/firstindiatv",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "736,706,957"
   },
   {
@@ -838,7 +838,7 @@ arr=[
     "Instagram": "https://www.instagram.com/filmimanoranjan/",
     "Youtube": "https://www.youtube.com/c/FMNews",
     "Language": "Hindi, English, Punjabi &   Indian  ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "64,732,311"
   },
   {
@@ -849,10 +849,10 @@ arr=[
     "Phone": 8882337788,
     "Facebook": "https://www.facebook.com/FocusNewsHaryana/",
     "Twitter": "https://twitter.com/focusharyana",
-    "Instagram": "n/a",
+    "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/focusharyana",
     "Language": "Hindi",
-    "Location ": "HARYANA",
+    "Location": "HARYANA",
     "Views": "18,209,277"
   },
   {
@@ -866,7 +866,7 @@ arr=[
     "Instagram": "https://www.instagram.com/focusnewsindia/?hl=en",
     "Youtube": "https://www.youtube.com/c/FocusnewsIn",
     "Language": "English",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "1,027,407"
   },
   {
@@ -874,13 +874,13 @@ arr=[
     "Address": "LOT NO. 1806, CHINTAMANISWAR BHUBANESWAR Khordha , Odisha.",
     "Link": "thefocusplus.com",
     "Email": "focus newschannel@gmail.com.",
-    "Phone": "n/a",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/Focusodia/",
     "Twitter": "https://twitter.com/focusodishatv",
     "Instagram": "https://www.instagram.com/odisha.focus/",
     "Youtube": "NA",
     "Language": "odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "NA"
   },
   {
@@ -894,7 +894,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ptc_news",
     "Youtube": "https://www.youtube.com/user/PTCNewsIndia",
     "Language": "TELUGU",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "313,546,857"
   },
   {
@@ -908,35 +908,35 @@ arr=[
     "Instagram": "https://www.instagram.com/gemini/?hl=en",
     "Youtube": "https://www.youtube.com/c/GeminiNews",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "2,507,881"
   },
   {
     "Name": "Good News Today",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar\nMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC NagarMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
     "Link": "gnttv.com",
     "Email": " info@goodnews.",
-    "Phone": "n/a",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/goodnewstoday",
     "Twitter": "https://www.instagram.com/goodnewstoday/",
     "Instagram": "https://twitter.com/goodnewstoday",
     "Youtube": "https://www.youtube.com/channel/UCQC1wGbOOIoC23fRGxt4kbg",
     "Language": "English/   ",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "45,203,037"
   },
   {
     "Name": "Gr8 India News",
     "Address": "9, 24, Block 8, South Patel Nagar, New DELHI, DELHI 110008",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": 8882222334,
     "Facebook": "https://www.facebook.com/GR8-INDIA-News-114351296635792/",
     "Twitter": "https://mobile.twitter.com/gr8_sportz",
     "Instagram": "https://www.secure.instagram.com/gr8.sportz/?hl=ml",
     "Youtube": "https://www.youtube.com/channel/UC_iv938xpNCkMDmEceFVkbw/",
-    "Language": "Hindi/ English/    SCHEDULE\n",
-    "Location ": "DELHI",
+    "Language": "Hindi/ English/    SCHEDULE",
+    "Location": "DELHI",
     "Views": "237,936"
   },
   {
@@ -950,7 +950,7 @@ arr=[
     "Instagram": "https://www.instagram.com/gstvnews/?hl=en",
     "Youtube": "https://www.youtube.com/user/gstvnewschannel",
     "Language": "Gujarathi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "123,619,686"
   },
   {
@@ -964,12 +964,12 @@ arr=[
     "Instagram": "https://www.instagram.com/gulistannewsofficial/",
     "Youtube": "https://www.youtube.com/GulistanNewsOfficial",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "52,457,915"
   },
   {
     "Name": "Hamar TV (OP)",
-    "Address": "28/26, Basement East Patel Nagar New\nDELHI 110008",
+    "Address": "28/26, Basement East Patel Nagar NewDELHI 110008",
     "Link": "wikiwand.com",
     "Email": "avadhsharma_associates@yahoo.co.in",
     "Phone": "NA",
@@ -977,28 +977,28 @@ arr=[
     "Twitter": "NA",
     "Instagram": "NA",
     "Youtube": "NA",
-    "Language": "Hindi, English as well as few\n ",
-    "Location ": "DELHI",
+    "Language": "Hindi, English as well as few ",
+    "Location": "DELHI",
     "Views": "NA"
   },
   {
     "Name": "Haryana News",
-    "Address": "SCO. 2, 3, 4, Sector 15, Old Judicial Complex, Near Skycity Hotel, Jharsa Road, Civil Lines, Gurugram, Haryana 122001, India\nGurgaon, Haryana",
+    "Address": "SCO. 2, 3, 4, Sector 15, Old Judicial Complex, Near Skycity Hotel, Jharsa Road, Civil Lines, Gurugram, Haryana 122001, IndiaGurgaon, Haryana",
     "Link": "indianewsharyana.com",
     "Email": "hr@stvharyananews.in",
     "Phone": "083750 53002",
     "Facebook": "https://www.facebook.com/stvhnews/",
     "Twitter": "https://twitter.com/stvharyananews2",
-    "Instagram": "\r\nhttps://www.instagram.com/haryananewsofficial/",
+    "Instagram": "https://www.instagram.com/haryananewsofficial/",
     "Youtube": "https://www.youtube.com/c/StvHaryanaNews1",
     "Language": "GUJARATI,Hindi & English.",
-    "Location ": "HARYANA",
+    "Location": "HARYANA",
     "Views": "46,569,553"
   },
   {
     "Name": "Headlines Today (Additional Feed)",
     "Address": "Mediaplex, FC-8, Sector - 16A, Film City, Noida, India, Uttar Pradesh",
-    "Link": "",
+    "Link": "NA",
     "Email": "media@headlinesoftoday.com.",
     "Phone": "0120 480 7100",
     "Facebook": "https://www.facebook.com/IndiaToday/",
@@ -1006,7 +1006,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/headlinestoday",
     "Language": "English",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "272,580,373"
   },
   {
@@ -1020,7 +1020,7 @@ arr=[
     "Instagram": "https://www.instagram.com/HindiKhabar/",
     "Youtube": "https://www.youtube.com/c/HindiKhabarTV/",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "17,047,145"
   },
   {
@@ -1034,11 +1034,11 @@ arr=[
     "Instagram": "https://twitter.com/hmtvnewslive",
     "Youtube": "https://www.youtube.com/user/hmtvlive",
     "Language": "TELUGU",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "2,468,016,452"
   },
   {
-    "Name": "HNN 24x7 \nCHAKRA)",
+    "Name": "HNN 24x7 CHAKRA)",
     "Address": "Plot No. 03, Haridwar Bypass Road, Dehradun City, Dehradun - 248001 (Near New Friends Colony,Near Doordarshan Office)",
     "Link": "hnn24x7.com",
     "Email": "NA",
@@ -1048,11 +1048,11 @@ arr=[
     "Instagram": "https://www.instagram.com/hnn24x7/?hl=en",
     "Youtube": "https://www.youtube.com/hnn24x7",
     "Language": "Telugu",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "NA"
   },
   {
-    "Name": "Hornbill TV (Earlier Malai Murasu, Jai Tamil TV Earlier known as HORIZON\nNEWS)",
+    "Name": "Hornbill TV (Earlier Malai Murasu, Jai Tamil TV Earlier known as HORIZONNEWS)",
     "Address": "AH1, 7th Mile, Dimapur, Nagaland 797115",
     "Link": "hornbilltv.com",
     "Email": "contactus@hornbilltv.com",
@@ -1062,7 +1062,7 @@ arr=[
     "Instagram": "https://www.instagram.com/hornbilltvofficial/",
     "Youtube": "https://www.youtube.com/c/HornbillTVOfficial",
     "Language": "ENGLISH",
-    "Location ": "NAGALAND",
+    "Location": "NAGALAND",
     "Views": "45,775,941"
   },
   {
@@ -1076,11 +1076,11 @@ arr=[
     "Instagram": "https://www.instagram.com/iansnews.in/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=IANS+India+Pvt+Ltd",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "678,876,818"
   },
   {
-    "Name": "IBC 24 (earlier ZEE 24 GHANTE-\nCHHATTISGARH)",
+    "Name": "IBC 24 (earlier ZEE 24 GHANTE-CHHATTISGARH)",
     "Address": "S.B MULTIMEDIA PVT LTD First Floor, Lodhipara Chowk, Raipur , Chhattisgarh",
     "Link": "ibc24.in",
     "Email": "Sales@ibc24.in",
@@ -1090,13 +1090,13 @@ arr=[
     "Instagram": "https://www.instagram.com/ibc24.in/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=%22IBC+24+",
     "Language": "Hindi",
-    "Location ": "CHHATTISGARH",
+    "Location": "CHHATTISGARH",
     "Views": "1,415,795,537"
   },
   {
     "Name": "IMAYAM TV",
     "Address": "No. 22, 1st Cross Street,2nd Avenue, Ashok Nagar, Tamil Nadu-600083",
-    "Link": "",
+    "Link": "NA",
     "Email": "imayamtv@hotmail.com",
     "Phone": "044 4313 5555",
     "Facebook": "https://www.facebook.com/imayamtelevision/",
@@ -1104,12 +1104,12 @@ arr=[
     "Instagram": "https://www.instagram.com/imayamchannel/",
     "Youtube": "https://www.youtube.com/channel/UCzQ8zu4HBOhjkKaxpivbQeg",
     "Language": "Hindi",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "2,560,026"
   },
   {
     "Name": "IND 24 (earlier Live India Kannada, NEWS SUPER FAST)",
-    "Address": "2nd & 3rd Floor, 20/1c, Lal Bazar Street\nKolkata-700001",
+    "Address": "2nd & 3rd Floor, 20/1c, Lal Bazar StreetKolkata-700001",
     "Link": "ind24.tv",
     "Email": "operations@ind24.tv",
     "Phone": "097524 53221",
@@ -1118,11 +1118,11 @@ arr=[
     "Instagram": "https://www.instagram.com/ind24AMPL",
     "Youtube": "https://www.youtube.com/c/Ind24",
     "Language": "BANGLA/Hindi/English/NORTHEAST",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "2,560,026"
   },
   {
-    "Name": "INDIA AHEAD (EARLIER BHAARAT TODAY, BHARAT TODAY (Earlier\nYOUR NEWS))",
+    "Name": "INDIA AHEAD (EARLIER BHAARAT TODAY, BHARAT TODAY (EarlierYOUR NEWS))",
     "Address": "First Floor, Pioneer House, A Block,. Sector 16, Noida, PIN 201301. Uttar Pradesh",
     "Link": "indiaaheadnews.com",
     "Email": "mg_appl@yahoo.com",
@@ -1132,12 +1132,12 @@ arr=[
     "Instagram": "https://www.instagram.com/indiaaheadnews/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=INDIA+AHEAD",
     "Language": "TAMIL English/   ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "29,226,408"
   },
   {
     "Name": "India News",
-    "Address": "F-134, Jawahar Park, Khanpur, Flat No A- 3 New DELHI, 110062 / Indira Press Complex, Behind SBI Mutual fund, Adjacent Drashti Offset, MP Nagar, Zone-\n1, Bhopal, M.P-462011",
+    "Address": "F-134, Jawahar Park, Khanpur, Flat No A- 3 New DELHI, 110062 / Indira Press Complex, Behind SBI Mutual fund, Adjacent Drashti Offset, MP Nagar, Zone-1, Bhopal, M.P-462011",
     "Link": "indiatvnews.com",
     "Email": "mail@indiatvnews.com",
     "Phone": "0120-3051000",
@@ -1146,7 +1146,7 @@ arr=[
     "Instagram": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwino9SayaL4AhVuTWwGHZIuBbcQFnoECBUQAQ&url=https%3A%2F%2Fwww.instagram.com%2Findiatoday%2F%3Fhl%3Den&usg=AOvVaw3MrPqwerBCVvGY6JCgg4mX",
     "Youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwjO5sKcyaL4AhVjRmwGHUt0CToQFnoECBQQAg&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCcH1_Lw_VbQoxGgDJ2OW0LQ&usg=AOvVaw0z0MzGzeqvdPO8uo8HtoUZ",
     "Language": "Hindi, English     SCHEDULE ",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "178,522,032"
   },
   {
@@ -1160,7 +1160,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "BIHAR, JHARKHAND news",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "NA"
   },
   {
@@ -1173,13 +1173,13 @@ arr=[
     "Twitter": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiayL3LyaL4AhUoTGwGHY3BDIgQFnoECAoQAQ&url=https%3A%2F%2Ftwitter.com%2Fitvharyana&usg=AOvVaw1zqmSBJkSRECmKMLlxNaqN",
     "Instagram": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiIgv7MyaL4AhW-RWwGHemXDq0QFnoECAgQAQ&url=https%3A%2F%2Fwww.instagram.com%2Findianewsharyana%2F&usg=AOvVaw1tHPbcs7XZ7khZGXuJaR4p",
     "Youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwjwnerOyaL4AhVWZ2wGHSVlD4AQFnoECAkQAg&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCISKj2--Nxrs5s60T3wq5Pg&usg=AOvVaw0Oru0gQSR9h5TzKV94TUrr",
-    "Language": "Hindi/ English  NORTH\n ",
-    "Location ": "HARYANA",
+    "Language": "Hindi/ English  NORTH ",
+    "Location": "HARYANA",
     "Views": "64,160,936"
   },
   {
     "Name": "India News MADHYA PRADESH Chattisgarh",
-    "Address": "C-165, NARAINA, INDUSTRIAL AREA, PHASE-I, NEW DELHI â€“\n110028",
+    "Address": "C-165, NARAINA, INDUSTRIAL AREA, PHASE-I, NEW DELHI â€“110028",
     "Link": "indiatvnews.com",
     "Email": "newsdeskbjnn@gmail.com.",
     "Phone": "NA",
@@ -1187,13 +1187,13 @@ arr=[
     "Twitter": "NA",
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/IndiaNewsMPCGNewslive",
-    "Language": "Hindi/ English  NORTH\n ",
-    "Location ": "DELHI",
+    "Language": "Hindi/ English  NORTH ",
+    "Location": "DELHI",
     "Views": "2,530,081"
   },
   {
     "Name": "India News Punjab",
-    "Address": "B-4, SECTOR-3 NOIDA â€“ 201301\n(U.P)",
+    "Address": "B-4, SECTOR-3 NOIDA â€“ 201301(U.P)",
     "Link": "indiatvnews.com",
     "Email": "newsdeskbjnn@gmail.com.",
     "Phone": "NA",
@@ -1201,8 +1201,8 @@ arr=[
     "Twitter": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwig6vnmzaL4AhWaRmwGHWmND2QQ6F56BAgEEAE&url=https%3A%2F%2Ftwitter.com%2FIndiaNewsPunjab%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&usg=AOvVaw2c_qfvci4CU1ZnH_7PD_i4",
     "Instagram": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwifhLDpzaL4AhXUSWwGHaXVAlIQFnoECAoQAQ&url=https%3A%2F%2Fwww.instagram.com%2Findianewspunjab%2F%3Fhl%3Den&usg=AOvVaw3_qXl0ENYrHg5zJnPuNPF8",
     "Youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwjkrcjrzaL4AhVkT2wGHWSzDdQQFnoECBMQAg&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCaFBF255LGHwqSB35kN7jsA&usg=AOvVaw3J2c9hwvtr6MrIis4VdoYo",
-    "Language": "Hindi/ English  NORTH\n ",
-    "Location ": "UTTAR PRADESH",
+    "Language": "Hindi/ English  NORTH ",
+    "Location": "UTTAR PRADESH",
     "Views": "1,050,081"
   },
   {
@@ -1216,7 +1216,7 @@ arr=[
     "Instagram": "https://www.instagram.com/indianewsraj1/",
     "Youtube": "https://www.youtube.com/c/IndiaNewsRajasthan/playlists?app=desktop",
     "Language": "HIndi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "2,326,779"
   },
   {
@@ -1230,7 +1230,7 @@ arr=[
     "Instagram": "https://www.instagram.com/indianewsup/?hl=en",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "NA"
   },
   {
@@ -1244,7 +1244,7 @@ arr=[
     "Instagram": "https://www.instagram.com/indiatoday/?hl=en",
     "Youtube": "https://www.youtube.com/c/indiatoday",
     "Language": "Hindi , Tamil, Telugu, Malayalam",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "1,818,541,117"
   },
   {
@@ -1257,8 +1257,8 @@ arr=[
     "Twitter": "https://twitter.com/indiatvnews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Instagram": "https://www.instagram.com/indiatvnews/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=India+TV",
-    "Language": "Hindi/ English/  \nNORTH  ",
-    "Location ": "UTTAR PRADESH",
+    "Language": "Hindi/ English/  NORTH  ",
+    "Location": "UTTAR PRADESH",
     "Views": "13,510,083,716"
   },
   {
@@ -1272,7 +1272,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "English/ Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "NA"
   },
   {
@@ -1285,14 +1285,14 @@ arr=[
     "Twitter": "https://twitter.com/indiavoicenews",
     "Instagram": "https://www.instagram.com/thevoice_india/?hl=en",
     "Youtube": "https://www.youtube.com/c/IndiaVoice",
-    "Language": "Hindi/  NORTH \n ",
-    "Location ": "UTTAR PRADESH",
+    "Language": "Hindi/  NORTH  ",
+    "Location": "UTTAR PRADESH",
     "Views": "10,365,788"
   },
   {
     "Name": "India Watch(earlier INDIA NOW , Earlier ONE LIVE)",
     "Address": "No 16, Rana Pratap Marg, UPTEC Crossing, Pickup Colony, Butler Colony, Uttar Pradesh",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "0522 220 4333",
     "Facebook": "https://www.facebook.com/indiawatchup/",
@@ -1300,13 +1300,13 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/results?search_query=India+Watch+NEWS",
     "Language": "English/  ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "193,857"
   },
   {
     "Name": "Information Tv",
     "Address": "B-30, Janpath Marg, Block C, Sector 85, Noida, Uttar Pradesh",
-    "Link": "",
+    "Link": "NA",
     "Email": "legal@itvnetwork.com",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/Information-TV-191533484231046/",
@@ -1314,7 +1314,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "NA"
   },
   {
@@ -1328,7 +1328,7 @@ arr=[
     "Instagram": "https://www.instagram.com/jaihindtvmiddleeast/?hl=en",
     "Youtube": "https://www.youtube.com/user/jaihindtvns",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "69,847,635"
   },
   {
@@ -1342,7 +1342,7 @@ arr=[
     "Instagram": "https://www.instagram.com/jaimaharashtranews/",
     "Youtube": "https://www.youtube.com/channel/UCmBLIcqOLWwrrAJ-jaCttqw",
     "Language": "English/ Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "266,430,101"
   },
   {
@@ -1356,7 +1356,7 @@ arr=[
     "Instagram": "https://www.instagram.com/jantvindia/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "13,862,632"
   },
   {
@@ -1370,12 +1370,12 @@ arr=[
     "Instagram": "https://www.instagram.com/jantantra_tv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCJLmpzT9MkBAfJjSNJ-4Zmw",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "30,400,427"
   },
   {
     "Name": "Janam",
-    "Address": "TC 14/196/2\nChandrasekharan Nair Stadium\nPalayam, Thiruvananthapuram 695014",
+    "Address": "TC 14/196/2Chandrasekharan Nair StadiumPalayam, Thiruvananthapuram 695014",
     "Link": "janamtv.com",
     "Email": "desk@janamtv.com",
     "Phone": "8111993528 , 7034636293,",
@@ -1384,7 +1384,7 @@ arr=[
     "Instagram": "https://www.instagram.com/tvjanam/?hl=en",
     "Youtube": "https://www.youtube.com/JanamTVMedia",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "110,466,159"
   },
   {
@@ -1398,7 +1398,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi /Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "NA"
   },
   {
@@ -1412,7 +1412,7 @@ arr=[
     "Instagram": "https://www.instagram.com/janta_tv/",
     "Youtube": "https://www.youtube.com/channel/UC5-XRtGO9UY6eERpraG-QFQ",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "29,283,861"
   },
   {
@@ -1426,12 +1426,12 @@ arr=[
     "Instagram": "https://www.instagram.com/janta_tv/",
     "Youtube": "https://www.youtube.com/c/JantaTVUttar PradeshUttrakhand",
     "Language": "Hindi  English",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "45,283,861"
   },
   {
     "Name": "JAYA PLUS",
-    "Address": "8-2-293/82/A/69, Road No. 9, Jubilee\nHills, Telangana-33",
+    "Address": "8-2-293/82/A/69, Road No. 9, JubileeHills, Telangana-33",
     "Link": "jayatvnetwork.com",
     "Email": "jayatvpg@vsnl.com",
     "Phone": "044 4396 0000",
@@ -1440,12 +1440,12 @@ arr=[
     "Instagram": "https://www.instagram.com/jayaplusnews",
     "Youtube": "https://www.youtube.com/c/JayaPlusNews/videos",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "338,855,001"
   },
   {
     "Name": "JEEVAN TV",
-    "Address": "32/2401-B 2nd FloorRashtra Deepika Building Palarivattom Kochi : 682025. Kerala ,India",
+    "Address": "32/2401-B 2nd FloorRashtra Deepika Building Palarivattom Kochi :682025. Kerala ,India",
     "Link": "jeevannewsonline.com",
     "Email": "jeevan@jeevan.tv",
     "Phone": "2343344 2347671",
@@ -1454,11 +1454,11 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCjX2Z1XGWEbKEGgKMACbhkw",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "6,459,612"
   },
   {
-    "Name": "JK 24x7 News\nPRERNA)",
+    "Name": "JK 24x7 NewsPRERNA)",
     "Address": "W-12 Okhla Phase-II, DELHI 110020",
     "Link": "jk24x7news.tv",
     "Email": "INFO@JK24X7NEWS.TV",
@@ -1468,26 +1468,26 @@ arr=[
     "Instagram": "https://www.instagram.com/jk24x7news/",
     "Youtube": "https://www.youtube.com/channel/UC1jVeVZIIBNPlKuazMhc8Tw",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "910,216"
   },
   {
-    "Name": "K NEWS INDIA (earlier MAGIK /\nBhojpuria Magic)",
+    "Name": "K NEWS INDIA (earlier MAGIK /Bhojpuria Magic)",
     "Address": "Mega Mall 63/2C, The Mall Road, Noronha Crossing, Canal Patri, Kanpur,, Kanpur, Uttar Pradesh, India 208001",
     "Link": "knewsindia.in",
     "Email": "ceo.knews@gmail.com",
-    "Phone": "\n078000 09900",
+    "Phone": "078000 09900",
     "Facebook": "https://www.facebook.com/knews.in/",
     "Twitter": "https://twitter.com/Knewsindia",
-    "Instagram": "n/a",
+    "Instagram": "NA",
     "Youtube": "https://www.youtube.com/user/Knews24x7",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "14,577,516"
   },
   {
     "Name": "KAIRALI NEWS (Earlier known as PEOPLE, before that KALAIGNAR TV)",
-    "Address": ": Kairali Towers, Asan Square University PO, Palayam Thiruvananthapuram, 695034 India.",
+    "Address": ":Kairali Towers, Asan Square University PO, Palayam Thiruvananthapuram, 695034 India.",
     "Link": "kairalitv.in",
     "Email": "npc@kairalitv.in",
     "Phone": "0471-238-6500. ",
@@ -1495,8 +1495,8 @@ arr=[
     "Twitter": "https://twitter.com/kairalionline?lang=en",
     "Instagram": "https://www.instagram.com/kairalionline/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCnEvxaWfVL91XIYuyQRO5QA",
-    "Language": "Malayalam\n",
-    "Location ": "KERALA",
+    "Language": "Malayalam",
+    "Location": "KERALA",
     "Views": "302,406,022"
   },
   {
@@ -1510,12 +1510,12 @@ arr=[
     "Instagram": "https://www.instagram.com/kalaignarnews/",
     "Youtube": "https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg",
     "Language": "TAMIL",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "379,561,025"
   },
   {
     "Name": "Kalinga TV",
-    "Address": "Plot No : 1009 IRC Village, Nayapalli. Bhubaneswar, Odisha – 751006",
+    "Address": "Plot No :1009 IRC Village, Nayapalli. Bhubaneswar, Odisha – 751006",
     "Link": "kalingatv.com",
     "Email": "social@kalingatv.com",
     "Phone": "0674 663 3011",
@@ -1524,7 +1524,7 @@ arr=[
     "Instagram": "https://instagram.com/kalingatv24x7",
     "Youtube": "https://youtube.com/channel/UC1vOCYEu3DfoI4fYcfWKmWA",
     "Language": "English/   ",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "1,444,346,477"
   },
   {
@@ -1538,7 +1538,7 @@ arr=[
     "Instagram": "https://instagram.com/kanaknewsofficial",
     "Youtube": "https://youtube.com/c/KanakNewsOdisha",
     "Language": "Odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "4,583,669,734"
   },
   {
@@ -1552,7 +1552,7 @@ arr=[
     "Instagram": "https://www.instagram.com/kashishnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCBdxSSyIlnwo3Aj5O0c6RWQ",
     "Language": "Odia",
-    "Location ": "JHARKHAND",
+    "Location": "JHARKHAND",
     "Views": "44,109,435"
   },
   {
@@ -1566,12 +1566,12 @@ arr=[
     "Instagram": "https://www.instagram.com/kasthurinews24/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCzFFF2OLaOk0z93ocNqH3aA",
     "Language": "Kannada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "3,231,558"
   },
   {
     "Name": "Kerela KAUMUDY",
-    "Address": "Post Box No. 24 Pettah Thiruvananthapuram Thiruvananthapuram : 695024. Kerala ,India",
+    "Address": "Post Box No. 24 Pettah Thiruvananthapuram Thiruvananthapuram :695024. Kerala ,India",
     "Link": "keralakaumudi.com",
     "Email": "cs.keralakaumudi@gmail.com",
     "Phone": "91 98472 38959",
@@ -1580,13 +1580,13 @@ arr=[
     "Instagram": "https://www.instagram.com/keralakaumudi/",
     "Youtube": "https://www.youtube.com/user/Kaumudy/videos",
     "Language": "Kanada",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "1,968,573,721"
   },
   {
     "Name": "Khabar Bharti",
-    "Address": "Kaumudi Buildings\nPettah PO\nTVM - 695024",
-    "Link": "",
+    "Address": "Kaumudi BuildingsPettah POTVM - 695024",
+    "Link": "NA",
     "Email": "news.khabarbharti@gmail.com",
     "Phone": 1204768800,
     "Facebook": "https://www.facebook.com/KhabarBharti.In/",
@@ -1594,13 +1594,13 @@ arr=[
     "Instagram": "https://www.instagram.com/khabarbharti24/",
     "Youtube": "https://www.youtube.com/channel/UC-euDqdsoBoJudOojElOoXA",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "1,124,040"
   },
   {
     "Name": "KHABAR FAST",
     "Address": "507, Suneja Tower 1, Janakpuri, DELHI - 110058 (Near Satyam Cinema , District Center)",
-    "Link": "",
+    "Link": "NA",
     "Email": "news.khabarbharti@gmail.com",
     "Phone": "011 6680 7700",
     "Facebook": "https://www.facebook.com/khabarfasttv",
@@ -1608,13 +1608,13 @@ arr=[
     "Instagram": "https://www.instagram.com/khabarfast/",
     "Youtube": "https://www.youtube.com/user/khabarfast",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "7,846,865"
   },
   {
     "Name": "KHABRAIN ABHI TAK(ABHI TAK)",
     "Address": "Khabrain Abhi Tak in Sector 32, Gurgaon-122202",
-    "Link": "",
+    "Link": "NA",
     "Email": "news.khabarbharti@gmail.com",
     "Phone": "98146 20899",
     "Facebook": "https://www.facebook.com/khabrainabhitaklive",
@@ -1622,7 +1622,7 @@ arr=[
     "Instagram": "https://www.instagram.com/khabrainabhitak/",
     "Youtube": "https://www.youtube.com/channel/UCay0q8cEQlusmaY3FYl13fQ?view_as=subscriber",
     "Language": "Hindi",
-    "Location ": "GURAGON",
+    "Location": "GURAGON",
     "Views": "21,605,931"
   },
   {
@@ -1636,7 +1636,7 @@ arr=[
     "Instagram": "https://www.instagram.com/24x7newsbengal/",
     "Youtube": "https://www.youtube.com/channel/UCWvZ-bUtYqTwIqarzuDie1A",
     "Language": "Bangla",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "1,729,075"
   },
   {
@@ -1644,18 +1644,18 @@ arr=[
     "Address": "1/7, NAKTALAGROUND FLOOR KOLKATA, Kolkata, INDIA 700047.",
     "Link": "kolkata24x7.in",
     "Email": "ekolkata24x7@gmail.com",
-    "Phone": "n/a",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/kolkata24x7",
     "Twitter": "https://twitter.com/ekolkata24x7",
     "Instagram": "https://www.instagram.com/kolkata24x7_bengali",
     "Youtube": "https://www.youtube.com/channel/UCL4hl9kJ0JI8XJ3kqH7M5Dw",
     "Language": "Bangla",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "116,780"
   },
   {
     "Name": "KOLKATA TV",
-    "Address": "18 Rabindra Sarani, Poddar Court,\nGate No - 1 6th Floor, Kolkata- 700001\nWest Bengal, India",
+    "Address": "18 Rabindra Sarani, Poddar Court,Gate No - 1 6th Floor, Kolkata- 700001West Bengal, India",
     "Link": "kolkatatv.org",
     "Email": "info@kolkatatv.org",
     "Phone": "033-22250159, 033-22250160",
@@ -1663,14 +1663,14 @@ arr=[
     "Twitter": "https://twitter.com/twitkolkatatv",
     "Instagram": "https://www.instagram.com/kolkatatv",
     "Youtube": "https://www.youtube.com/c/KOLKATATV/videos",
-    "Language": "Bangla\n",
-    "Location ": "WEST BENGAL",
+    "Language": "Bangla",
+    "Location": "WEST BENGAL",
     "Views": "25,168,121"
   },
   {
     "Name": "LEMON NEWS",
-    "Address": "Ghatkopar Link Road, 861, Unit No-1,6th Floor, Building No-8, Solitaire Corporation Park, Andheri Ghatkopar Link Road, Andheri",
-    "Link": "",
+    "Address": "Ghatkopar LinkRoad, 861, Unit No-1,6th Floor, Building No-8, Solitaire Corporation Park, Andheri Ghatkopar LinkRoad, Andheri",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/pages/category/TV-channel/Channel-lemon-news-444050462465093/",
@@ -1678,26 +1678,26 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "NA"
   },
   {
     "Name": "Live 24 News Channel",
     "Address": "C-012, C Block, Sector 63, Noida, Uttar Pradesh 201301",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
-    "Phone": "\n098183 60959",
+    "Phone": "098183 60959",
     "Facebook": "https://www.facebook.com/live24online/",
     "Twitter": "https://twitter.com/live24online?lang=en",
     "Instagram": "https://www.instagram.com/livnews24/?hl=en",
     "Youtube": "https://www.youtube.com/c/live24news",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "267,893"
   },
   {
     "Name": "Live India",
-    "Address": "Opp: Don Bosco College, Near Kohinoor City, Kurla West, Mumbai- 400070",
+    "Address": "Opp:Don Bosco College, Near Kohinoor City, Kurla West, Mumbai- 400070",
     "Link": "liveindia.tv",
     "Email": "admin@liveindia.tv",
     "Phone": "22-67882000",
@@ -1705,8 +1705,8 @@ arr=[
     "Twitter": "NA",
     "Instagram": "NA",
     "Youtube": "NA",
-    "Language": "Hindi, English,     SCHEDULE\n",
-    "Location ": "MAHARASHTRA",
+    "Language": "Hindi, English,     SCHEDULE",
+    "Location": "MAHARASHTRA",
     "Views": "NA"
   },
   {
@@ -1720,7 +1720,7 @@ arr=[
     "Instagram": "https://www.instagram.com/livingindianews",
     "Youtube": "https://www.youtube.com/c/livingindianews",
     "Language": "Hindi",
-    "Location ": "CHANDIGARH",
+    "Location": "CHANDIGARH",
     "Views": "37,344,494"
   },
   {
@@ -1734,11 +1734,11 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "GUJARATI/ Hindi/ English/   ",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "NA"
   },
   {
-    "Name": "Lokshahi\nJANADESH)",
+    "Name": "LokshahiJANADESH)",
     "Address": "B-10, MIDC Central ROAD, opp. Akruti Centre Point, above Kotak Mahindra Bank, Andheri East, Mumbai, Maharashtra",
     "Link": "lokshahi.com",
     "Email": "lokshahinewsmarathi@gmail.co",
@@ -1748,7 +1748,7 @@ arr=[
     "Instagram": "https://www.instagram.com/lokshahinewslive/",
     "Youtube": "https://www.youtube.com/c/lokshahinews",
     "Language": "English/   ",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "85,372,063"
   },
   {
@@ -1762,7 +1762,7 @@ arr=[
     "Instagram": "https://www.instagram.com/lotusnews24x7/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=Lotus+News+",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "2,136,566"
   },
   {
@@ -1776,26 +1776,26 @@ arr=[
     "Instagram": "https://www.instagram.com/mahaanews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCDKjhgRoPF1CQk7HluMz23A",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "890,203,507"
   },
   {
     "Name": "MAHARASHTRA 1",
     "Address": "400013, Shastri Nagar, Adarsh Nagar, Lower Parel-400013.",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "022 6111 2403",
     "Facebook": "https://www.facebook.com/maharashtraone/",
     "Twitter": "https://mobile.twitter.com/maharashtra1tv",
-    "Instagram": "n/a",
+    "Instagram": "NA",
     "Youtube": "https://www.youtube.com/maharashtra1tv",
     "Language": "English     ",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "64,609,331"
   },
   {
     "Name": "Malai Murasu Seithikal",
-    "Address": "12/16, SUBBARAO AVENUE FIRST STREET, COLLEGE ROAD, Tamil Nadu\nâ€“ 600006",
+    "Address": "12/16, SUBBARAO AVENUE FIRST STREET, COLLEGE ROAD, Tamil Naduâ€“ 600006",
     "Link": "malaimurasu.com",
     "Email": "webteam@malaimurasu.in",
     "Phone": "44 2829 7260",
@@ -1804,7 +1804,7 @@ arr=[
     "Instagram": "https://www.instagram.com/malaimurasu_official/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCXbufH95DIUqyAWSzeDI0JQ",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "292,603,970"
   },
   {
@@ -1818,7 +1818,7 @@ arr=[
     "Instagram": "https://www.instagram.com/mangalamnewsonline/",
     "Youtube": "https://www.youtube.com/channel/UC1ubgbMtS3Z4xJb3vgBhzdA",
     "Language": "Hindi     ",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "7,654,720"
   },
   {
@@ -1832,7 +1832,7 @@ arr=[
     "Instagram": "https://www.instagram.com/manoramanews/?hl=en",
     "Youtube": "https://www.youtube.com/c/manoramanews",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "7,136,418,809"
   },
   {
@@ -1846,12 +1846,12 @@ arr=[
     "Instagram": "https://www.instagram.com/mantavyanews/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=MANTAVYA+NEWS",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "997,741"
   },
   {
     "Name": "MATHRUBHUMI NEWS",
-    "Address": "The Mathrubhumi Printing & Publishing Co. Ltd.,\nM.J. Krishnamohan Memorial Building,\nK.P. Kesava Menon Road,\nKozhikode - 673001.",
+    "Address": "The Mathrubhumi Printing & Publishing Co. Ltd.,M.J. Krishnamohan Memorial Building,K.P. Kesava Menon Road,Kozhikode - 673001.",
     "Link": "mathrubhumi.com",
     "Email": "g.anand@mpp.co.in",
     "Phone": "0495-2362000",
@@ -1860,12 +1860,12 @@ arr=[
     "Instagram": "https://www.instagram.com/mathrubhumidotcom/",
     "Youtube": "https://www.youtube.com/user/mathrubhumionline",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "140,816,757"
   },
   {
     "Name": "MBC TV",
-    "Address": "Josh Media Vision Pvt. Ltd.\n144/1, 144/A, Mancheswar Industrial Estate, Bhubaneswar, Odisha 751007.",
+    "Address": "Josh Media Vision Pvt. Ltd.144/1, 144/A, Mancheswar Industrial Estate, Bhubaneswar, Odisha 751007.",
     "Link": "mbctv.co.in",
     "Email": "mail.mbctv@gmail.com",
     "Phone": "6746664444,    ",
@@ -1874,7 +1874,7 @@ arr=[
     "Instagram": "https://www.instagram.com/mbctv_odisha/",
     "Youtube": "https://www.youtube.com/user/MBCTVODISHA",
     "Language": "Odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "61,078,559"
   },
   {
@@ -1888,21 +1888,21 @@ arr=[
     "Instagram": "https://www.instagram.com/mediaonetv.in/",
     "Youtube": "https://www.youtube.com/channel/UCpt10lzibN9Ux-tFGVAnrBw",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "18,215,652"
   },
   {
     "Name": "MEGA 24",
-    "Address": "#24, 6th Main Road\nKasthuriba Nagar, Adyar\nTamil Nadu - 600 020\nTamil Nadu, India",
+    "Address": "#24, 6th Main RoadKasthuriba Nagar, AdyarTamil Nadu - 600 020Tamil Nadu, India",
     "Link": "megatv.in",
     "Email": "megatv@megatv.in",
     "Phone": "2443 7777",
     "Facebook": "https://www.facebook.com/megatvindia/",
-    "Twitter": "n/a",
+    "Twitter": "NA",
     "Instagram": "instagram.com/megatvtamil/",
     "Youtube": "https://www.youtube.com/c/megatvindia/about",
-    "Language": "English/Hindi  \n ",
-    "Location ": "TAMIL NADU",
+    "Language": "English/Hindi   ",
+    "Location": "TAMIL NADU",
     "Views": "72,660,741"
   },
   {
@@ -1916,13 +1916,13 @@ arr=[
     "Instagram": "https://www.instagram.com/mhoneworld/?hl=en",
     "Youtube": "https://www.youtube.com/c/MHOneNews",
     "Language": "Punjabi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "73,978,283"
   },
   {
     "Name": "Mirror Now",
     "Address": "1st Floor, Trade House, Kamala Mill Compound,Times House, 7, Bahadurshah Zafar Marg, New DELHI, 110002+9111",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "911123302000 ,912224931341,01206637050,01203305555",
     "Facebook": "https://www.facebook.com/Timesnow",
@@ -1930,21 +1930,21 @@ arr=[
     "Instagram": "https://www.instagram.com/timesnow",
     "Youtube": "https://www.youtube.com/channel/UCWCEYVwSqr7Epo6sSCfUgiw?feature=emb_ch_name_ex",
     "Language": "Englidh",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "72,709,198"
   },
   {
     "Name": "MOJO TV",
-    "Address": "72, Road # 5, Banjara Hills\nTelangana, 500035\nIndia",
+    "Address": "72, Road # 5, Banjara HillsTelangana, 500035India",
     "Link": "mojotv.com",
     "Email": "NA",
-    "Phone": "N/A",
+    "Phone": "NA",
     "Facebook": "https://www.facebook.com/mojotvchannel",
     "Twitter": "https://twitter.com/mojotvchannel",
     "Instagram": "https://www.instagram.com/mojotvchannel/",
     "Youtube": "https://www.youtube.com/channel/UCO6-loIjSgmwk3PEUQ5ZM5Q",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "16,971,933"
   },
   {
@@ -1958,7 +1958,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/user/MunsifTelevision?app=desktop",
     "Language": "Urdu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "18,089,143"
   },
   {
@@ -1972,11 +1972,11 @@ arr=[
     "Instagram": "https://www.instagram.com/ntvtelugulive/",
     "Youtube": "https://www.youtube.com/channel/UCumtYpCY26F6Jr3satUgMvA",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "5,722,859,354"
   },
   {
-    "Name": "Nandighosha TV (Earlier Known as\nOdisha News, Zonet)",
+    "Name": "Nandighosha TV (Earlier Known asOdisha News, Zonet)",
     "Address": "3rd Floor, Grand Lumbini Convention, P-1, Neeladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha",
     "Link": "nandighoshatv.com",
     "Email": "accounts@nandighoshatv.com",
@@ -1986,7 +1986,7 @@ arr=[
     "Instagram": "https://www.instagram.com/nandighoshatv/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=Nandighosha+TV",
     "Language": "Oriya",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "711,869,702"
   },
   {
@@ -2000,7 +2000,7 @@ arr=[
     "Instagram": "https://www.instagram.com/",
     "Youtube": "https://www.youtube.com/channel/UCZy0safbKTptmnVx4ekvrbQ",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "1,035,867"
   },
   {
@@ -2014,13 +2014,13 @@ arr=[
     "Instagram": "https://www.instagram.com/nationalvoiceupuk/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=National+Voice",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "31,159,453"
   },
   {
-    "Name": "NAVTEJ 24x7 (EARLIER KNOW AS: HTN NEWS, HARVEST TV, SHRI S7 NEWS, EARLIER VEE NEWS)",
+    "Name": "NAVTEJ 24x7 (EARLIER KNOW AS:HTN NEWS, HARVEST TV, SHRI S7 NEWS, EARLIER VEE NEWS)",
     "Address": "507-508, Fifth Floor, DP Metro Tower, New Sanganer Road Jaipur-302019",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "954 973 8800",
     "Facebook": "https://www.facebook.com/navtejtvchannel/",
@@ -2028,12 +2028,12 @@ arr=[
     "Instagram": "https://www.instagram.com/navtejtvnetwork/",
     "Youtube": "https://www.youtube.com/c/NavtejTVNetwork",
     "Language": " Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "28,177,059"
   },
   {
     "Name": "NAXATRA NEWS",
-    "Address": "Naxatra News F/4, Indradhanu Market (Third Floor)\nNayapalli,Bhubaneswar (Odisha)",
+    "Address": "Naxatra News F/4, Indradhanu Market (Third Floor)Nayapalli,Bhubaneswar (Odisha)",
     "Link": "naxatranews.com",
     "Email": "NA",
     "Phone": "0674-2553033",
@@ -2042,11 +2042,11 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCtGLrdJjtwUD2qEvIHm8QNg",
     "Language": "Odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "7,643,782"
   },
   {
-    "Name": "ND24- Newsdaily24.in (Earlier Live Today-Tez Najar Sahi Khabar, SADHANA NEWS, SADHANA ARYAN NEWS, 24X7 BTV NEWS ,\nPrabhatam LIFELINE)",
+    "Name": "ND24- Newsdaily24.in (Earlier Live Today-Tez Najar Sahi Khabar, SADHANA NEWS, SADHANA ARYAN NEWS, 24X7 BTV NEWS ,Prabhatam LIFELINE)",
     "Address": "vatar Complex, Naharani Path, Near Dispur Last Gate, ASSAM, Assam 781006",
     "Link": "newsdaily24.in",
     "Email": "newsdaily24nd@gmail.com",
@@ -2056,7 +2056,7 @@ arr=[
     "Instagram": "https://www.instagram.com/nd24_news",
     "Youtube": "https://www.youtube.com/channel/UCuq09_Q76XZ4xlmGLidKjVQ",
     "Language": "Assamese",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "890,654,137"
   },
   {
@@ -2070,7 +2070,7 @@ arr=[
     "Instagram": "https://www.instagram.com/nd24_news/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=ND24",
     "Language": "Assamese",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "26,036,466"
   },
   {
@@ -2084,7 +2084,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ndtv/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=NDTV+INDIA",
     "Language": "Hindi ",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "5,700,087,286"
   },
   {
@@ -2098,12 +2098,12 @@ arr=[
     "Instagram": "https://www.instagram.com/navtejtvnetwork/",
     "Youtube": "https://www.youtube.com/user/ndtvprofit",
     "Language": "English/Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "22,104,748"
   },
   {
     "Name": "NE News",
-    "Address": "G.N.Choudhury Building,\nDr. J.C Das Road, Panbazar,\nASSAM-781001\nAssam",
+    "Address": "G.N.Choudhury Building,Dr. J.C Das Road, Panbazar,ASSAM-781001Assam",
     "Link": "nenow.in",
     "Email": "contact@nenow.in",
     "Phone": "75778-05040",
@@ -2112,12 +2112,12 @@ arr=[
     "Instagram": "https://www.instagram.com/nenewslive/",
     "Youtube": "NA",
     "Language": "Assamese",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "NA"
   },
   {
     "Name": "News 1 India",
-    "Address": "ARCHANA COMPLEX, GREATER\nKAILASH-I, NEW DELHI - 110048",
+    "Address": "ARCHANA COMPLEX, GREATERKAILASH-I, NEW DELHI - 110048",
     "Link": "news1india.in",
     "Email": "contact@firstindianews.com",
     "Phone": "0120 480 8100",
@@ -2126,12 +2126,12 @@ arr=[
     "Instagram": "https://www.instagram.com/news1india",
     "Youtube": "https://www.youtube.com/c/News1India",
     "Language": "English /Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "27,664,550"
   },
   {
     "Name": "News 18 India",
-    "Address": "D/no: 6-3-902/a, 4th floor, plot no : 9, central plaza, rajbhavan road, somajiguda, Telangana - 500082.",
+    "Address": "D/no:6-3-902/a, 4th floor, plot no :9, central plaza, rajbhavan road, somajiguda, Telangana - 500082.",
     "Link": "news18.com",
     "Email": "editor@news18.com",
     "Phone": "91-120-4341818, 3987777.",
@@ -2140,7 +2140,7 @@ arr=[
     "Instagram": "https://www.instagram.com/cnnnews18/",
     "Youtube": "https://www.youtube.com/cnnnews18",
     "Language": "English",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "436,775,121"
   },
   {
@@ -2154,7 +2154,7 @@ arr=[
     "Instagram": "https://www.instagram.com/News18Lokmat/",
     "Youtube": "https://www.youtube.com/c/News18LokmatTV",
     "Language": "Marathi ",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "890,654,137"
   },
   {
@@ -2168,7 +2168,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18hindi/",
     "Youtube": "https://www.youtube.com/c/news18India",
     "Language": "Hindi",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "5,107,742,665"
   },
   {
@@ -2182,7 +2182,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/News18Rajasthan",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "877,007,267"
   },
   {
@@ -2196,7 +2196,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/News18UPUttarakhand",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "919,678,177"
   },
   {
@@ -2210,12 +2210,12 @@ arr=[
     "Instagram": "https://www.instagram.com/news18urdu/?hl=en",
     "Youtube": "https://www.youtube.com/c/News18Urdu/",
     "Language": "Urdu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "280,336,619"
   },
   {
     "Name": "News 24",
-    "Address": "News24 Think First Channel, FC-23, Sector-16A,\nFilm City, Noida, Uttar Pradesh 201 301",
+    "Address": "News24 Think First Channel, FC-23, Sector-16A,Film City, Noida, Uttar Pradesh 201 301",
     "Link": "news24Uttar Pradesh.com",
     "Email": "news24mathura@gmail.com",
     "Phone": "0120-4602424",
@@ -2224,12 +2224,12 @@ arr=[
     "Instagram": "https://www.instagram.com/news24official/?hl=en",
     "Youtube": "https://www.youtube.com/user/News24page/",
     "Language": " Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "86,138,112"
   },
   {
     "Name": "News 24 MP",
-    "Address": "Express Trade Tower, Plot No. 15-16, Sector-16A, Film City, Noida, Uttar\nPradesh-201301",
+    "Address": "Express Trade Tower, Plot No. 15-16, Sector-16A, Film City, Noida, UttarPradesh-201301",
     "Link": "news24Uttar Pradesh.com",
     "Email": "news24mathura@gmail.com",
     "Phone": "0120-4602424.",
@@ -2238,7 +2238,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news24official/?hl=en",
     "Youtube": "https://www.youtube.com/user/News24page/",
     "Language": "Hindi ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "6,054,221,930"
   },
   {
@@ -2252,7 +2252,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news7tamil/?hl=en",
     "Youtube": "https://www.youtube.com/c/News7TamilPRIME",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "340,284,641"
   },
   {
@@ -2266,7 +2266,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newsxpressonline/",
     "Youtube": "https://www.youtube.com/channel/UCEWHoHLo89dkQJR_axIupEA",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "1,148,430,405"
   },
   {
@@ -2280,12 +2280,12 @@ arr=[
     "Instagram": "http://www.instagram.com/newsjtamil",
     "Youtube": "https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "86,138,112"
   },
   {
     "Name": "News Nation",
-    "Address": "News Nation Network Pvt Ltd.\nPlot No. 14\nSector 126, Noida 201 301, UP, India",
+    "Address": "News Nation Network Pvt Ltd.Plot No. 14Sector 126, Noida 201 301, UP, India",
     "Link": "newsnationtv.com",
     "Email": "info@newsnation.in",
     "Phone": "120-7138600",
@@ -2294,7 +2294,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newsnationtv/?hl=en",
     "Youtube": "https://www.youtube.com/user/NewsNationTV",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "1,677,599,481"
   },
   {
@@ -2307,8 +2307,8 @@ arr=[
     "Twitter": "https://twitter.com/News18Assam",
     "Instagram": "https://www.instagram.com/News18Assam/",
     "Youtube": "https://www.youtube.com/channel/UCAjBd-r8JWfnRjfhg23nqLQ",
-    "Language": "GUJARATI/ English/    SCHEDULE\n",
-    "Location ": "DELHI",
+    "Language": "GUJARATI/ English/    SCHEDULE",
+    "Location": "DELHI",
     "Views": "607,700,022"
   },
   {
@@ -2322,7 +2322,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newsworldindia/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCO3SgYrR8KCArqF_k-tzJAg",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "10,389,381"
   },
   {
@@ -2336,7 +2336,7 @@ arr=[
     "Instagram": "https://www.instagram.com/News18Assam/",
     "Youtube": "https://www.youtube.com/channel/UCAjBd-r8JWfnRjfhg23nqLQ",
     "Language": "Hindi",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "607,700,022"
   },
   {
@@ -2350,7 +2350,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18bangla",
     "Youtube": "https://www.youtube.com/channel/UCbf0XHULBkTfv2hBjaaDw9Q",
     "Language": "Bangla",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "2,612,906,426"
   },
   {
@@ -2364,7 +2364,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18hindi/",
     "Youtube": "https://www.youtube.com/c/news18India",
     "Language": "ASSAMI",
-    "Location ": "KOLKATA",
+    "Location": "KOLKATA",
     "Views": "641,343,903"
   },
   {
@@ -2378,7 +2378,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18hindi/",
     "Youtube": "https://www.youtube.com/c/news18India",
     "Language": "Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "5,107,742,665"
   },
   {
@@ -2392,12 +2392,12 @@ arr=[
     "Instagram": "https://www.instagram.com/news18gujarati/",
     "Youtube": "https://www.youtube.com/channel/UCqfX_f4rBbPhq_KESE4saCA",
     "Language": "Hindi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "609,326,325"
   },
   {
     "Name": "News18 Kannada",
-    "Address": "Global Broadcast News, Express Trade Tower,\nPlot No. 15-16, Sector-16A, Noida, Uttar Pradesh,\nIndia - 201301",
+    "Address": "Global Broadcast News, Express Trade Tower,Plot No. 15-16, Sector-16A, Noida, Uttar Pradesh,India - 201301",
     "Link": "news18.com",
     "Email": "editor@news18.com",
     "Phone": "120-4341818",
@@ -2406,7 +2406,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18hindi/",
     "Youtube": "https://www.youtube.com/c/news18India",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "5,107,742,665"
   },
   {
@@ -2420,7 +2420,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18kannada/",
     "Youtube": "https://www.youtube.com/channel/UCa-vioGhe2btBcZneaPonKA",
     "Language": "telugu",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "717,289,723"
   },
   {
@@ -2434,12 +2434,12 @@ arr=[
     "Instagram": "https://www.instagram.com/news18Kerala/",
     "Youtube": "https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw",
     "Language": "Malalyalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "641,343,903"
   },
   {
     "Name": "News18 Lokmat",
-    "Address": "News18Lokmat,\nEmpire Complex,\n414, Senapati Bapat Marg, Lower Parel\nMumbai – 400013",
+    "Address": "News18Lokmat,Empire Complex,414, Senapati Bapat Marg, Lower ParelMumbai – 400013",
     "Link": "news18.com",
     "Email": "editor@news18.com",
     "Phone": "-22 - 66899000",
@@ -2448,12 +2448,12 @@ arr=[
     "Instagram": "https://www.instagram.com/News18Lokmat/",
     "Youtube": "https://www.youtube.com/c/News18LokmatTV",
     "Language": "Marathi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "890,654,137"
   },
   {
     "Name": "News18 MADHYA PRADESH Chhattisgarh",
-    "Address": "Express Trade Tower, Plot No. 15-16, Sector-16A, Film City, Noida, Uttar\nPradesh-201301",
+    "Address": "Express Trade Tower, Plot No. 15-16, Sector-16A, Film City, Noida, UttarPradesh-201301",
     "Link": "news18.com",
     "Email": "editor@news18.com",
     "Phone": "120-4341818,",
@@ -2462,7 +2462,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18hindi/",
     "Youtube": "https://www.youtube.com/c/News18MPChhattisgarh/about",
     "Language": "English, Hindi &   ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "643,973,745"
   },
   {
@@ -2476,7 +2476,7 @@ arr=[
     "Instagram": "https://www.instagram.com/News18Odia/",
     "Youtube": "https://www.youtube.com/c/News18Odia",
     "Language": "Odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "595,765,143"
   },
   {
@@ -2490,7 +2490,7 @@ arr=[
     "Instagram": "https://www.instagram.com/News18Punjab/",
     "Youtube": "https://www.youtube.com/channel/UC-crZTQNRzZgzyighTKF0nQ",
     "Language": "Punjabi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "1,462,793,901"
   },
   {
@@ -2504,21 +2504,21 @@ arr=[
     "Instagram": "https://www.instagram.com/news18hindi/",
     "Youtube": "https://www.youtube.com/c/news18India",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "5,107,742,665"
   },
   {
     "Name": "NEWS18 TAMIL NADU",
-    "Address": "Express Trade Tower, Plot No. 15-16, Sector-16A, Film City, Noida, Uttar\nPradesh-201301",
+    "Address": "Express Trade Tower, Plot No. 15-16, Sector-16A, Film City, Noida, UttarPradesh-201301",
     "Link": "news18.com",
     "Email": "editor@news18.com",
-    "Phone": "News18 Tamilnadu,\nPascan Meru,\n5th and 6th Floor,\nR.R.C. Center,\nNear Valluvar Kottam,\nKodambakkam Main Road,\nNungambakkam, Tamil Nadu - 34",
+    "Phone": "News18 Tamilnadu,Pascan Meru,5th and 6th Floor,R.R.C. Center,Near Valluvar Kottam,Kodambakkam Main Road,Nungambakkam, Tamil Nadu - 34",
     "Facebook": "https://www.facebook.com/News18TamilNadu/",
     "Twitter": "https://twitter.com/News18TamilNadu",
     "Instagram": "https://www.instagram.com/news18tamilnadu/",
     "Youtube": "https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA",
-    "Language": "English/Hindi    INDIAN\n",
-    "Location ": "UTTAR PRADESH",
+    "Language": "English/Hindi    INDIAN",
+    "Location": "UTTAR PRADESH",
     "Views": "784,002,655"
   },
   {
@@ -2532,7 +2532,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newsxonline/",
     "Youtube": "https://www.youtube.com/user/newsxlive",
     "Language": "  Englsih",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "450,945,306"
   },
   {
@@ -2546,7 +2546,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCesdEDnaJ-AcUOTaHw-I5Ig",
     "Language": "Kanada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "1,062,022"
   },
   {
@@ -2560,11 +2560,11 @@ arr=[
     "Instagram": "https://www.instagram.com/nirmananews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCp824_8pAGS1U3ANtqszpHw",
     "Language": "Gujarthi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "15,471,778"
   },
   {
-    "Name": "NK TV 24x7\nTULASI)",
+    "Name": "NK TV 24x7TULASI)",
     "Address": "Ganeshguri, ASSAM, Assam 781005",
     "Link": "nktv.in",
     "Email": "nktv247@gmail.com.",
@@ -2574,7 +2574,7 @@ arr=[
     "Instagram": "https://instagram.com/nktv247",
     "Youtube": "https://youtube.com/channel/UC8Laa_RuQbXSe7nQV-1kNfg",
     "Language": "Assamese",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "164,507,654"
   },
   {
@@ -2588,7 +2588,7 @@ arr=[
     "Instagram": "https://www.instagram.com/nltvnews/",
     "Youtube": "https://www.youtube.com/c/NLTVnews",
     "Language": "Hindi",
-    "Location ": "NAGALAND",
+    "Location": "NAGALAND",
     "Views": "45,921,743"
   },
   {
@@ -2602,7 +2602,7 @@ arr=[
     "Instagram": "https://www.instagram.com/vaartha/",
     "Youtube": "NA",
     "Language": "Telugu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "NA"
   },
   {
@@ -2616,7 +2616,7 @@ arr=[
     "Instagram": "https://www.instagram.com/nelivetv/",
     "Youtube": "https://www.youtube.com/channel/UCt3tlVHWxa0rojahYIKJI_w",
     "Language": "English/Hindi",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "70,559,926"
   },
   {
@@ -2630,7 +2630,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ntvtelugulive/",
     "Youtube": "https://www.youtube.com/channel/UCumtYpCY26F6Jr3satUgMvA",
     "Language": "TELUGU",
-    "Location ": "HYDERABAD",
+    "Location": "HYDERABAD",
     "Views": "5,722,859,354"
   },
   {
@@ -2644,7 +2644,7 @@ arr=[
     "Instagram": "https://www.instagram.com/otv.news",
     "Youtube": "https://www.youtube.com/c/OTVNewsEnglish",
     "Language": "Odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "13,116,564"
   },
   {
@@ -2658,7 +2658,7 @@ arr=[
     "Instagram": "https://instagram.com/newsworlodisha",
     "Youtube": "https://www.youtube.com/channel/UCCTrqrHKqdS915K-TpMG6pg",
     "Language": "Odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "711,869,702"
   },
   {
@@ -2672,21 +2672,21 @@ arr=[
     "Instagram": "https://www.instagram.com/newsokindia/",
     "Youtube": "https://m.youtube.com/c/OKIndiatv",
     "Language": "27 languages",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "3,148,447"
   },
   {
     "Name": "ONKAR ONLY TRUTH",
     "Address": "103, 3rd Floor, Park Street, Kolkata - 700016 (Near Park Hotel)",
     "Link": "onkarnews.com",
-    "Email": "\r\nonkar.news21@gmail.com",
+    "Email": "onkar.news21@gmail.com",
     "Phone": 9883831722,
     "Facebook": "https://www.facebook.com/OnkarNewsBangla/",
     "Twitter": "https://twitter.com/onkar_news?lang=en",
     "Instagram": "https://www.instagram.com/onkarnewshindi/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCEehFQbkw72mMNSqH-7YJ_w",
     "Language": "Bengali",
-    "Location ": "KOLKATA",
+    "Location": "KOLKATA",
     "Views": "163,556"
   },
   {
@@ -2700,26 +2700,26 @@ arr=[
     "Instagram": "https://www.instagram.com/rajasthan_patrika/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCWk-7Yosyvzln9ZzJg8BvVg",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "1,069,046,091"
   },
   {
     "Name": "Pearls Broadcasting",
     "Address": "B- 1401, 14TH FLOOR, STATESMAN HOUSE,BARAKHAMBA ROAD,New DELHI,DELHI,INDIA,110001",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": 18001803580,
     "Facebook": "https://www.facebook.com/Pearls-Broadcasting-Corporation-Ltd-118556161510350/",
     "Twitter": "https://twitter.com/p7news24x7?lang=en",
     "Instagram": "NA",
     "Youtube": "NA",
-    "Language": "English \n",
-    "Location ": "DELHI",
+    "Language": "English ",
+    "Location": "DELHI",
     "Views": "NA"
   },
   {
     "Name": "PLANET NEWS",
-    "Address": "Tower View, TC Bo. 21/256, Judge Road, Karamana, Thiruvananthapuram,\nKerala-695002",
+    "Address": "Tower View, TC Bo. 21/256, Judge Road, Karamana, Thiruvananthapuram,Kerala-695002",
     "Link": "planetnews.info",
     "Email": "press@planet.com.",
     "Phone": "NA",
@@ -2727,8 +2727,8 @@ arr=[
     "Twitter": "NA",
     "Instagram": "NA",
     "Youtube": "NA",
-    "Language": "PUNJABI, Hindi, English    \nSCHEDULE ",
-    "Location ": "KERALA",
+    "Language": "PUNJABI, Hindi, English    SCHEDULE ",
+    "Location": "KERALA",
     "Views": "NA"
   },
   {
@@ -2742,11 +2742,11 @@ arr=[
     "Instagram": "https://www.instagram.com/polimernews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "8,368,225,520"
   },
   {
-    "Name": "POWER TV (Earlier known as ABN\nNetwork, before that LOKSHAHI)",
+    "Name": "POWER TV (Earlier known as ABNNetwork, before that LOKSHAHI)",
     "Address": "07, Mathikere Main ROAD, Gokula 1st Stage, LIC Colony, Mathikere, Bengaluru, Karnataka 560054",
     "Link": "powertvnews.in",
     "Email": "contact@powertvnews.in",
@@ -2756,7 +2756,7 @@ arr=[
     "Instagram": "https://www.instagram.com/powertvnews/",
     "Youtube": "NA",
     "Language": "Kannada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "NA"
   },
   {
@@ -2770,7 +2770,7 @@ arr=[
     "Instagram": "https://www.instagram.com/pragnewsofficial",
     "Youtube": "https://m.youtube.com/channel/UCe59qUJndCWEr8XWpDWm6Jg",
     "Language": "Assamese",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "674,348,157"
   },
   {
@@ -2784,7 +2784,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "NA"
   },
   {
@@ -2797,8 +2797,8 @@ arr=[
     "Twitter": "https://twitter.com/primenewslivetv",
     "Instagram": "https://www.instagram.com/primenewslive/",
     "Youtube": "https://www.youtube.com/channel/UCnH1cUnkvs2c8wcHl5voamA",
-    "Language": "Hindi\n  ",
-    "Location ": "ASSAM",
+    "Language": "Hindi  ",
+    "Location": "ASSAM",
     "Views": "6,247,923"
   },
   {
@@ -2812,7 +2812,7 @@ arr=[
     "Instagram": "https://www.instagram.com/pratidintime/",
     "Youtube": "https://www.youtube.com/channel/UC1JkYCOb4wKvdWreGQ0CR9g",
     "Language": "Assamese",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "727,428,714"
   },
   {
@@ -2826,7 +2826,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ptc_news",
     "Youtube": "https://www.youtube.com/user/PTCNewsIndia",
     "Language": "Punjabi, English, Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "313,495,618"
   },
   {
@@ -2840,7 +2840,7 @@ arr=[
     "Instagram": "https://www.instagram.com/publictv/?hl=en",
     "Youtube": "https://www.youtube.com/publictvnews",
     "Language": "Dari, Pashto, Baluchi and Mandarin",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "2,246,562,186"
   },
   {
@@ -2854,7 +2854,7 @@ arr=[
     "Instagram": "https://www.instagram.com/p/CDWaCHincUw/",
     "Youtube": "https://www.youtube.com/publictvnews",
     "Language": "Dari, Pashto, Baluchi and Mandarin",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "2,246,562,186"
   },
   {
@@ -2868,7 +2868,7 @@ arr=[
     "Instagram": "https://www.instagram.com/puthiyathalaimurai/?igshid=1oa2tvu4qatqi",
     "Youtube": "http://bit.ly/1O4soYP",
     "Language": "TAMIL",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "4,343,846,731"
   },
   {
@@ -2882,7 +2882,7 @@ arr=[
     "Instagram": "https://www.instagram.com/puthiyathalaimurai/?igshid=1oa2tvu4qatqi",
     "Youtube": "http://bit.ly/1O4soYP",
     "Language": "TAMIL",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "4,343,846,731"
   },
   {
@@ -2896,7 +2896,7 @@ arr=[
     "Instagram": "https://www.instagram.com/puthuyugam_insta/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCAW01Xupb-fd51o0BsQbcLQ",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "708,123,716"
   },
   {
@@ -2910,21 +2910,21 @@ arr=[
     "Instagram": "https://www.instagram.com/rplusnews8/",
     "Youtube": "https://www.youtube.com/user/2008Rplusnews",
     "Language": "Bengali",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "12,723,138"
   },
   {
     "Name": "R PLUS GOLD (earlier R PLUS NEWS)",
     "Address": "27, Mirza Ghalib St, Esplanade, Taltala, Kolkata, West Bengal 700016",
     "Link": "rplus.in",
-    "Email": "\r\ncoorm.rplus@rahul.ac.in",
+    "Email": "coorm.rplus@rahul.ac.in",
     "Phone": "033-40162727",
     "Facebook": "https://www.facebook.com/newsrplus/",
     "Twitter": "https://rplus.in/",
     "Instagram": "https://www.instagram.com/rplusnews8/",
     "Youtube": "https://www.youtube.com/user/2008Rplusnews",
     "Language": "Bengali",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "10,723,138"
   },
   {
@@ -2938,7 +2938,7 @@ arr=[
     "Instagram": "https://www.instagram.com/rtvonline",
     "Youtube": "https://www.youtube.com/rtvdigitals",
     "Language": "Hindi/English    ",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "6,378,625"
   },
   {
@@ -2951,13 +2951,13 @@ arr=[
     "Twitter": "https://twitter.com/RbanglaOfficial",
     "Instagram": "https://instagram.com/RbanglaOfficial",
     "Youtube": "https://www.youtube.com/channel/UCajVjEHDoVn_AHsunUZz_EQ",
-    "Language": "Bangla/Hindi/ English\n",
-    "Location ": "WEST BENGAL",
+    "Language": "Bangla/Hindi/ English",
+    "Location": "WEST BENGAL",
     "Views": "523,523,984"
   },
   {
     "Name": "R9 TV",
-    "Address": "232, AWADHPURI 2 KHARAGPUR, GOMATI NAGAR EXTENSION,\nUttar Pradesh â€“ 226010 (U.P)",
+    "Address": "232, AWADHPURI 2 KHARAGPUR, GOMATI NAGAR EXTENSION,Uttar Pradesh â€“ 226010 (U.P)",
     "Link": "r9news.in",
     "Email": "social@r9news.in",
     "Phone": 1204106251,
@@ -2966,7 +2966,7 @@ arr=[
     "Instagram": "https://www.instagram.com/r9.news/",
     "Youtube": "https://www.youtube.com/c/R9TVNews",
     "Language": "Hindi/English    ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "44,140,316"
   },
   {
@@ -2980,7 +2980,7 @@ arr=[
     "Instagram": "https://www.instagram.com/r9.news/?hl=en",
     "Youtube": "https://www.youtube.com/c/R9TVNews",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "44,140,316"
   },
   {
@@ -2994,7 +2994,7 @@ arr=[
     "Instagram": "https://www.instagram.com/raftaarnewschannel/?hl=en",
     "Youtube": "https://raftaarmedia.com/#",
     "Language": "Hindi",
-    "Location ": "JHARKHAND",
+    "Location": "JHARKHAND",
     "Views": "5,116,985,261"
   },
   {
@@ -3008,7 +3008,7 @@ arr=[
     "Instagram": "https://www.instagram.com/rajdigitalplus/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCJiZPv0NBY8CZELYIGTCImw",
     "Language": "Hindi",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": 200
   },
   {
@@ -3019,10 +3019,10 @@ arr=[
     "Phone": 4029800105,
     "Facebook": "https://www.facebook.com/rajnewstamil/",
     "Twitter": "https://twitter.com/rajnewstamil",
-    "Instagram": "\r\nhttps://www.instagram.com/rajnewstamil/",
+    "Instagram": "https://www.instagram.com/rajnewstamil/",
     "Youtube": "https://www.youtube.com/c/RajNewsTamil",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "50,126,571"
   },
   {
@@ -3036,12 +3036,12 @@ arr=[
     "Instagram": "https://www.instagram.com/rajnewstamil/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCvXl1RDQ6ZZTcbQAGNHTNzA",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "3,699,833"
   },
   {
     "Name": "RAJ NEWS KANNADA",
-    "Address": "G.T. Road Panagarh Bazar, Budwan, WB-\n713148",
+    "Address": "G.T. Road Panagarh Bazar, Budwan, WB-713148",
     "Link": "rajtvnet.in",
     "Email": "rajtv@vsnl.com",
     "Phone": "044 24334149",
@@ -3050,7 +3050,7 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/483126412/raj-news-channel/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC8Wv45FlYxyseYTTSjMfrBQ",
     "Language": "BANGLA",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "115,167,593"
   },
   {
@@ -3064,12 +3064,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/483126412/raj-news-channel/?hl=en",
     "Youtube": "NAhttps://www.youtube.com/channel/UC8Wv45FlYxyseYTTSjMfrBQ",
     "Language": "Hindi",
-    "Location ": "HYDERABAD",
+    "Location": "HYDERABAD",
     "Views": "115,167,593"
   },
   {
     "Name": "RAJ NEWS TELUGU",
-    "Address": "Uttam Nivas, Patel Nagar, Harmu\nHousing Colony, Ranchi JHARKHAND- 834002",
+    "Address": "Uttam Nivas, Patel Nagar, HarmuHousing Colony, Ranchi JHARKHAND- 834002",
     "Link": "rajtvnet.in",
     "Email": "rajtv@vsnl.com",
     "Phone": 4029800105,
@@ -3077,13 +3077,13 @@ arr=[
     "Twitter": "www.twitter.com/rajnewsofficial",
     "Instagram": "https://www.instagram.com/rajnewstelugu/",
     "Youtube": "https://www.youtube.com/channel/UCLF6LTfTX_eO-LeLbarKlvw",
-    "Language": "Hindi English  \n  ",
-    "Location ": "JHARKHAND",
+    "Language": "Hindi English    ",
+    "Location": "JHARKHAND",
     "Views": "127,178,966"
   },
   {
     "Name": "RAJ PARIWAR",
-    "Address": "Kesargarh, J.L.N. Marg, Jaipur,\nRajasthan-302004.",
+    "Address": "Kesargarh, J.L.N. Marg, Jaipur,Rajasthan-302004.",
     "Link": "rajtvnet.in",
     "Email": "rajtv@vsnl.com",
     "Phone": 4029800105,
@@ -3091,8 +3091,8 @@ arr=[
     "Twitter": "www.twitter.com/rajnewsofficiall",
     "Instagram": "https://www.instagram.com/rajnewstelugu/",
     "Youtube": "https://www.youtube.com/channel/UCLF6LTfTX_eO-LeLbarKlvww",
-    "Language": "Hindi & English   \n",
-    "Location ": "RAJASTHAN",
+    "Language": "Hindi & English   ",
+    "Location": "RAJASTHAN",
     "Views": "127,178,966"
   },
   {
@@ -3106,7 +3106,7 @@ arr=[
     "Instagram": "https://www.instagram.com/rajtvtamil/",
     "Youtube": "https://www.youtube.com/rajtelevision",
     "Language": "Tamil, telugu, kannada and malayalam",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "221,292,936"
   },
   {
@@ -3120,7 +3120,7 @@ arr=[
     "Instagram": "https://www.instagram.com/reporterliveofficial/?hl=en",
     "Youtube": "https://www.youtube.com/c/reporterlive/about",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "374,712,803"
   },
   {
@@ -3134,12 +3134,12 @@ arr=[
     "Instagram": "https://www.instagram.com/republicworld/?hl=en",
     "Youtube": "https://www.youtube.com/c/RepublicTVBharat/videos",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "5,116,985,261"
   },
   {
     "Name": "Republic TV",
-    "Address": "G.T. Road Panagarh Bazar, Budwan, WB-\n713148",
+    "Address": "G.T. Road Panagarh Bazar, Budwan, WB-713148",
     "Link": "republicworld.com",
     "Email": "republicworld.com",
     "Phone": "https://www.facebook.com/RepublicWorld/",
@@ -3148,7 +3148,7 @@ arr=[
     "Instagram": "https://www.instagram.com/republicworld/?hl=en",
     "Youtube": "https://www.youtube.com/c/RepublicWorld",
     "Language": "BANGLA",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "1,903,483,043"
   },
   {
@@ -3162,7 +3162,7 @@ arr=[
     "Instagram": "https://www.instagram.com/researchtvindia/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCa6cLayR1jdfGFPEOXKCRYg",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "734,511,841"
   },
   {
@@ -3176,7 +3176,7 @@ arr=[
     "Instagram": "https://www.instagram.com/saamtvnews/",
     "Youtube": "https://www.youtube.com/user/SaamTV",
     "Language": "Marathi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "1,048,217,579"
   },
   {
@@ -3190,12 +3190,12 @@ arr=[
     "Instagram": "https://www.instagram.com/sadhnanewsofficial/",
     "Youtube": "https://www.youtube.com/channel/UC04m8d9t8UeWZ5DuvQVnqiw",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "570,044,698"
   },
   {
     "Name": "Sadhna News",
-    "Address": "1407-1408, Ansal Towers, 38, Nehru\nPlace New DELHI-110027",
+    "Address": "1407-1408, Ansal Towers, 38, NehruPlace New DELHI-110027",
     "Link": "sadhna.com",
     "Email": "info@sadhna.com",
     "Phone": 9893871963,
@@ -3204,7 +3204,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sadhnanewsofficial/",
     "Youtube": "https://www.youtube.com/channel/UCaeak30SNQ7-Z46MEKv_JgQ",
     "Language": "TAMIL",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": 61042
   },
   {
@@ -3218,7 +3218,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCBUYj_XJoHqPY_XoQxK5fzQ",
     "Language": "Hindi",
-    "Location ": "CHHATTISGARH",
+    "Location": "CHHATTISGARH",
     "Views": "2,033,993"
   },
   {
@@ -3232,7 +3232,7 @@ arr=[
     "Instagram": "https://instagram.com/SadhnaNewsMpCgRj",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "NA"
   },
   {
@@ -3246,12 +3246,12 @@ arr=[
     "Instagram": "https://www.instagram.com/sadhnaplus_news/?hl=en",
     "Youtube": "https://www.youtube.com/c/sadhnaplusnews",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "107,119"
   },
   {
-    "Name": "SADHNA PRIME NEWS (EARLIER: POSITIVE HEALTH)",
-    "Address": "FIRST FLOOR, LODHIPARA CHOWK,\nRAIPUR â€“ 492001 (C.G)",
+    "Name": "SADHNA PRIME NEWS (EARLIER:POSITIVE HEALTH)",
+    "Address": "FIRST FLOOR, LODHIPARA CHOWK,RAIPUR â€“ 492001 (C.G)",
     "Link": "sadhna.com",
     "Email": "info@sadhna.com",
     "Phone": "NA",
@@ -3260,12 +3260,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "CHHATTISGARH",
+    "Location": "CHHATTISGARH",
     "Views": "NA"
   },
   {
     "Name": "Sadhna Tv",
-    "Address": "32 Sikha, 14 Union Park, Pali Hill, Off Carter Road, Bandra (West) Mumbai Mumbai City Mahrashtra 400050/ B- 1701-1702 Raheja Atlantis CHS, Ganpatrao Kadam Marg, Lower Parel,\nMumbai-400013",
+    "Address": "32 Sikha, 14 Union Park, Pali Hill, Off Carter Road, Bandra (West) Mumbai Mumbai City Mahrashtra 400050/ B- 1701-1702 Raheja Atlantis CHS, Ganpatrao Kadam Marg, Lower Parel,Mumbai-400013",
     "Link": "sadhna.com",
     "Email": "info@sadhna.com",
     "Phone": "NA",
@@ -3274,12 +3274,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "English  Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "NA"
   },
   {
     "Name": "SAHARA INDIA PARIWAR",
-    "Address": "Sahara India ComplexC-1C-2C-3C-4Sector 11. Noida : 201301. Uttar Pradesh",
+    "Address": "Sahara India ComplexC-1C-2C-3C-4Sector 11. Noida :201301. Uttar Pradesh",
     "Link": "sahara.in",
     "Email": "info@saharaindiapariwar.org",
     "Phone": "(120) 2444756",
@@ -3288,12 +3288,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/1028512594/india/noida/sahara-news-network-sector-11-noida/",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "NA"
   },
   {
     "Name": "Sahara Samay",
-    "Address": "32 Sikha, 14 Union Park, Pali Hill, Off Carter Road, Bandra (West) Mumbai Mumbai City Mahrashtra 400050/ B- 1701-1702 Raheja Atlantis CHS, Ganpatrao Kadam Marg, Lower Parel,\nMumbai-400013",
+    "Address": "32 Sikha, 14 Union Park, Pali Hill, Off Carter Road, Bandra (West) Mumbai Mumbai City Mahrashtra 400050/ B- 1701-1702 Raheja Atlantis CHS, Ganpatrao Kadam Marg, Lower Parel,Mumbai-400013",
     "Link": "sahara.in",
     "Email": "info@saharaindiapariwar.org",
     "Phone": "(120) 2444756",
@@ -3302,7 +3302,7 @@ arr=[
     "Instagram": "https://www.instagram.com/saharasamay/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC6tAl2_5eBK-RCmrDUy_xrg",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "69,355,314"
   },
   {
@@ -3316,12 +3316,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "NA"
   },
   {
     "Name": "SAHARA SAMAY MP",
-    "Address": "475 Nanjundi Arcade, Sampige Road,\nMalleshwaram, Karnataka-560 003.",
+    "Address": "475 Nanjundi Arcade, Sampige Road,Malleshwaram, Karnataka-560 003.",
     "Link": "sahara.in",
     "Email": "info@saharaindiapariwar.org",
     "Phone": "NA",
@@ -3329,13 +3329,13 @@ arr=[
     "Twitter": "NA",
     "Instagram": "NA",
     "Youtube": "NA",
-    "Language": "Kannada, English, Hindi, Punjabi\n   ",
-    "Location ": "KARNATAKA",
+    "Language": "Kannada, English, Hindi, Punjabi   ",
+    "Location": "KARNATAKA",
     "Views": "NA"
   },
   {
     "Name": "SAHARA SAMAY MUMBAI",
-    "Address": "Sahara India Sadan, 2-a, Shakespeare\nSarani, Kolkata-700081",
+    "Address": "Sahara India Sadan, 2-a, ShakespeareSarani, Kolkata-700081",
     "Link": "sahara.in",
     "Email": "info@saharaindiapariwar.org",
     "Phone": "NA",
@@ -3344,7 +3344,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "KOLKATA",
+    "Location": "KOLKATA",
     "Views": "NA"
   },
   {
@@ -3357,13 +3357,13 @@ arr=[
     "Twitter": "NA",
     "Instagram": "NA",
     "Youtube": "NA",
-    "Language": "Hindi, English  \n  SCHEDULE ",
-    "Location ": "UTTAR PRADESH",
+    "Language": "Hindi, English    SCHEDULE ",
+    "Location": "UTTAR PRADESH",
     "Views": "NA"
   },
   {
     "Name": "SAHARA SAMAY UP",
-    "Address": "54-B, 402 Sagar Avenue 4th Floor, Jn. Ofs V Road & LalluBhai Park ROAD Andheri (W) Mumbai Maharashtra\nINDIA-400058",
+    "Address": "54-B, 402 Sagar Avenue 4th Floor, Jn. Ofs V Road & LalluBhai Park ROAD Andheri (W) Mumbai MaharashtraINDIA-400058",
     "Link": "sahara.in",
     "Email": "info@saharaindiapariwar.org",
     "Phone": "NA",
@@ -3372,7 +3372,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "MARATHI/ English /      ",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "NA"
   },
   {
@@ -3386,12 +3386,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "HINDI",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "NA"
   },
   {
     "Name": "Sakshi Tv",
-    "Address": "Sakshi Telugu News Daily,\n6-3-249/1, Sakshi Towers, Road No. 1,\nBanjara Hills, TelanganaM",
+    "Address": "Sakshi Telugu News Daily,6-3-249/1, Sakshi Towers, Road No. 1,Banjara Hills, TelanganaM",
     "Link": "sakshi.com",
     "Email": "Info@sakshi.com",
     "Phone": "040 2325 6000",
@@ -3400,7 +3400,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sakshinews/",
     "Youtube": "https://www.youtube.com/user/sakshinews",
     "Language": "Hindi",
-    "Location ": "HYDERABAD",
+    "Location": "HYDERABAD",
     "Views": "1,777,350,609"
   },
   {
@@ -3414,12 +3414,12 @@ arr=[
     "Instagram": "https://www.instagram.com/samacharplus24x7/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UClqKYflIhRWdUxuFIG_UAjA",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "138,448,286"
   },
   {
     "Name": "Samachar Plus Rajasthan (earlier Buland News)",
-    "Address": "38, RANI JHANSI ROAD, NEAR JHANDEWALAN, NEW DELHI -\n110055",
+    "Address": "38, RANI JHANSI ROAD, NEAR JHANDEWALAN, NEW DELHI -110055",
     "Link": "samacharplus.com",
     "Email": "hrd@samacharplusjhbr.com",
     "Phone": "0120-4646347",
@@ -3428,7 +3428,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "NA"
   },
   {
@@ -3442,12 +3442,12 @@ arr=[
     "Instagram": "https://instagram.com/sandeshnews",
     "Youtube": "https://www.youtube.com/c/SandeshNewsTV",
     "Language": "Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "475,916,266"
   },
   {
     "Name": "Sansad TV",
-    "Address": "Sahara India Sadan, 2-a, Shakespeare\nSarani, Kolkata-700071",
+    "Address": "Sahara India Sadan, 2-a, ShakespeareSarani, Kolkata-700071",
     "Link": "sansadtv.nic.in",
     "Email": "sansadtv-digital@sasad.nic.in",
     "Phone": "011-23445700",
@@ -3456,7 +3456,7 @@ arr=[
     "Instagram": "http://www.instagram.com/sansad.tv/",
     "Youtube": "https://www.youtube.com/c/sansadtv",
     "Language": "Hindi",
-    "Location ": "KOLKATA",
+    "Location": "KOLKATA",
     "Views": "1,229,185,342"
   },
   {
@@ -3470,7 +3470,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sathiyamnews/",
     "Youtube": "https://www.youtube.com/SathiyamNews",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "25,466,879"
   },
   {
@@ -3484,7 +3484,7 @@ arr=[
     "Instagram": "https://www.instagram.com/shekinahchannel/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCHtYUfPnQci6GoUpPlWfrOg",
     "Language": "Hindi",
-    "Location ": "CHANDIGARH",
+    "Location": "CHANDIGARH",
     "Views": 69366300
   },
   {
@@ -3498,7 +3498,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UC2UWyRr4SmLEgXPdp1SMkBw",
     "Language": "Hindi/ English/    ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "264,532"
   },
   {
@@ -3511,13 +3511,13 @@ arr=[
     "Twitter": "https://twitter.com/newsstudion?lang=en",
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCueYkfaSk8GbBeDXvCcQ_vQ",
-    "Language": "Hindi, English, PUNJABI    \nSCHEDULE ",
-    "Location ": "HARYANA",
+    "Language": "Hindi, English, PUNJABI    SCHEDULE ",
+    "Location": "HARYANA",
     "Views": "5,425,682"
   },
   {
     "Name": "Sudarshan Tv Channel",
-    "Address": "57, CHOWRINGHEE ROAD, HORIZON, 3RD FLOOR, KOLKATA\nâ€“ 700071, (W.B)",
+    "Address": "57, CHOWRINGHEE ROAD, HORIZON, 3RD FLOOR, KOLKATAâ€“ 700071, (W.B)",
     "Link": "sudarshannews.in",
     "Email": "NA",
     "Phone": "NA",
@@ -3526,26 +3526,26 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCNBEfg_PfpSjk8DqiafJJhg",
     "Language": "BANGLA",
-    "Location ": "KOLKATA",
+    "Location": "KOLKATA",
     "Views": "239,310,428"
   },
   {
-    "Name": "Suddi TV(Earlier: MAHA BODHI CHANNEL (earlier REPORTER\nMAHARASHTRA) )",
+    "Name": "Suddi TV(Earlier:MAHA BODHI CHANNEL (earlier REPORTERMAHARASHTRA) )",
     "Address": "87-B, BHAI RANDHIR SINGH NAGAR, LUDHIANA â€“ 141012",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": 8066223900,
     "Facebook": "https://www.facebook.com/pages/Suddi-TV/499580463583545",
     "Twitter": "NA",
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCtZJ2SlsF0d3WYP8JPljbxg",
-    "Language": "PUNJABI/ Hindi/ English/    SCHEDULE\n",
-    "Location ": "PUNJAB",
+    "Language": "PUNJABI/ Hindi/ English/    SCHEDULE",
+    "Location": "PUNJAB",
     "Views": "27,555,994"
   },
   {
     "Name": "SUN NEWS",
-    "Address": "TF-2, Malak Complex, Opposite Loha\nBhavan, Nr. Old Gujarat High Court, Off. Ashram Road |Ahmedabad, Gujrat",
+    "Address": "TF-2, Malak Complex, Opposite LohaBhavan, Nr. Old Gujarat High Court, Off. Ashram Road |Ahmedabad, Gujrat",
     "Link": "sunnetwork.in",
     "Email": "Tvinfo@sunnetwork.in",
     "Phone": 44676767,
@@ -3554,12 +3554,12 @@ arr=[
     "Instagram": "https://www.instagram.com/sunnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ?feature=emb_ch_name_ex",
     "Language": "Hindi & English",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "2,105,842,818"
   },
   {
     "Name": "Surya Samachar",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "suryasamachar.com",
     "Email": "info@suryacomnet.com",
     "Phone": "0120-2558247",
@@ -3568,13 +3568,13 @@ arr=[
     "Instagram": "https://www.instagram.com/suryasamachar/?hl=en",
     "Youtube": "https://www.youtube.com/c/SuryaSamachar",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "18,370,853"
   },
   {
     "Name": "SUVARNA NEWS",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar\nMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
-    "Link": "",
+    "Address": "Murasoli Maran Towers, 73, MRC NagarMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
+    "Link": "NA",
     "Email": "cs@suvarnanews.in",
     "Phone": "080-3055 6337",
     "Facebook": "https://www.facebook.com/AsianetSuvarnaNews/",
@@ -3582,12 +3582,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/watch?v=14MJLmMJVHE",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "1,335,169,136"
   },
   {
     "Name": "SWADESH NEWS",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "swadeshnews.in",
     "Email": "contact@swadeshnews",
     "Phone": "0751-4065745",
@@ -3596,12 +3596,12 @@ arr=[
     "Instagram": "https://www.instagram.com/swadesh.news/",
     "Youtube": "https://www.youtube.com/c/SwadeshNews",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "1,189,017"
   },
   {
-    "Name": "Swaraj Express (Earlier NEWS TIME 24X7, JANSANDESH PLUS, FAST\nNEWS)",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Name": "Swaraj Express (Earlier NEWS TIME 24X7, JANSANDESH PLUS, FASTNEWS)",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "swarajdigital.in",
     "Email": "NA",
     "Phone": "0120 688 8909",
@@ -3610,12 +3610,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCjyLPYDYfH-DvxerhRS3h4Q",
     "Language": "    Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "2,439,993"
   },
   {
     "Name": "T NEWS",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "tnewstelugu.com",
     "Email": "NA",
     "Phone": "NA",
@@ -3624,12 +3624,12 @@ arr=[
     "Instagram": "https://tnewstelugu.com/#",
     "Youtube": "https://www.youtube.com/channel/UCu6edg8_eu3-A8ylgaWereA?feature=emb_ch_name_ex",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "163,021,850"
   },
   {
     "Name": "TAAZA TV",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "taazatv.com",
     "Email": "response@taazatv.com",
     "Phone": 919831669987,
@@ -3638,12 +3638,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "NA"
   },
   {
     "Name": "TAMILAN TELEVISION",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "tamilantelevision.com",
     "Email": "NA",
     "Phone": "NA",
@@ -3652,12 +3652,12 @@ arr=[
     "Instagram": "http://www.tamilantelevision.com/#",
     "Youtube": "http://www.youtube.com/user/TamilanTelevision?feature=watch",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "NA"
   },
   {
     "Name": "THANTHI TV (earlier NDTV HINDU Tamil Nadu)",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "thanthitv.com",
     "Email": "feedback@dttv.in",
     "Phone": "044-4290 7789",
@@ -3666,13 +3666,13 @@ arr=[
     "Instagram": "https://www.instagram.com/thanthitv/",
     "Youtube": "http://www.youtube.com/thanthitv",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "6,175,777,575"
   },
   {
     "Name": "THENDREL TV",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar\nMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
-    "Link": "",
+    "Address": "Murasoli Maran Towers, 73, MRC NagarMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
+    "Link": "NA",
     "Email": "EMAIL:support@thendraltv.in.",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/ErodeThendraltv",
@@ -3680,12 +3680,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Tamil   ",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "NA"
   },
   {
     "Name": "TIMES NOW",
-    "Address": "M J Krishnamohan Memorial Building, K P Kesava Menon Road, Kozhikode-673\n001.",
+    "Address": "M J Krishnamohan Memorial Building, K P Kesava Menon Road, Kozhikode-673001.",
     "Link": "timesnownews.com",
     "Email": "info@timesnow.tv",
     "Phone": "91 0120 6637050",
@@ -3694,12 +3694,12 @@ arr=[
     "Instagram": "https://www.instagram.com/timesnow",
     "Youtube": "NA",
     "Language": "Malayalam",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "NA"
   },
   {
     "Name": "Times Now Navbharat",
-    "Address": "Sandesh Bhawan, Lad Society Road, B/H\nVastrapur Gam, P.O. Bodakdev, Ahmedabad- 380054",
+    "Address": "Sandesh Bhawan, Lad Society Road, B/HVastrapur Gam, P.O. Bodakdev, Ahmedabad- 380054",
     "Link": "timesnowhindi.com",
     "Email": "info@timesnow.tv",
     "Phone": "91 22 24999944",
@@ -3708,12 +3708,12 @@ arr=[
     "Instagram": "https://www.instagram.com/TimesNowNavbharat/",
     "Youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjis7TY3Mv5AhVJT8AKHZ_BAiEQFnoECDUQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fc%2Ftimesnownavbharat&usg=AOvVaw0BRtk2Pm1AYQx6D777ts3j",
     "Language": "Gujarati/Hindi/English dialects",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "328,756,836"
   },
   {
-    "Name": "Times Now World (Earlier known as\nTimes Now HD, Before that TIMES NOW2)",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Name": "Times Now World (Earlier known asTimes Now HD, Before that TIMES NOW2)",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "timesnownews.com",
     "Email": "info@timesnow.tv",
     "Phone": "91 0120 6637050",
@@ -3722,12 +3722,12 @@ arr=[
     "Instagram": "https://www.instagram.com/timesnow",
     "Youtube": "NA",
     "Language": "English/   ",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "NA"
   },
   {
     "Name": "Times Now World (HD)",
-    "Address": "1st Floor, Trade House, Kamala Mill Compound,\nSenapati Bapat Marg, Lower Parel, Mumbai – 400013+91 22 24999944info@timesnow.tv+91 22 24931341",
+    "Address": "1st Floor, Trade House, Kamala Mill Compound,Senapati Bapat Marg, Lower Parel, Mumbai – 400013+91 22 24999944info@timesnow.tv+91 22 24931341",
     "Link": "timesnownews.com",
     "Email": "info@timesnow.tv",
     "Phone": "022-24990594/96/98",
@@ -3736,7 +3736,7 @@ arr=[
     "Instagram": "https://www.instagram.com/timesnow/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCAm5-PxCtQ_VYw94pKgRUxA",
     "Language": "English",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "25,276"
   },
   {
@@ -3749,13 +3749,13 @@ arr=[
     "Twitter": "https://twitter.com/totaltvh",
     "Instagram": "https://www.instagram.com/totalnewsharyana/",
     "Youtube": "https://www.youtube.com/channel/UCx0k4v6bbID9NkTDVy8cKdw",
-    "Language": "Hindi, English  \n  SCHEDULE ",
-    "Location ": "MADHYA PRADESH",
+    "Language": "Hindi, English    SCHEDULE ",
+    "Location": "MADHYA PRADESH",
     "Views": "37,633,156"
   },
   {
     "Name": "Total Telefilms Pvt Ltd",
-    "Address": "D-38, RDC, RAJNAGAR, GHAZIABAD\nâ€“ 201001 (U.P)",
+    "Address": "D-38, RDC, RAJNAGAR, GHAZIABADâ€“ 201001 (U.P)",
     "Link": "totaltv.in",
     "Email": "accounts@totaltv.in",
     "Phone": "NA",
@@ -3764,12 +3764,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi/ English/ MARATHI",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "NA"
   },
   {
     "Name": "TOTAL TV",
-    "Address": "SEA TV NETWORK LIMITED, 148\nManas Nagar, Shahganj, Agra- 282010 (UP)",
+    "Address": "SEA TV NETWORK LIMITED, 148Manas Nagar, Shahganj, Agra- 282010 (UP)",
     "Link": "totaltv.in",
     "Email": "accounts@totaltv.in",
     "Phone": "97 1176 0004",
@@ -3778,7 +3778,7 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/tags/totaltv/?hl=en",
     "Youtube": "https://www.youtube.com/user/totaltvnews",
     "Language": "Hindi/ English/    ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "141,896,022"
   },
   {
@@ -3792,13 +3792,13 @@ arr=[
     "Instagram": "https://www.instagram.com/tv.100/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCpLM_4NUnBYq0h3gruX0qQw",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "19,775,315"
   },
   {
     "Name": "TV 100 National",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
-    "Link": "",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "NA",
     "Facebook": "https://m.facebook.com/TV100National/videos/",
@@ -3806,12 +3806,12 @@ arr=[
     "Instagram": "https://www.instagram.com/news100_tv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCQZ81jKswAyWz2xRtuekpUg",
     "Language": "English/   ",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "204,538"
   },
   {
     "Name": "24 NEWS",
-    "Address": "Shihab Thangal ROAD, Vidya Nagar Colony,\nKaipadamugal,\nKochi, Kerala 682021",
+    "Address": "Shihab Thangal ROAD, Vidya Nagar Colony,Kaipadamugal,Kochi, Kerala 682021",
     "Link": "twentyfournews.com",
     "Email": "news@twentyfournews.com",
     "Phone": "0484 283 0500",
@@ -3820,7 +3820,7 @@ arr=[
     "Instagram": "https://www.instagram.com/24onlive/",
     "Youtube": "https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw",
     "Language": "MALAYALAM ",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "868,961,148"
   },
   {
@@ -3834,7 +3834,7 @@ arr=[
     "Instagram": "https://www.instagram.com/tv5newsnow/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCAR3h_9fLV82N2FH4cE4RKw",
     "Language": "TAMIL  English",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "3,098,467,509"
   },
   {
@@ -3847,13 +3847,13 @@ arr=[
     "Twitter": "https://twitter.com/tv5kannada?lang=en",
     "Instagram": "https://www.instagram.com/tv5kannada/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCpzsmNuUEmod64DGgBDPO-Q",
-    "Language": "English /Hindi  \nremaining  ",
-    "Location ": "KARNATAKA",
+    "Language": "English /Hindi  remaining  ",
+    "Location": "KARNATAKA",
     "Views": "763,254,137"
   },
   {
     "Name": "TV1 News 24*7",
-    "Address": "JAY CHAMBERS, B-WING, 2ND FLOOR, SERVICE ROAD, VILE PARLE (EAST), MUMBAI â€“ 400057 /\nN-36, Crescent Road, Karnataka-560001,\nKarnataka, India",
+    "Address": "JAY CHAMBERS, B-WING, 2ND FLOOR, SERVICE ROAD, VILE PARLE (EAST), MUMBAI â€“ 400057 /N-36, Crescent Road, Karnataka-560001,Karnataka, India",
     "Link": "tv1news.live",
     "Email": "NA",
     "Phone": "097764 03647",
@@ -3862,7 +3862,7 @@ arr=[
     "Instagram": "https://www.instagram.com/tv1news24x7/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCuzS3rPQAYqHcLWqOFuY0pw",
     "Language": "KANNADA/ English",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "6,054,221,930"
   },
   {
@@ -3876,12 +3876,12 @@ arr=[
     "Instagram": "https://www.instagram.com/tv9_bangla/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCHCR4UFsGwd_VcDa0-a4haw",
     "Language": "Hindi",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "852,050,651"
   },
   {
     "Name": "TV9 Bharatvarsh (Earlier known as TV9 AP, before that TV 9 KOLKATA)",
-    "Address": "Plot NO. 21, Mezzanine Floor, Balaji Tower, Zone-1, M.P. Nagar, Bhopal\n(M.P.) 462016",
+    "Address": "Plot NO. 21, Mezzanine Floor, Balaji Tower, Zone-1, M.P. Nagar, Bhopal(M.P.) 462016",
     "Link": "tv9hindi.com",
     "Email": " mayank.jain@tv9.com",
     "Phone": "0120-4880402",
@@ -3890,7 +3890,7 @@ arr=[
     "Instagram": "https://www.instagram.com/tv9bharatvarsh/?hl=en",
     "Youtube": "https://www.youtube.com/c/tv9bharatvarsh",
     "Language": "Hindi",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "7,443,439,606"
   },
   {
@@ -3904,12 +3904,12 @@ arr=[
     "Instagram": "https://www.instagram.com/tv9gujarati/?hl=en",
     "Youtube": "https://www.youtube.com/user/tv9gujaratlive/videos",
     "Language": "Hindi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "1,808,073,897"
   },
   {
     "Name": "TV9 KANNADA",
-    "Address": "4868/24 Ansasri Road Daryaganj, New\nDELHI-110002",
+    "Address": "4868/24 Ansasri Road Daryaganj, NewDELHI-110002",
     "Link": "tv9kannada.com",
     "Email": "response@tv9.com",
     "Phone": "080 40312700",
@@ -3918,12 +3918,12 @@ arr=[
     "Instagram": "https://www.instagram.com/tv9_kannada_official/?hl=en",
     "Youtube": "https://www.youtube.com/c/tv9kannada",
     "Language": "Hindi   DIALECT",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "1,808,073,897"
   },
   {
     "Name": "TV9 Marathi (earlier TV9 MUMBAI)",
-    "Address": "TV 100 House, F-40, Sector -6, Noida,\nUP",
+    "Address": "TV 100 House, F-40, Sector -6, Noida,UP",
     "Link": "tv9marathi.com",
     "Email": "info@tv9.com",
     "Phone": "22-42442700",
@@ -3932,12 +3932,12 @@ arr=[
     "Instagram": "https://www.instagram.com/tv9marathilive/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCdOSeEq9Cs2Pco7OCn2_i5w",
     "Language": "Hindi, English  Dialects",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "7,642,129,994"
   },
   {
     "Name": "TV9 Tamil ( earlier NEWS 9)",
-    "Address": "India Today Mediaplex, FC-8, Sector-\n16A, Film City Noida-201301",
+    "Address": "India Today Mediaplex, FC-8, Sector-16A, Film City Noida-201301",
     "Link": "tv9.com",
     "Email": "info@tv9.com",
     "Phone": "0120-4880409",
@@ -3946,7 +3946,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCQejMqqAR7FhrGuc429tdOw",
     "Language": "English/  ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "7,952,962,591"
   },
   {
@@ -3960,7 +3960,7 @@ arr=[
     "Instagram": "https://www.instagram.com/tv9telugu/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCPXTXMecYqnRKNdqdVOGSFg",
     "Language": "Hindi/ PUNJABI/ English",
-    "Location ": "HYDERABAD",
+    "Location": "HYDERABAD",
     "Views": "7,675,474,450"
   },
   {
@@ -3974,12 +3974,12 @@ arr=[
     "Instagram": "https://www.instagram.com/udayatv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC3yU0gVsepAY-ZGBDju6eHA",
     "Language": "Malayalam",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "1,848,280,349"
   },
   {
     "Name": "VTV Gujarati",
-    "Address": "Judges Bungalow Road,\nAhmedabad-380052",
+    "Address": "Judges Bungalow Road,Ahmedabad-380052",
     "Link": "vtvgujarati.com",
     "Email": "vtv@vtvgujarati.com",
     "Phone": "079-4008 9126",
@@ -3987,13 +3987,13 @@ arr=[
     "Twitter": "https://twitter.com/vtvgujarati",
     "Instagram": "https://www.instagram.com/vtv_gujarati_news/",
     "Youtube": "https://www.youtube.com/channel/UCMX41X1am8oYxT336dqk4sA",
-    "Language": "MARATHI/ Hindi/ KANNADA/ Malayalam/ TELUGU/ TAMIL/ English/ \n ",
-    "Location ": "GUJARAT",
+    "Language": "MARATHI/ Hindi/ KANNADA/ Malayalam/ TELUGU/ TAMIL/ English/  ",
+    "Location": "GUJARAT",
     "Views": "575,156,086"
   },
   {
     "Name": "V6 News",
-    "Address": "Plot No:13/A/B/C, Road No.12, MLA’s Extension Colony,\nBanjara Hills, Telangana, Telangana 500034.",
+    "Address": "Plot No:13/A/B/C, Road No.12, MLA’s Extension Colony,Banjara Hills, Telangana, Telangana 500034.",
     "Link": "yupptv.com",
     "Email": "info@v6news.tv",
     "Phone": "040 2360 6679",
@@ -4002,7 +4002,7 @@ arr=[
     "Instagram": "https://www.instagram.com/v6newstelugu/?hl=en",
     "Youtube": "https://www.youtube.com/user/V6NewsTelugu/videos",
     "Language": "Telungu",
-    "Location ": "TELANGANA",
+    "Location": "TELANGANA",
     "Views": "7,868,959,052"
   },
   {
@@ -4016,12 +4016,12 @@ arr=[
     "Instagram": "https://www.instagram.com/vasanthtv_india/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCUAzH52yyGniSDFDBbVVmdg",
     "Language": "English    schedule ",
-    "Location ": "TAMIL NNDU",
+    "Location": "TAMIL NNDU",
     "Views": "122,756,981"
   },
   {
     "Name": "VELICHAM PLUS (Earlier FAST 24*7)",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar\nMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC NagarMain Road, MRC Nagar, Tamil Nadu- 600028, INDIA",
     "Link": "vipotv.com",
     "Email": "tamilvelichamtv@gmail.com",
     "Phone": "99404 46550",
@@ -4030,12 +4030,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/281169749001297/velicham?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCxWRAeRVun91LzMG2hM14QQ",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "46,578,261"
   },
   {
     "Name": "VENDHAR TV (NEWS 4U)",
-    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-\n600028, INDIA",
+    "Address": "Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Tamil Nadu-600028, INDIA",
     "Link": "vendharmedia.in",
     "Email": "info@vendharmedia.in",
     "Phone": "044-40202202",
@@ -4044,11 +4044,11 @@ arr=[
     "Instagram": "https://www.instagram.com/vendhar_tv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCs9Ty8NsU1I0-FXda97XCcQ",
     "Language": "English     ",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "574,549,515"
   },
   {
-    "Name": "VIP News (Earlier known as Prabhatam\nHSB)",
+    "Name": "VIP News (Earlier known as PrabhatamHSB)",
     "Address": "C/o Powerssmart Media Pvt Ltd, Arka, Embassy Point, 3rd Floor, Infantry Road, Karnataka - 560001",
     "Link": "vipnews.com",
     "Email": "NA",
@@ -4058,12 +4058,12 @@ arr=[
     "Instagram": "https://www.instagram.com/vipnewstv/",
     "Youtube": "https://m.youtube.com/c/VIPNewsChannel",
     "Language": "English     ",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "1,600,534"
   },
   {
     "Name": "VISSA",
-    "Address": "Raj Television Network Ltd,\n32, Poes Road 2nd Street,\nTeynampet,\nTamil Nadu",
+    "Address": "Raj Television Network Ltd,32, Poes Road 2nd Street,Teynampet,Tamil Nadu",
     "Link": "vissatv.in",
     "Email": "administrator@rajtvnet.in",
     "Phone": "044 24334149",
@@ -4072,12 +4072,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCq-TXfMQ76sYpT9APdN9eqA",
     "Language": "English/   ",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": 23641235
   },
   {
     "Name": "WIN TV",
-    "Address": "No. 4, Ground Floor, Alayam Space\nAnandha Road, Alwarpet Tamil Nadu 600018",
+    "Address": "No. 4, Ground Floor, Alayam SpaceAnandha Road, Alwarpet Tamil Nadu 600018",
     "Link": "live-tv-channels.org",
     "Email": "support@wintvindia.com",
     "Phone": "044 2464 0347",
@@ -4086,7 +4086,7 @@ arr=[
     "Instagram": "https://www.instagram.com/wintvlive/?hl=en",
     "Youtube": "https://m.youtube.com/c/wintvwaupaca/playlists",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "133,183"
   },
   {
@@ -4100,7 +4100,7 @@ arr=[
     "Instagram": "https://www.instagram.com/wionews/?hl=en",
     "Youtube": "https://www.youtube.com/c/WION/videos",
     "Language": "English ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "3,068,584,757"
   },
   {
@@ -4114,7 +4114,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zee24ghanta_/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCdF5Q5QVbYstYrTfpgUl0ZA",
     "Language": "Hindi, English     ",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "1,539,383,716"
   },
   {
@@ -4128,7 +4128,7 @@ arr=[
     "Instagram": "https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fzee24kalak&h=AT0rrtQTSCNB3qRgtIaLtBvJj3hAJeNwNBs7yLVFN7QhS34QV9BhbXrVeIKG3US_noG9AY66i41-t9RjnbCLFnADHbAJ-XO6Z_y_1AzLiFGLGCdpn0qlW8ENGaBEDo3VgygKU2DCQ-M6wtAhdmrz",
     "Youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwimwJvOwKL4AhXpRWwGHa5UBpkQFnoECAgQAg&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCkNL_TQio--h85-14lUVY3A&usg=AOvVaw0qCUpCAkPXRck7yxef0pfw",
     "Language": "Hindi/ English/ GUJRATI    ",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "321,610,246"
   },
   {
@@ -4142,12 +4142,12 @@ arr=[
     "Instagram": "https://www.instagram.com/zee24taas/?hl=en",
     "Youtube": "https://www.youtube.com/user/zee24taas",
     "Language": "BenGALI",
-    "Location ": "WEST BENGAL",
+    "Location": "WEST BENGAL",
     "Views": "4,426,524,507"
   },
   {
     "Name": "Zee BIHAR JHARKHAND",
-    "Address": "3C/B, New Rohtak Road, Karol Bagh,\nNew DELHI 110005",
+    "Address": "3C/B, New Rohtak Road, Karol Bagh,New DELHI 110005",
     "Link": "zeenews.india.com",
     "Email": "inews@zeemedia.",
     "Phone": "091374 09783",
@@ -4156,7 +4156,7 @@ arr=[
     "Instagram": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6k4Xev6L4AhWHSGwGHZhRCucQFnoECAYQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fzee_BIHAR_JHARKHAND%2F%3Fhl%3Den&usg=AOvVaw2E-wyzIJKm25qiwoR69fGG",
     "Youtube": "https://www.youtube.com/channel/UCZUjHLJivN0OZPC_Wj8JvkA",
     "Language": "Oriya",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "874,341,461"
   },
   {
@@ -4170,12 +4170,12 @@ arr=[
     "Instagram": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuvM-Tv6L4AhX6TGwGHTKYDE4QFnoECA4QAQ&url=https%3A%2F%2Fwww.instagram.com%2Fzeebusinessofficial%2F%3Fhl%3Den&usg=AOvVaw16NKlgZ6o_Phs1jja9RHTO",
     "Youtube": "https://www.youtube.com/c/ZeeBusiness/videos",
     "Language": "Hindi/ English/ NORTH  ",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "499,994,846"
   },
   {
     "Name": "Zee DELHI NCR Haryana",
-    "Address": "A-29, SECTOR-63, NOIDA â€“ 201301\n(U.P)",
+    "Address": "A-29, SECTOR-63, NOIDA â€“ 201301(U.P)",
     "Link": "zee5.com",
     "Email": "inews@zeemedia.",
     "Phone": "0120- 2511064 - 76",
@@ -4184,7 +4184,7 @@ arr=[
     "Instagram": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFkL67vqL4AhV2UGwGHbzWDXwQFnoECAcQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fzeednhnews%2F&usg=AOvVaw3z3eeDtLnrHQ0u46jns2I8",
     "Youtube": "https://www.youtube.com/channel/UCG6L5cIg2XZvXVksq5B9edw",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "351,709,683"
   },
   {
@@ -4197,8 +4197,8 @@ arr=[
     "Twitter": "https://twitter.com/Zee_Hindustan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Instagram": "https://www.instagram.com/zee_hindustan/?hl=en",
     "Youtube": "https://www.youtube.com/c/ZeeHindustan",
-    "Language": "Hindi, English     SCHEDULE\n",
-    "Location ": "UTTAR PRADESH",
+    "Language": "Hindi, English     SCHEDULE",
+    "Location": "UTTAR PRADESH",
     "Views": "2,368,616,890"
   },
   {
@@ -4212,7 +4212,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zeempcg/?hl=en",
     "Youtube": "https://www.youtube.com/c/ZeeMadhyaPradeshChhattisgarh",
     "Language": "Hindi",
-    "Location ": " MADHYA PRADESH",
+    "Location": " MADHYA PRADESH",
     "Views": "261,709,683"
   },
   {
@@ -4226,7 +4226,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zeenews/?hl=en",
     "Youtube": "https://www.youtube.com/c/zeenews",
     "Language": "English Hindi     ",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "12,381,034,680"
   },
   {
@@ -4240,12 +4240,12 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/690919742/zee-kalinga-news/",
     "Youtube": "https://www.youtube.com/c/ZeeOdishaNews",
     "Language": "Odia",
-    "Location ": "ODISHA",
+    "Location": "ODISHA",
     "Views": "5,944,493"
   },
   {
-    "Name": "Zee Punjab Haryana Himachal (earlier\nZEE PUNJABI NEWS)",
-    "Address": "Marathon Futurex, 14th Floor, A Wing, NM Joshi Marg, Lower Parel, Mumbai\n400 013.",
+    "Name": "Zee Punjab Haryana Himachal (earlierZEE PUNJABI NEWS)",
+    "Address": "Marathon Futurex, 14th Floor, A Wing, NM Joshi Marg, Lower Parel, Mumbai400 013.",
     "Link": "zee5.com",
     "Email": "inews@zeemedia.",
     "Phone": "2511064 2515383",
@@ -4254,7 +4254,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zeepunjabhh/?hl=en",
     "Youtube": "ZEE Punjab Haryana Himachal",
     "Language": "BANGLA",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "39,551,137"
   },
   {
@@ -4268,7 +4268,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zeepunjabhh/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=Zee+Punjab%2FHaryana%2FHimachal",
     "Language": "Hindi  Punjabi",
-    "Location ": "CHANDIGARH",
+    "Location": "CHANDIGARH",
     "Views": "39,551,137"
   },
   {
@@ -4282,7 +4282,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zeerajasthannews/?hl=en",
     "Youtube": "https://www.youtube.com/c/ZeeRajasthanNews",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "571,720,639"
   },
   {
@@ -4296,12 +4296,12 @@ arr=[
     "Instagram": "https://www.instagram.com/zee_salaam/?hl=en",
     "Youtube": "https://www.youtube.com/results?search_query=ZEE+salaam",
     "Language": "Urdu",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "54,476,096"
   },
   {
-    "Name": "Zee Salaam (earlier ZEE Urdu (Earlier Zee Shopping ,ZEE 24 HOUR\nBUSINESS)",
-    "Address": "S.C.O, 399, 2ND FLOOR, SECTOR 20- C, PANCHKULA â€“ 134109\n(HARYANA)",
+    "Name": "Zee Salaam (earlier ZEE Urdu (Earlier Zee Shopping ,ZEE 24 HOURBUSINESS)",
+    "Address": "S.C.O, 399, 2ND FLOOR, SECTOR 20- C, PANCHKULA â€“ 134109(HARYANA)",
     "Link": "zee5.com",
     "Email": "inews@zeemedia.",
     "Phone": 6350593260,
@@ -4309,13 +4309,13 @@ arr=[
     "Twitter": "https://twitter.com/zeesalaamtweet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Instagram": "https://www.instagram.com/zee_salaam/?hl=en",
     "Youtube": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi6tL2uuqL4AhWPSmwGHRD7AgEQFnoECBEQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCkSllUpc8cedRe85JkqLiBQ&usg=AOvVaw3iYGPh2uc7i6FiFTlET9Oi",
-    "Language": "Hindi, English, PUNJABI    \nSCHEDULE ",
-    "Location ": "HARYANA",
+    "Language": "Hindi, English, PUNJABI    SCHEDULE ",
+    "Location": "HARYANA",
     "Views": "54,476,096"
   },
   {
     "Name": "Zee Uttar Pradesh Uttarakhand",
-    "Address": "V285+PHP, Vijaipur Colony, Vibhuti Khand, Gomti Nagar, Uttar Pradesh, Uttar Pradesh 226010C-19, SEC-16A, FILM CITY, NOIDA\nâ 201301 (U.P)",
+    "Address": "V285+PHP, Vijaipur Colony, Vibhuti Khand, Gomti Nagar, Uttar Pradesh, Uttar Pradesh 226010C-19, SEC-16A, FILM CITY, NOIDAâ 201301 (U.P)",
     "Link": "zeenews.india.com",
     "Email": "inews@zeemedia.",
     "Phone": "91-0120- 2511064 ",
@@ -4324,12 +4324,12 @@ arr=[
     "Instagram": "https://www.instagram.com/zeenews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCWmwc3u2ikBG2Xfitc_26gg",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "560,302,772"
   },
   {
     "Name": "Sakshi Tv",
-    "Address": "Jagati Publications Ltd,\nSakshi Telugu News Daily,\n6-3-249/1, Sakshi Towers,\nRoad No. 1, Banjara Hills,\nTelangana-500 034",
+    "Address": "Jagati Publications Ltd,Sakshi Telugu News Daily,6-3-249/1, Sakshi Towers,Road No. 1, Banjara Hills,Telangana-500 034",
     "Link": "sakshi.com",
     "Email": "Info@sakshi.com",
     "Phone": "91-40 2325 6000",
@@ -4338,7 +4338,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sakshinews/",
     "Youtube": "http://www.youtube.com/user/sakshinews",
     "Language": "KANNADA/ English",
-    "Location ": "HYDERABAD",
+    "Location": "HYDERABAD",
     "Views": "1,777,350,609"
   },
   {
@@ -4352,7 +4352,7 @@ arr=[
     "Instagram": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fb1news_guj%2F%3Ffbclid%3DIwAR2ah_LppHZUhaBIT57ou71nsftO3aaVtlkXicwLRPEbuFtgDjDF34fZygQ&h=AT3HAa7cVZy5aaOacYS60psiemlUgwEpRDjQy7TE6noKQbBr0PMTMAGMI5LbQTx8I7eFrZSOgsFAb7UlDwS1LUhwblDAca9VlDChx7yqiRqLQT2DcvCxq7lFqlh7OA",
     "Youtube": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC8n5nEmcKW_vhTZJZEhXCMg&h=AT3KYS2vYErdora-XHf37fjgAIA-vtAjp8v_U2n_aiMLrVWzl5_rAWDuZBnTVzQWa59BguoUy1h0lJpN6Av_5D8DQEEJSgq2TfiNDjU1j6Bvzk-xmA8FvSL6uBjXpiZRlmsD4kgMWp7TyVKtIIhDuw",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "77,210"
   },
   {
@@ -4366,7 +4366,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCm0Ff4EGgvvwdDen55XzrBQ/",
     "Language": "Hindi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "5,824"
   },
   {
@@ -4380,7 +4380,7 @@ arr=[
     "Instagram": "https://www.instagram.com/starnews720/",
     "Youtube": "https://www.youtube.com/channel/UCW7oux_ZuQG2lF7GWWqIHLQ",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "25,613,551"
   },
   {
@@ -4394,7 +4394,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "35,961,640"
   },
   {
@@ -4408,7 +4408,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCTjbLFJBeYsFjWCnu8bbeUw/featured",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "71,640,969"
   },
   {
@@ -4422,13 +4422,13 @@ arr=[
     "Instagram": "https://www.instagram.com/bs9_tv_news/",
     "Youtube": "NA",
     "Language": "NA",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "NA"
   },
   {
     "Name": " Lok Samna news channel",
     "Address": "Ahmedabad, Gujarat",
-    "Link": "",
+    "Link": "NA",
     "Email": "loksamnanews@gmail.com",
     "Phone": "NA",
     "Facebook": "https://m.facebook.com/LOKSAMNA2419/posts/d41d8cd9/3408466632713121/?locale=ms_MY&_rdr",
@@ -4436,12 +4436,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCFvys7vPXk58bPSDyBtKsXQ",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": 589
   },
   {
     "Name": "E TV Bharat Gujarati",
-    "Address": "A Division of Ushodaya Enterprises Pvt. Ltd.,\nRamoji Film City, R.R. Dist.,\nTelangana-501512 – Telangana",
+    "Address": "A Division of Ushodaya Enterprises Pvt. Ltd.,Ramoji Film City, R.R. Dist.,Telangana-501512 – Telangana",
     "Link": "etvbharat.com",
     "Email": "NA",
     "Phone": 8415246555,
@@ -4450,7 +4450,7 @@ arr=[
     "Instagram": "https://www.instagram.com/lok_samna_news/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCFvys7vPXk58bPSDyBtKsXQ",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "433,177"
   },
   {
@@ -4464,7 +4464,7 @@ arr=[
     "Instagram": "https://www.instagram.com/connectgujarat/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCV1DtcIW2eBJ8fEXBhc9a9w",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "88,938,568"
   },
   {
@@ -4478,7 +4478,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/SamayMedia",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "33,583,041"
   },
   {
@@ -4492,21 +4492,21 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/vtcosnewschannel/featured?app=desktop",
     "Language": "GUjarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "1,504,584"
   },
   {
     "Name": "Divyang News channel",
-    "Address": "33/C, Haripark Society,\nNr. Pawan Party Plot, Ankur,\nNaranpura, Ahmedabad – 380013\nGujarat",
+    "Address": "33/C, Haripark Society,Nr. Pawan Party Plot, Ankur,Naranpura, Ahmedabad – 380013Gujarat",
     "Link": "divyangnews.com",
-    "Email": "\r\ncontact@divyangnewschannel.com",
+    "Email": "contact@divyangnewschannel.com",
     "Phone": "99257 04970",
     "Facebook": "https://www.facebook.com/divyangnewschannel/",
     "Twitter": "https://twitter.com/divyangnewschnl?lang=en",
     "Instagram": "https://www.instagram.com/divyangnewschnl/",
     "Youtube": "https://www.youtube.com/c/DivyangNewsChannelchnl/about",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "2,355,948"
   },
   {
@@ -4520,7 +4520,7 @@ arr=[
     "Instagram": "https://www.instagram.com/gnewsindia/",
     "Youtube": "https://www.youtube.com/channel/UC_4K2jMO2JTEx1zvLPEAVWw",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "187,296"
   },
   {
@@ -4534,13 +4534,13 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/TV9GujaratiNews",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "1,821,711,900"
   },
   {
     "Name": "Hello Saurashtra News",
-    "Address": "Shop No 4, Junction Plot.. Shop No 4, Junction Plot, Rajkot HO, Rajkot - 360001\n",
-    "Link": "",
+    "Address": "Shop No 4, Junction Plot.. Shop No 4, Junction Plot, Rajkot HO, Rajkot - 360001",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "98252 15590",
     "Facebook": "https://www.facebook.com/Hellosaurashtranewsrajkot/",
@@ -4548,7 +4548,7 @@ arr=[
     "Instagram": "https://www.instagram.com/hellosaurashtranews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC4upPk_HJZLz1R1-PHAWN3Q",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "16,420,959"
   },
   {
@@ -4562,13 +4562,13 @@ arr=[
     "Instagram": "https://www.instagram.com/etvbharatofficial/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCKVM5FMqX90AquMlhzNP82Q",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": 28993781
   },
   {
     "Name": "DD girnar",
     "Address": "Doordarshan Kendra, Drive-In Road, Thaltej, Ahmedabad - 380054",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "011-2309 7614",
     "Facebook": "https://www.facebook.com/ddgirnar/",
@@ -4576,7 +4576,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCneBFse451PgKgXJTDqikYA",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "51,264,963"
   },
   {
@@ -4590,7 +4590,7 @@ arr=[
     "Instagram": "https://www.instagram.com/katibandhnews/?hl=en",
     "Youtube": "https://www.youtube.com/c/KatibandhNewsChannelNewsPaper",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "1,236,089"
   },
   {
@@ -4598,13 +4598,13 @@ arr=[
     "Address": "A 213 Paradise Complex,, , Nr Rajshree Cinema,, Sayajigunj, Vadodara - 390005",
     "Link": "sayajisamachar.com",
     "Email": "NA",
-    "Phone": "\n0265-2226333",
+    "Phone": "0265-2226333",
     "Facebook": "https://www.facebook.com/sayajisamachar",
     "Twitter": "https://twitter.com/sayajisamachar?lang=en",
     "Instagram": "https://www.instagram.com/sayajisamacharbaroda/?hl=en",
     "Youtube": "NA",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "NA"
   },
   {
@@ -4618,7 +4618,7 @@ arr=[
     "Instagram": "https://twitter.com/vnmtvnews",
     "Youtube": "https://www.youtube.com/vnmtv",
     "Language": "Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "46,600,519"
   },
   {
@@ -4632,12 +4632,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCTvTJrGXzde0ByxjtaQrxsg",
     "Language": "Gujrati and Hindi",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "1,077,455"
   },
   {
     "Name": "Gramanchal live news",
-    "Address": "Plot Number 299, Tanda Faizadabad Road, Ainawa, Ambedkar Nagar - 224145 (Opp Telephone Exchange)",
+    "Address": "Plot Number 299, Tanda Faizadabad Road, Ainawa, Ambedkar Nagar - 224145 (Opp TelePhoneExchange)",
     "Link": "gramanchalnewslive.com",
     "Email": "editor@gramanchalnewslive.com",
     "Phone": 6386844706,
@@ -4646,7 +4646,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "KASHMIR",
+    "Location": "KASHMIR",
     "Views": "NA"
   },
   {
@@ -4660,7 +4660,7 @@ arr=[
     "Instagram": "https://www.instagram.com/jk_news_raisen_/",
     "Youtube": "https://www.youtube.com/channel/UCbiJe_fnzY1Ucixxrr4IgGQ",
     "Language": "Hindi",
-    "Location ": "KASHMIR",
+    "Location": "KASHMIR",
     "Views": 720
   },
   {
@@ -4674,12 +4674,12 @@ arr=[
     "Instagram": "https://www.instagram.com/jkchanneltv/?hl=en",
     "Youtube": "NA",
     "Language": "Koshur, Dogri, Punjabi, Pahari, Gojri, Hindi-Urdu and English",
-    "Location ": "KASHMIR",
+    "Location": "KASHMIR",
     "Views": "NA"
   },
   {
     "Name": "DD Kashir",
-    "Address": "Doordarshan Kendra Srinagar\nNear Abdullah Bridge\nSrinagar - 190001",
+    "Address": "Doordarshan Kendra SrinagarNear Abdullah BridgeSrinagar - 190001",
     "Link": "prasarbharati.gov.in",
     "Email": "ddksrinagar@gmail.com",
     "Phone": 9419000639,
@@ -4688,13 +4688,13 @@ arr=[
     "Instagram": "https://www.instagram.com/ddkashirchannel/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCOqU-HfQxoyImaCW2tCDxJA?feature=emb_ch_name_ex",
     "Language": "Kashmiri Ladakhi Hindi Urdu",
-    "Location ": "KASHMIR",
+    "Location": "KASHMIR",
     "Views": "NA"
   },
   {
     "Name": "News 18 J&K",
     "Address": "KP Road Paibugh Mattan, Anantnag, Jammu and Kashmir 192125",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/News18Jammu/",
@@ -4702,12 +4702,12 @@ arr=[
     "Instagram": "https://www.instagram.com/jknews18/?hl=en",
     "Youtube": "https://www.youtube.com/c/News18Urdu",
     "Language": "Hindi, Dogri, Urdu, and Kashmiri",
-    "Location ": "KASHMIR",
+    "Location": "KASHMIR",
     "Views": "282,824,235"
   },
   {
     "Name": "Valley News Live Channel - Anantnag",
-    "Address": "Kokernag\nAnantnag, 192202\nIndia",
+    "Address": "KokernagAnantnag, 192202India",
     "Link": "valleynewslive.com",
     "Email": " news@valleynewslive.com",
     "Phone": 919858626583,
@@ -4716,11 +4716,11 @@ arr=[
     "Instagram": "https://www.instagram.com/vns_news/",
     "Youtube": "https://www.youtube.com/c/Jkupdate",
     "Language": "Hindi",
-    "Location ": "KASHMIR",
+    "Location": "KASHMIR",
     "Views": "359,002,070"
   },
   {
-    "Name": "JK Channel Udhampur Digital\n",
+    "Name": "JK Channel Udhampur Digital",
     "Address": "ud, Udhampur, India, Jammu and Kashmir",
     "Link": "jkchanneludhampurdigital.com",
     "Email": "jkchanneludhampurdigital@gmail.com",
@@ -4730,7 +4730,7 @@ arr=[
     "Instagram": "https://www.instagram.com/jkchanneludhampur/",
     "Youtube": "https://www.youtube.com/c/JKMEDIAOFFICIAL",
     "Language": "Hindi and Urdu",
-    "Location ": "KASHMIR",
+    "Location": "KASHMIR",
     "Views": "159,398,238"
   },
   {
@@ -4744,7 +4744,7 @@ arr=[
     "Instagram": "https://www.instagram.com/pragnewsofficial",
     "Youtube": "https://m.youtube.com/channel/UCe59qUJndCWEr8XWpDWm6Jg",
     "Language": "Hindi",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "677,646,641"
   },
   {
@@ -4758,12 +4758,12 @@ arr=[
     "Instagram": "https://www.instagram.com/pratidintime/",
     "Youtube": "https://www.youtube.com/channel/UC1JkYCOb4wKvdWreGQ0CR9g",
     "Language": "Hindi",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "729,540,465"
   },
   {
     "Name": "Magicalassam",
-    "Address": "E 43/1, Okhla Phase II\nNew DELHI, DELHI\n110020\nIndia",
+    "Address": "E 43/1, Okhla Phase IINew DELHI, DELHI110020India",
     "Link": "magicalassam.com",
     "Email": "info@magicalassam.com",
     "Phone": "NA",
@@ -4772,7 +4772,7 @@ arr=[
     "Instagram": "https://instagram.com/magicalassam",
     "Youtube": "https://www.youtube.com/magicalassam",
     "Language": "English, HIndi",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "3,134,560"
   },
   {
@@ -4786,7 +4786,7 @@ arr=[
     "Instagram": "https://www.instagram.com/dy365.in",
     "Youtube": "https://www.youtube.com/c/DY365NEWS",
     "Language": "English, HIndi",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "453,682,905"
   },
   {
@@ -4800,7 +4800,7 @@ arr=[
     "Instagram": "https://www.instagram.com/bongaigaon_now/?hl=en         ",
     "Youtube": "https://m.youtube.com/c/BongaigaonTimes/videos",
     "Language": "English, HIndi",
-    "Location ": "ASSAM",
+    "Location": "ASSAM",
     "Views": "303,237"
   },
   {
@@ -4814,7 +4814,7 @@ arr=[
     "Instagram": "https://www.instagram.com/abpnewstv/?hl=en",
     "Youtube": "https://www.youtube.com/user/abpsanjha",
     "Language": "Punjabi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "449,759,518"
   },
   {
@@ -4828,7 +4828,7 @@ arr=[
     "Instagram": "https://www.instagram.com/aonepunjabitv/?hl=en",
     "Youtube": "https://m.youtube.com/c/AoneNewsLive/channels?view=49&shelf_id=6",
     "Language": "Punjabi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "93,274,959"
   },
   {
@@ -4842,12 +4842,12 @@ arr=[
     "Instagram": "https://www.instagram.com/bbcnewspunjabi/channel/",
     "Youtube": "https://www.youtube.com/channel/UCQ50zycMbp27ZVlOuoMIvbQ/videos",
     "Language": "Punjabi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "127,664"
   },
   {
     "Name": "PTC Punjab",
-    "Address": "F-137, Phase – 8 B, Sector 74,\nIndustrial Area Mohali,\nSahibzada Ajit Singh Nagar,\nPunjab 14005",
+    "Address": "F-137, Phase – 8 B, Sector 74,Industrial Area Mohali,Sahibzada Ajit Singh Nagar,Punjab 14005",
     "Link": "ptcnews.tv",
     "Email": "appfeedback@ptcnetwork.com",
     "Phone": "0172 223 7006",
@@ -4856,13 +4856,13 @@ arr=[
     "Instagram": "https://www.instagram.com/ptc_news/",
     "Youtube": "https://www.youtube.com/user/PTCNewsIndia",
     "Language": "Punjabi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "314,294,678"
   },
   {
     "Name": "Apni Awaaz",
     "Address": "Hans Nagar Road, Bhatinda City, Bhatinda - 151005",
-    "Link": "",
+    "Link": "NA",
     "Email": "info@radioapniawaz.com",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/press750",
@@ -4870,7 +4870,7 @@ arr=[
     "Instagram": "https://www.instagram.com/apniawaaz/",
     "Youtube": "https://www.youtube.com/channel/UCrp9QqiQBHygVB83qtC_Jlw",
     "Language": "Punjabi/Hindi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": 9
   },
   {
@@ -4884,7 +4884,7 @@ arr=[
     "Instagram": "https://www.instagram.com/jalandhar_khabarnama/",
     "Youtube": "https://m.youtube.com/channel/UCgU8LuA9QzvLUHJWVPd_2GQ",
     "Language": "Punjabi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "33,323"
   },
   {
@@ -4898,7 +4898,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/chardiklatimetvgroup",
     "Language": "Punjabi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "79,134,559"
   },
   {
@@ -4912,7 +4912,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCJg2CqCK6BlGcBbEtr1f2DQ",
     "Language": "Punjabi and Hindi",
-    "Location ": "PUNJAB",
+    "Location": "PUNJAB",
     "Views": "340,004,364"
   },
   {
@@ -4926,7 +4926,7 @@ arr=[
     "Instagram": "http://www.instagram.com/kannurvisiononline",
     "Youtube": "http://www.youtube.com/kannurvisiononlinenews",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "14,229,780"
   },
   {
@@ -4940,21 +4940,21 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCAvp4XAgdoNgtBWceicOUFQ",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "8,851,143"
   },
   {
     "Name": "K VARTHA ",
-    "Address": "Press Club Buiding \r\n(Door No. KMC 18/474) \r\nKasaragod, Kerala, India. Pin 671121",
+    "Address": "Press Club Buiding (Door No. KMC 18/474) Kasaragod, Kerala, India. Pin 671121",
     "Link": "kvartha.com",
-    "Email": "Email: news@kvartha.com",
+    "Email": "Email:news@kvartha.com",
     "Phone": 4994222554,
     "Facebook": "https://www.facebook.com/kvarthanews/",
     "Twitter": "NA",
     "Instagram": "https://www.instagram.com/kvarthaworldnews/",
     "Youtube": "https://www.youtube.com/c/KVARTHAWORLDNEWS/",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "1,198,725"
   },
   {
@@ -4968,13 +4968,13 @@ arr=[
     "Instagram": "https://www.instagram.com/news18kerala/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw?feature=emb_ch_name_ex",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "646,080,168"
   },
   {
     "Name": "NEWS 47",
     "Address": "32/11, Puthiya Road, Pallissery Junction,Near NH 47, Haritha Bye Ln, Chakkaraparambu, Palarivattom, Kochi, Kerala 682032",
-    "Link": "",
+    "Link": "NA",
     "Email": "",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/newschannel47/",
@@ -4982,13 +4982,13 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/FOX47NewsTV",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "9,923,028"
   },
   {
     "Name": "KOLLAM NEWS 24*7",
     "Address": " Shihab Thangal Rd, Vidya Nagar Colony, Kaipadamugal",
-    "Link": "",
+    "Link": "NA",
     "Email": "srishti.const@gmail.com",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/kollamnewsnews/",
@@ -4996,12 +4996,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCEfN8an-1hcLDPV4ilX6cKA",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": 327
   },
   {
     "Name": "KASARAGOD VARTHA",
-    "Address": "Press Club Building, Kasaragod\r\nKerala. Pin 671121",
+    "Address": "Press Club Building, KasaragodKerala. Pin 671121",
     "Link": "kasargodvartha.com",
     "Email": "kasaragodvartha@gmail.com",
     "Phone": "NA",
@@ -5010,7 +5010,7 @@ arr=[
     "Instagram": "https://www.instagram.com/kasargodvartha/?hl=en/",
     "Youtube": "https://www.youtube.com/c/KasaragodTvKasargodvartha/",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "7,178,328"
   },
   {
@@ -5024,7 +5024,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "NA"
   },
   {
@@ -5038,12 +5038,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/StarvisionChannelKottayam/videos",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "2,454,073"
   },
   {
     "Name": "KANNUR ONE",
-    "Address": "Kannur One Media & Entertainment\nZ-23, Third Floor, Grand Plaza, Kannur 670001",
+    "Address": "Kannur One Media & EntertainmentZ-23, Third Floor, Grand Plaza, Kannur 670001",
     "Link": "kannurone.com",
     "Email": "kannuroneknr@gmail.com",
     "Phone": 7034772288,
@@ -5052,12 +5052,12 @@ arr=[
     "Instagram": 0,
     "Youtube": "https://www.youtube.com/channel/UCF6zUDX46vq0D-nth8cyNYg?view_as=subscriber",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "704,692"
   },
   {
     "Name": "WAYANAD VISION",
-    "Address": "Wayanadvision Communicators (P) LTD\nAmmus Complex\nNear Ananthaveera Theater\nKalpetta",
+    "Address": "Wayanadvision Communicators (P) LTDAmmus ComplexNear Ananthaveera TheaterKalpetta",
     "Link": "wayanadvision.in",
     "Email": "wayanadvisioncommunicators@gmail.com",
     "Phone": "9207 713 503",
@@ -5066,7 +5066,7 @@ arr=[
     "Instagram": "https://instagram.com/wayanadvisionnews",
     "Youtube": "https://youtube.com/channel/Wayanadvisionchannel",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "NA"
   },
   {
@@ -5080,7 +5080,7 @@ arr=[
     "Instagram": "https://www.instagram.com/thedoolnews/",
     "Youtube": "https://www.youtube.com/user/doolnews",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "NA"
   },
   {
@@ -5094,7 +5094,7 @@ arr=[
     "Instagram": "https://www.instagram.com/malabarnewz/",
     "Youtube": "https://www.youtube.com/channel/UCd5d-HvkXCAc-Xmiv-YOGEQ/about",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "3,709,446"
   },
   {
@@ -5102,13 +5102,13 @@ arr=[
     "Address": "East Nadakkave, Eranhippalam, Kozhikode, Kerala 673006",
     "Link": "keralaonetv.com",
     "Email": "keralaonetv@gmail.com",
-    "Phone": "\n097451 50140",
+    "Phone": "097451 50140",
     "Facebook": "https://www.facebook.com/keralaonetv",
     "Twitter": "https://twitter.com/keralaonetv",
     "Instagram": "https://www.instagram.com/keralaonetelevision/",
     "Youtube": "https://www.youtube.com/c/MediaoneTVLive",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "2,753,786,319"
   },
   {
@@ -5122,7 +5122,7 @@ arr=[
     "Instagram": "https://instagram.com/tlnewsonline",
     "Youtube": "https://www.youtube.com/channel/UCMVFVDW9fZp8J34wu0FZPMA",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "51,415"
   },
   {
@@ -5136,7 +5136,7 @@ arr=[
     "Instagram": "https://www.instagram.com/edappal_news/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCSF13SPflcaV-gL2Twu2C7g",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "47,135"
   },
   {
@@ -5150,7 +5150,7 @@ arr=[
     "Instagram": "https://www.instagram.com/primenewslive/?hl=en",
     "Youtube": "https://www.youtube.com/c/PrimeNewsLiveTv/about",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "6,280,032"
   },
   {
@@ -5164,7 +5164,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCACmmBHIMk7PRmU5lfBZkeA",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "50,568"
   },
   {
@@ -5178,7 +5178,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/JeevanTVOfficial",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "6,465,054"
   },
   {
@@ -5192,7 +5192,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCg2R92WjRGf0C2lJGBWzd6g/videos",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "1,282,433"
   },
   {
@@ -5206,12 +5206,12 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCPAkBlOAV2_E4Q_Yp-DESew",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "21,072"
   },
   {
     "Name": "MALANADU NEWS",
-    "Address": "C/o INDIA DARSHAN CHARITABLE TRUST Reg.No:20/IV/2016 MALANAD MEDIA HUB ALUNKAL SQARE THAMMANAM, Stadium Link Rd, Kaloor, Kochi, Kerala 682032",
+    "Address": "C/o INDIA DARSHAN CHARITABLE TRUST Reg.No:20/IV/2016 MALANAD MEDIA HUB ALUNKAL SQARE THAMMANAM, Stadium LinkRd, Kaloor, Kochi, Kerala 682032",
     "Link": "malanadunews.com",
     "Email": "info@malanadunews.com",
     "Phone": 4844029962,
@@ -5220,7 +5220,7 @@ arr=[
     "Instagram": "https://www.instagram.com/malanadunewsofficial/",
     "Youtube": "https://www.youtube.com/malanadutvindia",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "395,896"
   },
   {
@@ -5234,7 +5234,7 @@ arr=[
     "Instagram": "https://janapriyam.com/#",
     "Youtube": "https://www.youtube.com/channel/UCiEnQ9Bb_VIvas7WQqPHyWQ",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "555,734"
   },
   {
@@ -5248,7 +5248,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCMDG5hXraurCXeX1lE509wQ",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "1,348,154"
   },
   {
@@ -5262,7 +5262,7 @@ arr=[
     "Instagram": "https://www.instagram.com/cityvisionlive/",
     "Youtube": "https://www.youtube.com/channel/UCekJPUUdo0RioAs_lZCcQug?view_as=subscriber",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "305,836"
   },
   {
@@ -5276,7 +5276,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/IDUKKIVISIONNEWSHD/live",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "1,752,676"
   },
   {
@@ -5290,7 +5290,7 @@ arr=[
     "Instagram": "https://www.instagram.com/indiavisionnews/?hl=en",
     "Youtube": "https://www.youtube.com/c/indiaVisionNews/search",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "19,397,671"
   },
   {
@@ -5304,7 +5304,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCNqjL6JN4wu4cwidi9hurlQ",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "4,741,999"
   },
   {
@@ -5318,7 +5318,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCaoAfr7ySRQZntk441ajT0g",
     "Language": "MALAYALAM",
-    "Location ": "KERALA",
+    "Location": "KERALA",
     "Views": "113,781"
   },
   {
@@ -5332,7 +5332,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sakshi_post/",
     "Youtube": "https://www.youtube.com/c/SakshiPostEnglishNews",
     "Language": "TELUGU, ENGLISH",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "1,074,321"
   },
   {
@@ -5346,12 +5346,12 @@ arr=[
     "Instagram": "https://www.instagram.com/inhnewsindia/",
     "Youtube": "https://www.youtube.com/c/Inh24X7",
     "Language": "TELUGU, ENGLISH",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "618,651"
   },
   {
     "Name": "srikakulamonline",
-    "Address": "Srikakulam Online P.N.Colony, Gujarathipeta, Srikakulam Andhra Pradesh – 532 005.\n\nVisit for more Srikakulam information at: https://www.srikakulamonline.com",
+    "Address": "Srikakulam Online P.N.Colony, Gujarathipeta, Srikakulam Andhra Pradesh – 532 005.Visit for more Srikakulam information at:https://www.srikakulamonline.com",
     "Link": "srikakulamonline.com",
     "Email": "srikakulam.online@gmail.com",
     "Phone": 9666101153,
@@ -5360,7 +5360,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/c/SakshiTV",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "1,789,907,798"
   },
   {
@@ -5374,13 +5374,13 @@ arr=[
     "Instagram": "https://www.instagram.com/fact_motivation_news/",
     "Youtube": "https://www.youtube.com/channel/UCq2tlEhNONFwzE47BlD-14A",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "18,591,986"
   },
   {
-    "Name": "J7 NEWS CHANNEL\n",
+    "Name": "J7 NEWS CHANNEL",
     "Address": "4CVP+PR, Venugopla Puram, Andhra Pradesh 535002",
-    "Link": "",
+    "Link": "NA",
     "Email": "NA",
     "Phone": "083097 90170",
     "Facebook": "https://www.facebook.com/J7-News-Telugu-Live-news-112763031027646/",
@@ -5388,21 +5388,21 @@ arr=[
     "Instagram": "https://www.instagram.com/channelj7news/",
     "Youtube": "https://www.youtube.com/channel/UCocF6LHmNeMk_H7VOQpuMrA",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "29,417"
   },
   {
     "Name": "Astha News8",
     "Address": "VT Agraharam Rd, opp. dist Court, Srinivasa Nagar, BC Colony, Vizianagaram, Andhra Pradesh 535004",
     "Link": "asthanews8.com",
-    "Email": "asthanews8@gmail.com\n\n",
+    "Email": "asthanews8@gmail.com",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/Asthanews8/",
     "Twitter": "https://twitter.com/asthanews8",
     "Instagram": "https://www.instagram.com/asthanews8/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCyUrkHyHxoE6h3Yc_Tx1x7A",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "1,269"
   },
   {
@@ -5410,13 +5410,13 @@ arr=[
     "Address": "50-39-6, TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
     "Link": "tv5news.in",
     "Email": "digital@tv5news.in",
-    "Phone": "040 2355 5555\n\n",
+    "Phone": "040 2355 5555",
     "Facebook": "https://www.facebook.com/tv5newschannel/",
     "Twitter": "https://twitter.com/tv5newsnow?lang=en",
     "Instagram": "https://www.instagram.com/tv5newsnow/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCAR3h_9fLV82N2FH4cE4RKw",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "3,130,805,637"
   },
   {
@@ -5424,13 +5424,13 @@ arr=[
     "Address": "Plot no:-1042, Rd No 52, Jubilee Hills, Telangana, Telangana 500033",
     "Link": "hmtvlive.com",
     "Email": "social@hmtv.in",
-    "Phone": "11-47777500\n\n",
+    "Phone": "11-47777500",
     "Facebook": "https://www.facebook.com/hmtvnewslive",
     "Twitter": "https://twitter.com/hmtvnewslive?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Instagram": "https://instagram.com/hmtvnewslive",
     "Youtube": "https://www.youtube.com/channel/UCNZOrs1QBt8cJnv9ud96qRA",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "2,494,484,432"
   },
   {
@@ -5444,7 +5444,7 @@ arr=[
     "Instagram": "https://www.instagram.com/99tvteluguofficial/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCl5YgCiwSRVOiC2Nd1P9v1A",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "539,788,250"
   },
   {
@@ -5458,12 +5458,12 @@ arr=[
     "Instagram": "https://www.instagram.com/tnewstelugu/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCu6edg8_eu3-A8ylgaWereA?feature=emb_ch_name_ex",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "168,083,752"
   },
   {
     "Name": "Yone",
-    "Address": "Address: #3-464, Old DairyFarm\n\nAdarsha Nagar, Visakhapatnam.\n\n530040",
+    "Address": "Address:#3-464, Old DairyFarmAdarsha Nagar, Visakhapatnam.530040",
     "Link": "yonetv.com",
     "Email": "contactytv@gmail.com",
     "Phone": 6888897,
@@ -5472,7 +5472,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/user/ytvtelugu",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "4,300"
   },
   {
@@ -5482,11 +5482,11 @@ arr=[
     "Email": "truthnews999@gmail.com",
     "Phone": "091822 59961",
     "Facebook": "https://www.facebook.com/TRUTHNEWS999/",
-    "Twitter": "\r\nhttps://twitter.com/TruthNews18/",
+    "Twitter": "https://twitter.com/TruthNews18/",
     "Instagram": "https://www.instagram.com/truthnews23/",
     "Youtube": "https://www.youtube.com/channel/UCLCPYpzfsXRSTOC-or1jbdQ",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "2,989"
   },
   {
@@ -5500,7 +5500,7 @@ arr=[
     "Instagram": "https://www.instagram.com/19newstelugu/?hl=en",
     "Youtube": "NA",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "NA"
   },
   {
@@ -5514,7 +5514,7 @@ arr=[
     "Instagram": "https://www.instagram.com/waradhi_tv/",
     "Youtube": "https://m.youtube.com/channel/UCDGLxz8CfBbi_O18EHbVHyA",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "7,240"
   },
   {
@@ -5528,7 +5528,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newsnowtelugu_official/?hl=en",
     "Youtube": "https://www.youtube.com/NewsNowTelugutv",
     "Language": "Telugu",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "34,710,179"
   },
   {
@@ -5542,7 +5542,7 @@ arr=[
     "Instagram": "https://www.instagram.com/egnewspost/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCVTAdYTquBUT7B5OWiNbulQ",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "242,314"
   },
   {
@@ -5556,7 +5556,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sumantvinsta",
     "Youtube": "https://www.youtube.com/c/SumanTVChannel/about",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "2,243,298,584"
   },
   {
@@ -5570,7 +5570,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ntvtelugulive/",
     "Youtube": "https://www.youtube.com/channel/UCumtYpCY26F6Jr3satUgMvA",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "5,758,094,783"
   },
   {
@@ -5584,11 +5584,11 @@ arr=[
     "Instagram": "https://www.instagram.com/etvbharatandhrapradesh/?hl=en",
     "Youtube": "https://m.youtube.com/c/ETVBharatAndhraPradesh",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "15,267,975"
   },
   {
-    "Name": "\nAsianet News Telugu",
+    "Name": "Asianet News Telugu",
     "Address": "lat no. 202, 2nd floor, city centre building, Himayatnagar, Telangana, Telangana 500029",
     "Link": "telugu.asianetnews.com",
     "Email": "mail2asianetnewstelugu@gmail.com",
@@ -5598,12 +5598,12 @@ arr=[
     "Instagram": "https://www.instagram.com/asianetnews.telugu/",
     "Youtube": "https://www.youtube.com/channel/UCUF6g0RJhaggYyaUQWQkYfw",
     "Language": "TELUGU,",
-    "Location ": "ANDHRA PRADESH",
+    "Location": "ANDHRA PRADESH",
     "Views": "26,084,554"
   },
   {
     "Name": "Rajasthan Patrika",
-    "Address": "Kesargarh J.L.N.Marg Jaipur\r\nJaipur : 302004\r\nRajasthan ,India .",
+    "Address": "Kesargarh J.L.N.Marg JaipurJaipur :302004Rajasthan ,India .",
     "Link": "rajasthanpatrika.com",
     "Email": " Info@Patrika.Com",
     "Phone": "(141) 3940414 2561582",
@@ -5612,21 +5612,21 @@ arr=[
     "Instagram": "https://www.instagram.com/rajasthan_patrika/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCWk-7Yosyvzln9ZzJg8BvVg",
     "Language": "Hindi And English",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "1,071,659,943"
   },
   {
     "Name": "Doordarshan Rajasthan",
     "Address": "Doordarshan Kendra, Jhalana Institutional Area, Jhalana Doongri, Jaipur, Rajasthan 302004",
     "Link": "prasarbharati.gov.in",
-    "Email": "feedback@ddkmumbai.org.in\r\nadgcwr@gmail.com",
+    "Email": "feedback@ddkmumbai.org.inadgcwr@gmail.com",
     "Phone": 1412710670,
     "Facebook": "https://www.facebook.com/ddrajasthantv/",
     "Twitter": "https://twitter.com/ddrajasthantv",
     "Instagram": "https://www.instagram.com/explore/locations/135427233796207/jaipur-rajasthan/doordarshan-kendra/",
     "Youtube": "https://www.youtube.com/c/doordarshanrajasthan",
     "Language": "Hindi And Rajasthani",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "1,773,601"
   },
   {
@@ -5640,7 +5640,7 @@ arr=[
     "Instagram": "https://www.instagram.com/bhilwaralokvani/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCpc27nRAjZ9ekuiyStvo12w",
     "Language": "Hindi and Rajasthani",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "590,725"
   },
   {
@@ -5654,7 +5654,7 @@ arr=[
     "Instagram": "https://www.instagram.com/nareshmadhukar/",
     "Youtube": "https://www.youtube.com/horizonhind",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "14,138,033"
   },
   {
@@ -5668,13 +5668,13 @@ arr=[
     "Instagram": "https://www.instagram.com/alwarnewsofficial/",
     "Youtube": "https://www.youtube.com/channel/UCLAvZe2hnGVTobMtA17Rl9A",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "402,317"
   },
   {
     "Name": "ATL TV Rajasthan",
     "Address": "HJ69+99X, Sanjay Nagar, Alwar, Rajasthan 301001",
-    "Link": "",
+    "Link": "NA",
     "Email": "akramdinkhan@gmail.com",
     "Phone": "094145 06052",
     "Facebook": "https://www.facebook.com/akramkhannewsreporter",
@@ -5682,12 +5682,12 @@ arr=[
     "Instagram": "https://www.instagram.com/a.t.l_tv/?hl=en",
     "Youtube": "https://www.youtube.com/c/ATLTV/about",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "5,669,986"
   },
   {
     "Name": "bhilwara hulchul news ",
-    "Address": "District Collectorate Office Marg, Near Veer Gurjar Sweets Bhandar,\nEvening Vegetable Market, Bhilwara 311001",
+    "Address": "District Collectorate Office Marg, Near Veer Gurjar Sweets Bhandar,Evening Vegetable Market, Bhilwara 311001",
     "Link": "bhilwarahalchal.com",
     "Email": "bhilwarahalchal@gmail.ccom",
     "Phone": "77377-41455",
@@ -5696,7 +5696,7 @@ arr=[
     "Instagram": "https://www.instagram.com/bhilwarakapage/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCDQsb9X7XXZyPh_93GOdxLA",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "18,020,092"
   },
   {
@@ -5710,7 +5710,7 @@ arr=[
     "Instagram": "https://www.instagram.com/aonerajasthan/",
     "Youtube": "https://www.youtube.com/c/A1TVNewsChannel/about",
     "Language": "Hindi",
-    "Location ": "RAJASTHAN",
+    "Location": "RAJASTHAN",
     "Views": "50,391,959"
   },
   {
@@ -5724,12 +5724,12 @@ arr=[
     "Instagram": "https://www.instagram.com/mobilenews24/",
     "Youtube": "https://www.youtube.com/channel/UCsdA2TxaEme8CXfkG7R_v_g?view_as=subscriber",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "188,163,877"
   },
   {
     "Name": "DD Sahyadri",
-    "Address": "Doordarshan Kendra,\r\nP.B.Marg,\r\nWorli, Mumbai, India\r\nPin - 400 030",
+    "Address": "Doordarshan Kendra,P.B.Marg,Worli, Mumbai, IndiaPin - 400 030",
     "Link": "prasarbharati.gov.in",
     "Email": "adgcwr@gmail.com",
     "Phone": "022-24938444",
@@ -5738,7 +5738,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ddsahyadri/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC-bdz-5EeUPT7lp7oSg4D5w",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "76,613,812"
   },
   {
@@ -5752,21 +5752,21 @@ arr=[
     "Instagram": "https://www.instagram.com/maaymarathinews",
     "Youtube": "https://www.youtube.com/channel/UCaXT4Cp8genTF0OMffkWjnQ",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "154,280"
   },
   {
     "Name": "ABP news maharastra",
-    "Address": "ABP NEWS CENTER, 301, Boston House, 3rd Floor, Suren Road,\nAndheri - East, Mumbai- 400093.",
+    "Address": "ABP NEWS CENTER, 301, Boston House, 3rd Floor, Suren Road,Andheri - East, Mumbai- 400093.",
     "Link": "marathi.abplive.com",
-    "Email": "abp@adfactors.com\n",
+    "Email": "abp@adfactors.com",
     "Phone": "22 61277790",
     "Facebook": "https://www.facebook.com/abpmajha",
     "Twitter": "https://twitter.com/abpmajhatv",
     "Instagram": "https://www.instagram.com/abpmajhatv/?hl=en",
     "Youtube": "https://www.youtube.com/abpmajhatv",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "6,849,905,451"
   },
   {
@@ -5780,7 +5780,7 @@ arr=[
     "Instagram": "https://www.instagram.com/JalgaonLiveNews/",
     "Youtube": "https://www.youtube.com/channel/UCi00BeDdtxY4kTdTVPD3QMQ",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "308,609"
   },
   {
@@ -5794,7 +5794,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ctv_digital/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCGaOkbpMXx4j07kxQYpxFDA",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "1,182,121,977"
   },
   {
@@ -5808,11 +5808,11 @@ arr=[
     "Instagram": "https://www.instagram.com/navimumbainetwork/?hl=en",
     "Youtube": "https://www.youtube.com/navimumbainetwork",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "4,549,354"
   },
   {
-    "Name": "sindhudurglive\n",
+    "Name": "sindhudurglive",
     "Address": "Main Road, near Union Bank, Sawantwadi, Maharashtra 416510",
     "Link": "sindhudurglive.com",
     "Email": "sindhudurglivenews@gmail.com",
@@ -5822,21 +5822,21 @@ arr=[
     "Instagram": "https://www.instagram.com/sindhudurglive/",
     "Youtube": "https://www.youtube.com/c/SindhudurgLiveNews/about",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "71,884,054"
   },
   {
     "Name": "NASHIK LOKSHAHI NEWS",
     "Address": "Mamta hospital, Tambe Towers, Plat no 2, opp. makhmlabad naka, Nashik, Maharashtra 422003",
     "Link": "nashiklokshahinews.in",
-    "Email": "\r\ndigital@lokshahi.com",
+    "Email": "digital@lokshahi.com",
     "Phone": "082689 99997",
     "Facebook": "https://www.facebook.com/lokshahiMarathi/",
     "Twitter": "https://twitter.com/news_lokshahi?fbclid=IwAR2DUvmCSedtMmy8BADRWJLX8AY0dj2JVLjO3hB46S4KsYtbO_rCL4PLG_w",
     "Instagram": "https://www.instagram.com/lokshahinewslive/",
     "Youtube": "https://www.youtube.com/lokshahinews",
     "Language": "hindi and English",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "85,826,362"
   },
   {
@@ -5850,7 +5850,7 @@ arr=[
     "Instagram": "https://www.instagram.com/hwnewsnetwork/",
     "Youtube": "https://www.youtube.com/c/HWNewsNetwork",
     "Language": "hindi and English",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "399,846,903"
   },
   {
@@ -5864,7 +5864,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ahmednagarlive24/?hl=en",
     "Youtube": "https://www.youtube.com/c/AhmednagarLive24",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "3,504,321"
   },
   {
@@ -5872,13 +5872,13 @@ arr=[
     "Address": "Mega Center, Pune - Solapur Rd, Magarpatta, Hadapsar, Pune, Maharashtra 411028",
     "Link": "punenews24.in",
     "Email": "punenewsmedia@gmail.com",
-    "Phone": "\r\n098224 49553",
+    "Phone": "098224 49553",
     "Facebook": "https://www.facebook.com/punenews24.in/",
     "Twitter": "https://twitter.com/punenews_24?fbclid=IwAR2EmolXgD3eS3nFHwj68xd_KKkofDFlhwmzKwE3gPwZMYPMf-evVS6OEUY",
     "Instagram": "https://www.instagram.com/punenewslive/",
     "Youtube": "https://www.youtube.com/channel/UCZsPGqNi93jf7rDd6FeQqLA",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": 350
   },
   {
@@ -5886,13 +5886,13 @@ arr=[
     "Address": "GVXQ+R57, Yashwant Nagar, Janta Nagar, Yerwada Village, Yerawada, Pune, Maharashtra 411006",
     "Link": "punekarmazanews.in",
     "Email": "punekarmaza@gmail.com",
-    "Phone": "\r\n095034 16461",
+    "Phone": "095034 16461",
     "Facebook": "https://www.facebook.com/PunekarMazaNews",
     "Twitter": "https://twitter.com/xn4qoxqndut3tvz",
     "Instagram": "https://www.instagram.com/punekar_maza_news/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCNiLh-h7YazNiFfpTFN4I_g",
     "Language": "Marathi and Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "310,143"
   },
   {
@@ -5906,7 +5906,7 @@ arr=[
     "Instagram": "https://www.instagram.com/mpcnews.in/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCWUQ79oQ7FHHywXqMyqmC4w",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "7,736,938"
   },
   {
@@ -5920,7 +5920,7 @@ arr=[
     "Instagram": "https://www.instagram.com/jaimaharashtralive/",
     "Youtube": "https://www.youtube.com/c/Jaimaharashtranews",
     "Language": "Hindi",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "266,717,374"
   },
   {
@@ -5928,13 +5928,13 @@ arr=[
     "Address": "First Floor, Pioneer House, A Block,. Sector 16, Noida, PIN 201301. Uttar Pradesh, India. ",
     "Link": "indiaaheadnews.com",
     "Email": " jane.doe@indiaaheadnews.com",
-    "Phone": "Phone: 0120 – 4691393.",
+    "Phone": "Phone:0120 – 4691393.",
     "Facebook": "https://www.facebook.com/IndiaAheadNews/",
     "Twitter": "https://twitter.com/IndiaAheadNews?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Instagram": "https://www.instagram.com/indiaaheadnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCsEwpieG_XmBvPlfYrv9Afg?feature=emb_ch_name_ex",
     "Language": "English and Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "29,292,264"
   },
   {
@@ -5942,13 +5942,13 @@ arr=[
     "Address": "No.1, Kamaraj Park Street,. Royapuram, Tamil Nadu – 600013. Tamilnadu, India.",
     "Link": "sathiyam.tv",
     "Email": "news@sathiyam.org",
-    "Phone": "Phone No: 044-2590 9950",
+    "Phone": "PhoneNo:044-2590 9950",
     "Facebook": "https://www.facebook.com/SathiyamNEWS/",
     "Twitter": "https://twitter.com/sathiyamtv",
     "Instagram": "https://www.instagram.com/sathiyamnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "2,836,074,216"
   },
   {
@@ -5962,7 +5962,7 @@ arr=[
     "Instagram": "https://www.instagram.com/asianetsuvarnanews/?hl=en",
     "Youtube": "https://www.youtube.com/c/asianetsuvarnanews",
     "Language": "Kannada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "1,339,349,942"
   },
   {
@@ -5976,7 +5976,7 @@ arr=[
     "Instagram": "https://www.instagram.com/prudentmediaGOA/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCJb1MeQClvGeSMeBSVLKnDQ",
     "Language": "English",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "202,221,059"
   },
   {
@@ -5990,7 +5990,7 @@ arr=[
     "Instagram": "https://www.instagram.com/republicworld/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/videos",
     "Language": "English",
-    "Location ": "MAHARASHTRA",
+    "Location": "MAHARASHTRA",
     "Views": "1,907,059,183"
   },
   {
@@ -6004,7 +6004,7 @@ arr=[
     "Instagram": "https://www.instagram.com/asianetnews_hindi/",
     "Youtube": "https://www.youtube.com/AsianetnewsHindi",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "61,548,076"
   },
   {
@@ -6018,7 +6018,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "NA",
     "Language": "Hindi",
-    "Location ": "West Bengal",
+    "Location": "West Bengal",
     "Views": "NA"
   },
   {
@@ -6032,7 +6032,7 @@ arr=[
     "Instagram": "https://www.instagram.com/aakash_aath/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCoE9pRJB9TtlEm1RzY9vPdA",
     "Language": "Bengali",
-    "Location ": "West Bengal",
+    "Location": "West Bengal",
     "Views": "4,273,564"
   },
   {
@@ -6040,13 +6040,13 @@ arr=[
     "Address": "27, City Centre, 3rd Floor, Mirza Galib Street, Park Street, Kolkata - 700016",
     "Link": "rplus.in",
     "Email": "coorm.rplus@rahul.ac.in",
-    "Phone": "\r\n033 4016 2727",
+    "Phone": "033 4016 2727",
     "Facebook": "https://www.facebook.com/newsrplus/",
     "Twitter": "https://twitter.com/rplusnews3",
     "Instagram": "https://www.instagram.com/24x7newsbengal/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCycQauzU5n3DwQdgk3cw91A",
     "Language": "Bengali",
-    "Location ": "West Bengal",
+    "Location": "West Bengal",
     "Views": "10,730,883"
   },
   {
@@ -6060,7 +6060,7 @@ arr=[
     "Instagram": "https://www.facebook.com/NewsIndiaNow365/",
     "Youtube": "https://www.youtube.com/channel/UCOiTFBS_TxaDzXr4hRBnxlg",
     "Language": "Bengali",
-    "Location ": "West Bengal",
+    "Location": "West Bengal",
     "Views": "80,070"
   },
   {
@@ -6074,7 +6074,7 @@ arr=[
     "Instagram": "https://www.instagram.com/aarohinews/?hl=en",
     "Youtube": "https://m.youtube.com/c/AarohiNews",
     "Language": "Bengali",
-    "Location ": "West Bengal",
+    "Location": "West Bengal",
     "Views": "6,095,418"
   },
   {
@@ -6088,21 +6088,21 @@ arr=[
     "Instagram": "https://www.instagram.com/asianetnewsbangla/?hl=en",
     "Youtube": "https://www.youtube.com/c/AsianetNewsBangla/playlists?view=1",
     "Language": "Bengali",
-    "Location ": "West Bengal",
+    "Location": "West Bengal",
     "Views": "4,777,150"
   },
   {
     "Name": "Kallakurichi Tamil News",
     "Address": "Gandhi Road Bhava Complex 21c/7 Shop No :, 6th Main St, Kallakurichi, Tamil Nadu 606202",
     "Link": "kallakurichinews.com",
-    "Email": "\nkallakurichiuser@gmail.com",
+    "Email": "kallakurichiuser@gmail.com",
     "Phone": 18003133779,
     "Facebook": "https://www.facebook.com/www.kallakurichi.news/",
     "Twitter": "https://twitter.com/envato",
     "Instagram": "https://www.instagram.com/kallakurichi.news/?hl=en",
     "Youtube": "http://www.youtube.com/envato",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "13,148,938"
   },
   {
@@ -6116,7 +6116,7 @@ arr=[
     "Instagram": "https://www.instagram.com/asianetnewstamil/",
     "Youtube": "https://www.youtube.com/c/AsianetNewsTamilOfficial",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "3,909,453"
   },
   {
@@ -6130,12 +6130,12 @@ arr=[
     "Instagram": "https://www.instagram.com/news7tamil/?hl=en",
     "Youtube": "https://www.youtube.com/user/news7tamil",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "1,773,677,950"
   },
   {
     "Name": "News4 Tamil",
-    "Address": "Star Apartment, Reg Off : Unit-1, No:113/18N, 5th St, Anna Nagar West, Tamil Nadu, Tamil Nadu 600040",
+    "Address": "Star Apartment, Reg Off :Unit-1, No:113/18N, 5th St, Anna Nagar West, Tamil Nadu, Tamil Nadu 600040",
     "Link": "news4tamil.com",
     "Email": "news4tamil2018@gmail.com",
     "Phone": 9176431857,
@@ -6144,7 +6144,7 @@ arr=[
     "Instagram": "https://www.news4tamil.com/#",
     "Youtube": "https://www.youtube.com/channel/UCdlwwhZUbW2DMjDODHh27dQ",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "19,458"
   },
   {
@@ -6158,7 +6158,7 @@ arr=[
     "Instagram": "https://www.instagram.com/News18TamilNadu/",
     "Youtube": "https://www.youtube.com/News18TamilNadu",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "786,180,883"
   },
   {
@@ -6172,7 +6172,7 @@ arr=[
     "Instagram": "https://www.instagram.com/thanthitv/",
     "Youtube": "https://www.youtube.com/user/thanthitv",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "6,240,799,773"
   },
   {
@@ -6186,7 +6186,7 @@ arr=[
     "Instagram": "https://www.instagram.com/captainnewstv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCno6OgN7-NDmRTNBgqWevlw",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "48,522,554"
   },
   {
@@ -6200,7 +6200,7 @@ arr=[
     "Instagram": "https://www.instagram.com/polimernews/?hl=en",
     "Youtube": "https://www.youtube.com/watch?v=pjtqXBTWliE",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "8,399,516,574"
   },
   {
@@ -6214,7 +6214,7 @@ arr=[
     "Instagram": "https://www.instagram.com/puthiyathalaimurai/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "4,357,352,346"
   },
   {
@@ -6228,7 +6228,7 @@ arr=[
     "Instagram": "https://www.instagram.com/rajnewstamil/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "50,071,103"
   },
   {
@@ -6242,7 +6242,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sunnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ?feature=emb_ch_name_ex",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU ",
+    "Location": "TAMIL NADU ",
     "Views": "2,092,400,885"
   },
   {
@@ -6256,7 +6256,7 @@ arr=[
     "Instagram": "https://www.instagram.com/Siwannews/?fbclid=IwAR0nXZEPiEEffhCYK1uEbRZ9XqyY8_qzZj-WOwughrZAfKnbHr9qJ5DXaXg",
     "Youtube": "https://www.youtube.com/channel/UCposYZnRexjIrnZycZO9EBw",
     "Language": "Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "38,241,439"
   },
   {
@@ -6270,7 +6270,7 @@ arr=[
     "Instagram": "https://www.instagram.com/JHARKHAND_BIHARnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC531MlZA5LUbeGwEN_zcppw",
     "Language": "Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "1,403,003,155"
   },
   {
@@ -6284,7 +6284,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sadhnanews_BIHARJHARKHAND/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCL_3_Ld1TkPFvSbtbcKOfBA",
     "Language": "Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "12,766,116"
   },
   {
@@ -6298,7 +6298,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ddnewsBIHAR/",
     "Youtube": "https://www.youtube.com/channel/UCp_TLSRpKRnYf5WKMYGg9TQ",
     "Language": "Bhojpuri, Angika, Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "136,962"
   },
   {
@@ -6312,7 +6312,7 @@ arr=[
     "Instagram": "https://www.instagram.com/BIHARtakofficial/?hl=en",
     "Youtube": "NA",
     "Language": "NA",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "NA"
   },
   {
@@ -6326,7 +6326,7 @@ arr=[
     "Instagram": "https://www.instagram.com/kashishnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCBdxSSyIlnwo3Aj5O0c6RWQ",
     "Language": "Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "44,164,123"
   },
   {
@@ -6340,7 +6340,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zee_BIHAR_JHARKHAND/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCZUjHLJivN0OZPC_Wj8JvkA",
     "Language": "Hindi",
-    "Location ": "BIHAR",
+    "Location": "BIHAR",
     "Views": "891,329,207"
   },
   {
@@ -6354,7 +6354,7 @@ arr=[
     "Instagram": "https://www.instagram.com/prudentmediaGOA/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCJb1MeQClvGeSMeBSVLKnDQ",
     "Language": "English",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "202,221,059"
   },
   {
@@ -6368,7 +6368,7 @@ arr=[
     "Instagram": "https://twitter.com/GOAnFlashNews/status/1506531523000160256",
     "Youtube": "https://www.youtube.com/c/GoanReporterGoasWebTVNewsChannel",
     "Language": "Marathi",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "15,590,068"
   },
   {
@@ -6382,7 +6382,7 @@ arr=[
     "Instagram": "https://www.instagram.com/GOAnewshub/?hl=en",
     "Youtube": "https://www.youtube.com/c/GOANewsHub",
     "Language": "Marathi",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "996,896"
   },
   {
@@ -6396,7 +6396,7 @@ arr=[
     "Instagram": "https://www.instagram.com/GOAnewsnow/",
     "Youtube": "https://www.youtube.com/channel/UCwPTt0opt17r24mLDSo0Lbg",
     "Language": "English",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "794,374"
   },
   {
@@ -6410,7 +6410,7 @@ arr=[
     "Instagram": "https://www.instagram.com/GOAplusnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCCCoUCKW46EOZMMrIE28MaQ",
     "Language": "English",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "7,286"
   },
   {
@@ -6424,7 +6424,7 @@ arr=[
     "Instagram": "https://twitter.com/GOA365tv1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "Youtube": "https://www.youtube.com/channel/UCDFOkbaN9IuV6tjO8Aqo1ww?feature=emb_ch_name_ex",
     "Language": "English",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "79,924,507"
   },
   {
@@ -6438,7 +6438,7 @@ arr=[
     "Instagram": "https://www.instagram.com/heraldo_GOA/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC7J_xpeCOZ7OMFC__2VF1pw/videos?view=0&sort=dd&shelf_id=0",
     "Language": "English",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "9,958,989"
   },
   {
@@ -6452,7 +6452,7 @@ arr=[
     "Instagram": "https://www.instagram.com/rdxGOA/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC-i0Rvr1-JtE2A8Z5RuVatg",
     "Language": "Marathi",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "31,671,112"
   },
   {
@@ -6466,7 +6466,7 @@ arr=[
     "Instagram": "https://www.instagram.com/hcnnewsofficial/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCsYOty3cKAzMn36xW-jTYog",
     "Language": "Hindi",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "211,658,427"
   },
   {
@@ -6480,7 +6480,7 @@ arr=[
     "Instagram": "https://www.instagram.com/primetvGOA/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCNGi6Cp_yhuxYKQRHnQvaDQ",
     "Language": "English",
-    "Location ": "GOA",
+    "Location": "GOA",
     "Views": "15,378,855"
   },
   {
@@ -6494,7 +6494,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ani_trending/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCtFQDgA8J8_iiwc5-KoAQlg",
     "Language": "English",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "292,285,817"
   },
   {
@@ -6508,7 +6508,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ptiphotos/?hl=en",
     "Youtube": "https://www.youtube.com/watch?v=lxPQ3XjjVTw",
     "Language": "English",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "7,800"
   },
   {
@@ -6522,7 +6522,7 @@ arr=[
     "Instagram": "https://www.instagram.com/janta__tv/",
     "Youtube": "https://www.youtube.com/jantatvnews",
     "Language": "English",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "29,456,190"
   },
   {
@@ -6536,7 +6536,7 @@ arr=[
     "Instagram": "https://www.instagram.com/p24gaming24/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC3IZhpYH0wr6B44zviU0uUw",
     "Language": "Hindi",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "41,876,036"
   },
   {
@@ -6550,7 +6550,7 @@ arr=[
     "Instagram": "https://www.instagram.com/BharatNewsTV/",
     "Youtube": "https://www.youtube.com/Bharat%20News%20Tv",
     "Language": "Hindi and Gujarati",
-    "Location ": "GUJARAT",
+    "Location": "GUJARAT",
     "Views": "39,622,390"
   },
   {
@@ -6564,7 +6564,7 @@ arr=[
     "Instagram": "https://www.instagram.com/aalamisahara/",
     "Youtube": "https://www.youtube.com/c/Aalamisahara/about",
     "Language": "urdu",
-    "Location ": "DELHI",
+    "Location": "DELHI",
     "Views": "1,425,276"
   },
   {
@@ -6578,7 +6578,7 @@ arr=[
     "Instagram": "https://www.instagram.com/99tvteluguofficial/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCl5YgCiwSRVOiC2Nd1P9v1A",
     "Language": "Telugu",
-    "Location ": "TELENGANA",
+    "Location": "TELENGANA",
     "Views": "535,907,141"
   },
   {
@@ -6592,12 +6592,12 @@ arr=[
     "Instagram": "https://www.instagram.com/etvtelangana/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ",
     "Language": "Telugu",
-    "Location ": "TELENGANA",
+    "Location": "TELENGANA",
     "Views": "1,206,806,008"
   },
   {
     "Name": "Prime9 News",
-    "Address": "D.No.: 8-2-248/1/7/26/2, Nagarjuna Hills, Panjagutta, Telangana - 82",
+    "Address": "D.No.:8-2-248/1/7/26/2, Nagarjuna Hills, Panjagutta, Telangana - 82",
     "Link": "prime9news.com",
     "Email": "info@prime9news.com",
     "Phone": 9121034441,
@@ -6606,7 +6606,7 @@ arr=[
     "Instagram": "https://www.instagram.com/prime9news/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCLTZ5y21NnklrxpU5AfWd8w",
     "Language": "Telugu",
-    "Location ": "TELENGANA",
+    "Location": "TELENGANA",
     "Views": "472,160,464"
   },
   {
@@ -6620,7 +6620,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zeetelugunews/",
     "Youtube": "https://www.youtube.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg",
     "Language": "Telugu",
-    "Location ": "TELENGANA",
+    "Location": "TELENGANA",
     "Views": "130,178,530"
   },
   {
@@ -6634,7 +6634,7 @@ arr=[
     "Instagram": "https://www.instagram.com/altnews.in/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCdDjoZAtt6PjQKAbr2FTOAQ",
     "Language": "Haryavi and Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "10,164,303"
   },
   {
@@ -6648,40 +6648,40 @@ arr=[
     "Instagram": "https://www.instagram.com/punjabkesari/?hl=en",
     "Youtube": "https://www.youtube.com/c/PunjabKesariHaryana",
     "Language": "Panjabi / Haryanvi/ Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "545,964,300"
   },
   {
     "Name": "khabrain Abhi tak",
     "Address": " Gurgaon Sector 32, Gurgaon, DELHI ",
     "Link": "khabrainabhitak.org",
-    "Email": "\r\nkhabrainabhitaklive@gmail.com",
+    "Email": "khabrainabhitaklive@gmail.com",
     "Phone": 9814620899,
     "Facebook": "https://www.facebook.com/khabrainabhitaklive/",
     "Twitter": "KhabrainAbhiTak",
     "Instagram": "khabrainabhitak",
     "Youtube": "https://www.youtube.com/channel/UCay0q8cEQlusmaY3FYl13fQ",
     "Language": "Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "21,656,332"
   },
   {
     "Name": "Jantantra tv",
     "Address": "B-11, Shaheed Arjun Sardana Marg, Block B, Sector 4, Noida, Uttar Pradesh 201301",
     "Link": "jantantratv.com",
-    "Email": "\r\nlivejantantra@gmail.com",
+    "Email": "livejantantra@gmail.com",
     "Phone": "080771 65154",
     "Facebook": "https://www.facebook.com/jantantratvnews/",
     "Twitter": "https://twitter.com/JantantraTv",
     "Instagram": "https://www.instagram.com/jantantra_tv/?hl=en",
     "Youtube": "https://www.youtube.com/c/jantantratv/videos?view_as=subscriber",
     "Language": "Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "30,564,979"
   },
   {
     "Name": "News 18 Punjab/Haryana/Himachal",
-    "Address": " D/no: 6-3-902/a, 4th floor, plot no : 9, central plaza, rajbhavan road, somajiguda, Telangana - 500082.",
+    "Address": " D/no:6-3-902/a, 4th floor, plot no :9, central plaza, rajbhavan road, somajiguda, Telangana - 500082.",
     "Link": "hindi.news18.com",
     "Email": "editor@news18.com",
     "Phone": -4341847,
@@ -6690,7 +6690,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18hindi/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC-crZTQNRzZgzyighTKF0nQ",
     "Language": "Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "1,470,394,068"
   },
   {
@@ -6704,7 +6704,7 @@ arr=[
     "Instagram": "https://www.instagram.com/national_media_/",
     "Youtube": "https://www.youtube.com/channel/UCB_xvDMp8Lj8UR0lT3747cQ",
     "Language": "Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "6,650,314"
   },
   {
@@ -6718,7 +6718,7 @@ arr=[
     "Instagram": "voice_of_panipat",
     "Youtube": "https://www.youtube.com/channel/UCB26M9uNS0_W14kaCwRoOlA",
     "Language": "Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "37,941,316"
   },
   {
@@ -6732,27 +6732,27 @@ arr=[
     "Instagram": "https://www.instagram.com/silcharnewsnetwork/",
     "Youtube": "https://www.youtube.com/c/SilcharNews",
     "Language": "Hindi",
-    "Location ": "Haryana",
+    "Location": "Haryana",
     "Views": "31,904,365"
   },
   {
     "Name": "Tom TV",
     "Address": "Airport Manak Konjeng Leikai Imphal, Manipur, India 795003",
     "Link": "timesofmanipur.com",
-    "Email": "\r\nlamjingbatomtv@gmail.com",
+    "Email": "lamjingbatomtv@gmail.com",
     "Phone": "91 8837353352 ",
     "Facebook": "https://www.facebook.com/TOM-TV-280189335946407/",
     "Twitter": "https://twitter.com/tomtv38051531?lang=en",
     "Instagram": "https://www.instagram.com/tomtvlamjingba/?hl=en",
     "Youtube": "https://youtu.be/wtLhBpZMoDA",
     "Language": "Hindi",
-    "Location ": "Manipur",
+    "Location": "Manipur",
     "Views": "242,141,477"
   },
   {
     "Name": "Manipur Top Channel",
     "Address": "Moirang, Manipur, India 795133",
-    "Link": "",
+    "Link": "NA",
     "Email": "manipurtopchannelofficial@gmail.com",
     "Phone": 3852459564,
     "Facebook": "https://www.facebook.com/Manipur-Top-Channel-News-107084291454831/",
@@ -6760,13 +6760,13 @@ arr=[
     "Instagram": "https://www.instagram.com/manipuri.channel/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCpF89mPopIQI0yGaxhOEmIQ",
     "Language": "manipuri",
-    "Location ": "Manipur",
+    "Location": "Manipur",
     "Views": "100,146,574"
   },
   {
     "Name": "Manipur News Reader",
     "Address": "NA",
-    "Link": "",
+    "Link": "NA",
     "Email": "manipurnews579@gmail.com.",
     "Phone": "NA",
     "Facebook": "https://www.facebook.com/people/Manipuri-News-Reader/100064266037597/",
@@ -6774,7 +6774,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCTKREw5xkRJpB72XQJgFynA",
     "Language": "manipuri",
-    "Location ": "Manipur",
+    "Location": "Manipur",
     "Views": "22,589,938"
   },
   {
@@ -6788,21 +6788,21 @@ arr=[
     "Instagram": "https://www.instagram.com/dd_imphal/",
     "Youtube": "https://m.youtube.com/c/DoordarshanManipur",
     "Language": "Hindi",
-    "Location ": "Manipur",
+    "Location": "Manipur",
     "Views": "44,832,108"
   },
   {
     "Name": "Nirbhay",
-    "Address": "No - 102, Plot No : N 3/443 , Flat, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015",
+    "Address": "No - 102, Plot No :N 3/443 , Flat, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015",
     "Link": "nirbhay.readersum.com",
     "Email": "nirbhaynews@gmail.com",
     "Phone": 9937403435,
     "Facebook": "https://www.facebook.com/nirbhayodia/",
     "Twitter": "https://mobile.twitter.com/nirbhaynews",
     "Instagram": "https://www.instagram.com/nirbhaytube/",
-    "Youtube": "\r\nhttps://www.youtube.com/channel/UC_SkncCC8O5SuZ9GZ0pzp5A/",
+    "Youtube": "https://www.youtube.com/channel/UC_SkncCC8O5SuZ9GZ0pzp5A/",
     "Language": "odia",
-    "Location ": "Odisha",
+    "Location": "Odisha",
     "Views": "22,138,308"
   },
   {
@@ -6816,7 +6816,7 @@ arr=[
     "Instagram": "https://www.instagram.com/dd_odia/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCb2PljffkAo_19l8t68zP2w",
     "Language": "odia",
-    "Location ": "Odisha",
+    "Location": "Odisha",
     "Views": "45,226,424"
   },
   {
@@ -6830,21 +6830,21 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/690919742/bhubaneswar-india/zee-odisha-news/",
     "Youtube": "https://www.youtube.com/channel/UC33tp6m-j1pEmYnkYIzSdoQ",
     "Language": "odia",
-    "Location ": "Odisha",
+    "Location": "Odisha",
     "Views": "5,979,271"
   },
   {
     "Name": "News27",
-    "Address": "\r\nNo 35, North Phase,Ground Floor, 3rd Main Road, Ekkaduthangal Tamil Nadu, Tamil Nadu, India 600032",
+    "Address": "No 35, North Phase,Ground Floor, 3rd Main Road, Ekkaduthangal Tamil Nadu, Tamil Nadu, India 600032",
     "Link": "news27.com",
-    "Email": "\r\nvnews27tamil@gmail.com",
+    "Email": "vnews27tamil@gmail.com",
     "Phone": "080562 22022",
     "Facebook": "https://www.facebook.com/VNews27/",
     "Twitter": "https://twitter.com/vnews27?lang=en",
     "Instagram": "https://www.instagram.com/vnews27/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UClrAs5M9evFg_0W2-a8NB0g",
     "Language": "Hindi",
-    "Location ": "Odisha",
+    "Location": "Odisha",
     "Views": "8,306,208"
   },
   {
@@ -6858,12 +6858,12 @@ arr=[
     "Instagram": "https://www.instagram.com/tv9_kannada_official/",
     "Youtube": "https://www.youtube.com/user/tv9kannadanews",
     "Language": "kannada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "7,672,352,320"
   },
   {
     "Name": "Public TV",
-    "Address": "4th floor, TTMC, BMTC Building,\r\nYeshwanthpur Circle, Yeshwanthpur,\r\nBengaluru -560022",
+    "Address": "4th floor, TTMC, BMTC Building,Yeshwanthpur Circle, Yeshwanthpur,Bengaluru -560022",
     "Link": "publictv.in",
     "Email": " Digital@writemenmedia.com",
     "Phone": "080 235 74042",
@@ -6872,21 +6872,21 @@ arr=[
     "Instagram": "https://www.instagram.com/publictv/?hl=en",
     "Youtube": "www.youtube.com/publictv",
     "Language": "kannada Hindi",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "2,255,943,411"
   },
   {
     "Name": "Survana News 24*7",
     "Address": " No. 36, Opposite Mallige Hospital, Shivananda Circle, Gandhi Nagar, Crescent Road-560001",
     "Link": "kannada.asianetnews.com",
-    "Email": "\r\nsuvarnanewschannel@gmail.com",
+    "Email": "suvarnanewschannel@gmail.com",
     "Phone": "080 - 30556421",
     "Facebook": "https://www.facebook.com/suvarnanewschannel/",
     "Twitter": "https://twitter.com/asianetnewssn",
     "Instagram": "https://www.instagram.com/asianetsuvarnanews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCjElJyiXmQXnWmceQ1JyKrA",
     "Language": "kannada /Hindi",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "1,339,349,942"
   },
   {
@@ -6900,7 +6900,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news18kannada/",
     "Youtube": "https://www.youtube.com/channel/UCa-vioGhe2btBcZneaPonKA",
     "Language": "kannada /Hindi",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "719,643,706"
   },
   {
@@ -6908,13 +6908,13 @@ arr=[
     "Address": "K.S. Garden, Vinobha Nagar, Sudhama Nagar, Bengaluru, Karnataka 560002, India, Karnataka",
     "Link": "vijayavani.net",
     "Email": "dvlive24x7@gmail.com",
-    "Phone": "\r\n080 2253 7320",
+    "Phone": "080 2253 7320",
     "Facebook": "https://www.facebook.com/DighvijayNews/live_videos",
-    "Twitter": "\r\nDighvijayNews24",
-    "Instagram": "\r\ndighvijaynews",
+    "Twitter": "DighvijayNews24",
+    "Instagram": "dighvijaynews",
     "Youtube": "https://www.youtube.com/channel/UCU_Dzyqehuz3pVbZrOqOT3A",
     "Language": "Hindi",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "601,850,881"
   },
   {
@@ -6928,7 +6928,7 @@ arr=[
     "Instagram": "https://www.instagram.com/kasthurinews24/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCzFFF2OLaOk0z93ocNqH3aA",
     "Language": "Hindi/Kannada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "3,355,898"
   },
   {
@@ -6942,7 +6942,7 @@ arr=[
     "Instagram": "https://www.instagram.com/btvnews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC55LzMuR6ZeSpJMNCAfzb8w",
     "Language": "Hindi/Kannada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "258,640,513"
   },
   {
@@ -6950,13 +6950,13 @@ arr=[
     "Address": "No.31, TBR Tower New Mission Road, 1st A Cross J C Rd, Bengaluru, Karnataka 560027",
     "Link": "newsfirstlive.com",
     "Email": "contact@newsfirstlive.com",
-    "Phone": "\r\n080951 51785",
+    "Phone": "080951 51785",
     "Facebook": "https://www.instagram.com/newsfirstkannadaa/?hl=en",
     "Twitter": "https://twitter.com/newsfirstkan",
     "Instagram": "https://www.instagram.com/newsfirstkannadaa/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCFRlIV1mX-traJb5fd7S3nw",
     "Language": "Kannada",
-    "Location ": "KARNATAKA",
+    "Location": "KARNATAKA",
     "Views": "2,002,552,803"
   },
   {
@@ -6970,7 +6970,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newstamiltv24x7/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC2kfHjQkMQ2NGx3uv_L6Hwg",
     "Language": "Tamil",
-    "Location ": "TAMIL NADU",
+    "Location": "TAMIL NADU",
     "Views": "503,577"
   },
   {
@@ -6984,7 +6984,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news100_tv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCpLM_4NUnBYq0h3gruX0qQw",
     "Language": "Hindi",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "19,786,396"
   },
   {
@@ -6998,7 +6998,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ddnews_official/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCx55tefMzKkaA0uDmj9g2XA",
     "Language": "Hindi",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "36,767,994"
   },
   {
@@ -7012,7 +7012,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news24upuk/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UC2LMxF5cbXIaej5ifKTQ6WQ",
     "Language": "Hindi",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "262,061,455"
   },
   {
@@ -7026,7 +7026,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newsstate/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCeNP3dAy9_A32IWYZq_PZMQ",
     "Language": "Hindi",
-    "Location ": "UTTARAKHAND",
+    "Location": "UTTARAKHAND",
     "Views": "328,077,172"
   },
   {
@@ -7040,7 +7040,7 @@ arr=[
     "Instagram": "https://www.instagram.com/doordarshanUttar Pradesh/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCxtPipsf2nUZ9xM33TPe93Q",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "17,422,317"
   },
   {
@@ -7054,7 +7054,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCHpuXK7g2hvv3vS7ZZoc0Hg",
     "Language": "English",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "64,964"
   },
   {
@@ -7068,7 +7068,7 @@ arr=[
     "Instagram": "https://www.instagram.com/Uttar Pradeshnews18/",
     "Youtube": "https://www.youtube.com/channel/UCafYgzpyw7aIUYOLjjADu7w?feature=emb_ch_name_ex",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "924,090,417"
   },
   {
@@ -7082,7 +7082,7 @@ arr=[
     "Instagram": "https://www.instagram.com/zeenews/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCWmwc3u2ikBG2Xfitc_26gg",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "562,421,761"
   },
   {
@@ -7096,7 +7096,7 @@ arr=[
     "Instagram": "https://www.instagram.com/seatodaynews/reels/",
     "Youtube": "https://www.youtube.com/c/SeaNewsAgra",
     "Language": "Hindi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "9,051,802"
   },
   {
@@ -7110,7 +7110,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news.a2z/",
     "Youtube": "https://m.youtube.com/channel/UCGaJ6-ScmTYwjTpAml2xm6A",
     "Language": "English, Hindi, Marathi",
-    "Location ": "UTTAR PRADESH",
+    "Location": "UTTAR PRADESH",
     "Views": "2,977,980"
   },
   {
@@ -7124,7 +7124,7 @@ arr=[
     "Instagram": "https://www.instagram.com/newsupdateoftripura/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCirxbgwda-9aABPhZWnR2IQ",
     "Language": "Bengali",
-    "Location ": "Tripura",
+    "Location": "Tripura",
     "Views": "9,290,923"
   },
   {
@@ -7138,7 +7138,7 @@ arr=[
     "Instagram": "https://www.instagram.com/pratibadikalam.pb24/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UClbNJCw6r11-DDP39hi-Ghg",
     "Language": "Bengali",
-    "Location ": "Tripura",
+    "Location": "Tripura",
     "Views": "48,349,790"
   },
   {
@@ -7152,7 +7152,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCl2zJJzviTakA_nNtIy5gSw/videos?view=0&sort=da&flow=grid",
     "Language": "Hindi",
-    "Location ": "Tripura",
+    "Location": "Tripura",
     "Views": "99,717"
   },
   {
@@ -7166,7 +7166,7 @@ arr=[
     "Instagram": "https://www.instagram.com/khabrainabhitak/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCay0q8cEQlusmaY3FYl13fQ",
     "Language": "Hindi",
-    "Location ": "Himachal Pradesh",
+    "Location": "Himachal Pradesh",
     "Views": "21,627,616"
   },
   {
@@ -7180,7 +7180,7 @@ arr=[
     "Instagram": "https://www.instagram.com/ddnewshimachal/",
     "Youtube": "https://www.youtube.com/channel/UCk7z_r3wcBHrui7pdYvT3cw",
     "Language": "Hindi",
-    "Location ": "Himachal Pradesh",
+    "Location": "Himachal Pradesh",
     "Views": "2,094,242"
   },
   {
@@ -7194,7 +7194,7 @@ arr=[
     "Instagram": "https://www.instagram.com/himachaldastak/?hl=en",
     "Youtube": "https://www.youtube.com/c/HimachalDastakTV/videos",
     "Language": "Hindi",
-    "Location ": "Himachal Pradesh",
+    "Location": "Himachal Pradesh",
     "Views": "1,303,377"
   },
   {
@@ -7208,7 +7208,7 @@ arr=[
     "Instagram": "https://www.instagram.com/explore/locations/1024352350/india/ranga-reddy-india/etv-bharat-himachal-pradesh/",
     "Youtube": "https://www.youtube.com/c/etvbharathimachalpradesh",
     "Language": "Himachali",
-    "Location ": "Himachal Pradesh",
+    "Location": "Himachal Pradesh",
     "Views": "651,512"
   },
   {
@@ -7222,7 +7222,7 @@ arr=[
     "Instagram": "https://www.instagram.com/sm_news_himachal/",
     "Youtube": "https://www.youtube.com/c/smnewshimachal/about",
     "Language": "Hindi",
-    "Location ": "Himachal Pradesh",
+    "Location": "Himachal Pradesh",
     "Views": "304,057"
   },
   {
@@ -7236,7 +7236,7 @@ arr=[
     "Instagram": "https://www.instagram.com/news11bharat/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UClTcd0dKpdq5j3c6haWjzVw",
     "Language": "Hindi",
-    "Location ": "JHARKHAND",
+    "Location": "JHARKHAND",
     "Views": "38,380,280"
   },
   {
@@ -7250,7 +7250,7 @@ arr=[
     "Instagram": "https://www.instagram.com/khulasa24live/",
     "Youtube": "https://www.youtube.com/channel/UCsXMTmkejnMKGZ6KTMZb-cw",
     "Language": "Hindi",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "1,156,657"
   },
   {
@@ -7264,12 +7264,12 @@ arr=[
     "Instagram": "https://instagram.com/SadhnaNewsNational",
     "Youtube": "https://www.youtube.com/channel/UCaeak30SNQ7-Z46MEKv_JgQ",
     "Language": "Hindi",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "924,931"
   },
   {
     "Name": "Dakhal news",
-    "Address": "Dakhal news len, BM-60, Link Rd Number 3, Nehru Nagar, Bhopal, MADHYA PRADESH 462003",
+    "Address": "Dakhal news len, BM-60, LinkRd Number 3, Nehru Nagar, Bhopal, MADHYA PRADESH 462003",
     "Link": "dakhal.net",
     "Email": "dakhalnews1@gmail.com",
     "Phone": "0755 276 4444",
@@ -7278,7 +7278,7 @@ arr=[
     "Instagram": "https://www.instagram.com/dakhalnews/",
     "Youtube": "https://www.youtube.com/channel/UC0Awas_MFKI1J6gfjYvSMaQ",
     "Language": "Hindi",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "334,069"
   },
   {
@@ -7292,13 +7292,13 @@ arr=[
     "Instagram": "https://www.instagram.com/sarthaknewschanel/",
     "Youtube": "https://www.youtube.com/channel/UCbTnVHmrg9jjk0JMKQtOSTw",
     "Language": "Hindi",
-    "Location ": "MADHYA PRADESH",
+    "Location": "MADHYA PRADESH",
     "Views": "105,307"
   },
   {
     "Name": "DD Shillong",
     "Address": "Shillong",
-    "Link": "",
+    "Link": "NA",
     "Email": "rnuddkshillong@gmail.com",
     "Phone": "NA",
     "Facebook": "https://ms-my.facebook.com/DDNewsShillong1/videos/dd-shillong-news-this-hour-25-june-2022/997428647621222/",
@@ -7306,7 +7306,7 @@ arr=[
     "Instagram": "NA",
     "Youtube": "https://www.youtube.com/channel/UCKRTjE7jVnVXHIokTQJg8_Q",
     "Language": "English",
-    "Location ": "MRGHALAYA",
+    "Location": "MRGHALAYA",
     "Views": "7,408,900"
   },
   {
@@ -7320,7 +7320,7 @@ arr=[
     "Instagram": "https://www.instagram.com/dd_mizoram/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UChh3hbbPv5ljfz4UAKcAOlg",
     "Language": "English",
-    "Location ": "Mizoram",
+    "Location": "Mizoram",
     "Views": "42,830,111"
   },
   {
@@ -7334,7 +7334,7 @@ arr=[
     "Instagram": "https://www.instagram.com/cornerstonetv/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCzKxOiExRrkt9YR1ra_HKuw",
     "Language": "English",
-    "Location ": "Nagaland",
+    "Location": "Nagaland",
     "Views": "17,572,372"
   },
   {
@@ -7348,12 +7348,12 @@ arr=[
     "Instagram": "https://www.instagram.com/thesikkimchronicle/?hl=en",
     "Youtube": "https://www.youtube.com/channel/UCcwlzxkvBYAVRfo7gSBC61g",
     "Language": "English",
-    "Location ": "Nagaland",
+    "Location": "Nagaland",
     "Views": "22,378,229"
   }
 ]
 
-url='https://kiran-server-hawkey.vercel.app/website'
+url='https://kiran-server-hawkey.vercel.app/channel'
 
 
 print(len(arr))
